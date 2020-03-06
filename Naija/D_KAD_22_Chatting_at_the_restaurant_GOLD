@@ -1,1 +1,18 @@
-nice message
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_1
+# sent_translation = There was one lady , she just entered the shop.
+# speaker = D_KAD_22@Sp1_01:Sophia Mamadu (Sp204)
+# text = e get one lady < hm she just enter inside shop o //
+# timestamp = 1581882668.326585
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	subj:expl	_	endali=1911|startali=1640
+2	get	get	VERB	_	_	9	parataxis:dislocated	_	endali=2182|startali=1911
+3	one	one	DET	_	Definite=Spec|PronType=Art	4	det	_	endali=2453|startali=2182
+4	lady	lady	NOUN	_	_	2	comp:quasi	_	endali=2724|startali=2453
+5	<	<	PUNCT	_	_	2	punct	_	endali=2724|startali=2724
+6	hm	hm	INTJ	_	_	9	discourse	_	endali=2995|startali=2724
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	subj	_	endali=3265|startali=2995
+8	just	just	ADV	_	_	9	mod	_	endali=3536|startali=3265
+9	enter	enter	VERB	_	_	0	root	_	endali=3807|startali=3536
+10	inside	inside	ADP	_	_	9	comp:obl	_	endali=4078|startali=3807
+11	shop	shop	NOUN	_	_	10	comp	_	endali=4349|startali=4078
+12	o	o	PART	_	PartType=Disc	11	mod:emph	_	endali=4620|startali=4349
+13	//	//	PUNCT	_	_	9	punct	_	endali=4620|startali=4620
