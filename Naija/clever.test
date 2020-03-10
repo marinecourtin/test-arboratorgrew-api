@@ -3,10 +3,10 @@
 # sent_id = P_BEN_36_Clever-girl_PRO_2
 # sent_translation = #  There was this
 # text = # [eng dere was dis eh eng] & //
-# timestamp = 1583851108337
+# timestamp = 1583872090395
 1	#	_	PUNCT	_	endali=7680|startali=5880	4	punct	_	_
 2	[eng	_	PUNCT	_	endali=7680|startali=7650	4	punct	_	_
-3	dere	_	PRON	_	endali=7873|startali=7680	4	subj:expl	_	_
+3	dere	_	PART	_	endali=7873|startali=7680	4	subj:expl	_	_
 4	was	be	VERB	_	AUX  Mood=Ind|endali=8140|Number=Sing|Pers=3|startali=7873|Tense=Past|VerbForm=Fin	0	root	_	_
 5	dis	_	INTJ	_	endali=8489|Number=Sing|PronType=Prox|startali=8140	8	det	_	_
 6	eh	_	INTJ	_	endali=8901|startali=8519	5	discourse	_	_
@@ -15,12 +15,12 @@
 9	//	_	PUNCT	_	endali=8931|startali=8901	4	punct	_	_
 
 
-# user_id = marinecourtin
 # elan_id = BEN_36_M_001 BEN_36_M_002 BEN_36_M_003 BEN_36_M_004 BEN_36_M_005
 # sent_id = P_BEN_36_Clever-girl_PRO_1
 # sent_translation = A clever girl # who has { sense, wisdom } more than the King.
 # text = clever girl # wey get sense pass # di king //
 # timestamp = 1583851758991
+# user_id = marinecourtin
 1	clever	_	ADJ	_	endali=2669|startali=2212	2	dep	_	_
 2	girl	_	NOUN	_	endali=3020|startali=2669	0	root	_	_
 3	#	_	PUNCT	_	endali=3720|startali=3020	4	punct	_	_
