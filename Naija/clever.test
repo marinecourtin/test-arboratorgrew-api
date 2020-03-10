@@ -1,1 +1,34 @@
-dummy content
+# user_id = marinecourtin
+# elan_id = BEN_36_M_006 BEN_36_M_007
+# sent_id = P_BEN_36_Clever-girl_PRO_2
+# sent_translation = #  There was this
+# text = # [eng dere was dis eh eng] & //
+# timestamp = 1583851108337
+1	#	_	PUNCT	_	endali=7680|startali=5880	4	punct	_	_
+2	[eng	_	PUNCT	_	endali=7680|startali=7650	4	punct	_	_
+3	dere	_	PRON	_	endali=7873|startali=7680	4	subj:expl	_	_
+4	was	be	VERB	_	AUX  Mood=Ind|endali=8140|Number=Sing|Pers=3|startali=7873|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dis	_	INTJ	_	endali=8489|Number=Sing|PronType=Prox|startali=8140	8	det	_	_
+6	eh	_	INTJ	_	endali=8901|startali=8519	5	discourse	_	_
+7	eng]	_	PUNCT	_	endali=8931|startali=8901	5	punct	_	_
+8	&	_	X	_	endali=8931|startali=8901	4	comp:quasi	_	_
+9	//	_	PUNCT	_	endali=8931|startali=8901	4	punct	_	_
+
+
+# user_id = marinecourtin
+# elan_id = BEN_36_M_001 BEN_36_M_002 BEN_36_M_003 BEN_36_M_004 BEN_36_M_005
+# sent_id = P_BEN_36_Clever-girl_PRO_1
+# sent_translation = A clever girl # who has { sense, wisdom } more than the King.
+# text = clever girl # wey get sense pass # di king //
+# timestamp = 1583851758991
+1	clever	_	ADJ	_	endali=2669|startali=2212	2	dep	_	_
+2	girl	_	NOUN	_	endali=3020|startali=2669	0	root	_	_
+3	#	_	PUNCT	_	endali=3720|startali=3020	4	punct	_	_
+4	wey	_	SCONJ	_	endali=3840|startali=3720	2	dep	_	_
+5	get	_	VERB	_	endali=3980|startali=3840	4	comp	_	_
+6	sense	_	NOUN	_	endali=4480|startali=3980	5	comp:obj	_	_
+7	pass	_	VERB	_	endali=4840|startali=4480	5	compound:svc	_	_
+8	#	_	PUNCT	_	endali=5300|startali=4840	10	punct	_	_
+9	di	_	DET	_	Definite=Def|endali=5449|PronType=Art|startali=5300	10	det	_	_
+10	king	_	NOUN	_	endali=5850|startali=5449	7	comp:obj	_	_
+11	//	_	PUNCT	_	endali=5880|startali=5850	2	punct	_	_
