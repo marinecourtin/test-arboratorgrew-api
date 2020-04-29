@@ -1,11 +1,11 @@
 # sent_id = ParisStories_2019_choixPostLicence_1
 # text = J'ai dû beaucoup travailler sur , euh , les notions de licence une , parce que , enfin , je me suis rendu compte , en vrai , que l'équivalence ne préparait pas autant que , euh , qu'une vrai année de fac .
-# timestamp = 1588171868.666198
+# timestamp = 1588172947241
 1	J'	je	PRON	_	_	2	subj	_	SpaceAfter=No
 2	ai	avoir	AUX	_	_	0	root	_	_
 3	dû	devoir	VERB	_	_	2	comp:aux	_	_
 4	beaucoup	beaucoup	ADV	_	_	5	mod	_	_
-5	travailler	travailler	VERB	_	_	3	comp:obj@x	_	_
+5	travailler	travailler	VERB	_	_	3	comp:obj	_	_
 6	sur	sur	ADP	_	_	5	comp:obl	_	_
 7	,	_	PUNCT	_	_	11	punct	_	_
 8	euh	euh	INTJ	_	_	11	discourse	_	_
