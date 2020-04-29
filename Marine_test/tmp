@@ -2,8 +2,8 @@
 # sent_id = P_BEN_36_Clever-girl_PRO_1
 # sent_translation = A clever girl # who has { sense, wisdom } more than the King.
 # text = clever girl # wey get sense pass # di king //
-# timestamp = 1576148288.178904
-1	clever	_	ADJ	_	endali=2669|startali=2212	2	dep	_	_
+# timestamp = 1588177320931
+1	clever	_	X	_	endali=2669|startali=2212	2	dep	_	_
 2	girl	_	NOUN	_	endali=3020|startali=2669	0	root	_	_
 3	#	_	PUNCT	_	endali=3720|startali=3020	4	punct	_	_
 4	wey	_	SCONJ	_	endali=3840|startali=3720	2	dep	_	_
