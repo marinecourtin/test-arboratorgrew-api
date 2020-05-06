@@ -1,0 +1,3144 @@
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_1
+# sent_translation = There was one lady , she just entered the shop.
+# speaker = D_KAD_22@Sp1_01:Sophia Mamadu (Sp204)
+# text = e get one lady < hm she just enter inside shop o //
+# timestamp = 1588784066489
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	subj:expl	_	endali=1911|startali=1640
+2	get	get	NOUN	_	_	9	parataxis:dislocated	_	endali=2182|startali=1911
+3	one	one	DET	_	Definite=Spec|PronType=Art	4	det	_	endali=2453|startali=2182
+4	lady	lady	NOUN	_	_	2	comp:quasi	_	endali=2724|startali=2453
+5	<	<	PUNCT	_	_	2	punct	_	endali=2724|startali=2724
+6	hm	hm	INTJ	_	_	9	discourse	_	endali=2995|startali=2724
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	subj	_	endali=3265|startali=2995
+8	just	just	ADV	_	_	9	mod	_	endali=3536|startali=3265
+9	enter	enter	VERB	_	_	0	root	_	endali=3807|startali=3536
+10	inside	inside	ADP	_	_	9	comp:obl	_	endali=4078|startali=3807
+11	shop	shop	NOUN	_	_	10	comp	_	endali=4349|startali=4078
+12	o	o	PART	_	PartType=Disc	11	mod:emph	_	endali=4620|startali=4349
+13	//	//	PUNCT	_	_	9	punct	_	endali=4620|startali=4620
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_2
+# sent_translation = Then she said she wanted to do facials.
+# speaker = D_KAD_22@Sp1_02:Sophia Mamadu (Sp204)
+# text = naim she say [ she wan do facials ] //
+# timestamp = 1581882668.326667
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=4880|startali=4620
+2	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=5140|startali=4880
+3	say	say	VERB	_	_	0	root	_	endali=5400|startali=5140
+4	[	[	PUNCT	_	_	6	punct	_	endali=5400|startali=5400
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=5660|startali=5400
+6	wan	want	VERB	_	_	3	parataxis:obj	_	endali=5920|startali=5660
+7	do	do	VERB	_	_	6	comp:pred	_	endali=6180|startali=5920
+8	facials	facial	NOUN	_	Number=Plur	7	comp:obj	_	endali=6440|startali=6180
+9	]	]	PUNCT	_	_	6	punct	_	endali=6440|startali=6440
+10	//	//	PUNCT	_	_	3	punct	_	endali=6440|startali=6440
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_3
+# sent_translation = "I now told her ""Okay madam , you need to steam your face."""
+# speaker = D_KAD_22@Sp1_03:Sophia Mamadu (Sp204)
+# text = I con tell her sey [ okay madam < you need to steam your face //] //
+# timestamp = 1581882668.326675
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=7929|startali=7755
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=8103|startali=7929
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=8278|startali=8103
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=8452|startali=8278
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=8626|startali=8452
+6	[	[	PUNCT	_	_	11	punct	_	endali=8626|startali=8626
+7	okay	OK	INTJ	_	_	11	discourse	_	endali=8800|startali=8626
+8	madam	Madam	NOUN	_	_	11	vocative	_	endali=8975|startali=8800
+9	<	<	PUNCT	_	_	8	punct	_	endali=8975|startali=8975
+10	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	11	subj	_	endali=9149|startali=8975
+11	need	need	VERB	_	_	5	comp	_	endali=9323|startali=9149
+12	to	to	ADP	_	_	11	comp:pred	_	endali=9497|startali=9323
+13	steam	steam	VERB	_	_	12	comp	_	endali=9672|startali=9497
+14	your	your	ADJ	_	Person=2|Poss=Yes	15	dep	_	endali=9846|startali=9672
+15	face	face	NOUN	_	_	13	comp:obj	_	endali=10020|startali=9846
+16	//]	//]	PUNCT	_	_	11	punct	_	endali=10020|startali=10020
+17	//	//	PUNCT	_	_	2	punct	_	endali=10020|startali=10020
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_4
+# sent_translation = "She said ""Ah ! what is the meaning of steaming?"""
+# speaker = D_KAD_22@Sp1_04:Sophia Mamadu (Sp204)
+# text = she say [ ah wetin be meaning of steaming ?// ] //
+# timestamp = 1581882668.326682
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=10208|startali=10020
+2	say	say	VERB	_	_	0	root	_	endali=10396|startali=10208
+3	[	[	PUNCT	_	_	5	punct	_	endali=10396|startali=10396
+4	ah	ah	INTJ	_	_	5	discourse	_	endali=10584|startali=10396
+5	wetin	wetin	PRON	_	PronType=Int	2	parataxis:obj	_	endali=10772|startali=10584
+6	be	be	VERB	_	PartType=Cop	5	comp:cleft	_	endali=10961|startali=10772
+7	meaning	meaning	NOUN	_	_	6	comp:pred	_	endali=11149|startali=10961
+8	of	of	ADP	_	_	7	dep	_	endali=11337|startali=11149
+9	steaming	stea	NOUN	_	_	8	comp	_	endali=11525|startali=11337
+10	?//	?//	PUNCT	_	_	5	punct	_	endali=11525|startali=11525
+11	]	]	PUNCT	_	_	5	punct	_	endali=11525|startali=11525
+12	//	//	PUNCT	_	_	2	punct	_	endali=11525|startali=11525
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_5
+# sent_translation = Is it the one we will use a bath and get into it , put her face inside , eh , put her face inside.
+# speaker = D_KAD_22@Sp1_05:Sophia Mamadu (Sp204)
+# text = shey na di one wey we go { use ehn bath take enter inside || ehn put her face inside } //
+# timestamp = 1581882668.326687
+1	shey	shey	PART	_	PronType=Int	2	discourse	_	endali=12377|startali=12120
+2	na	na	PART	_	PartType=Cop	0	root	_	endali=12634|startali=12377
+3	di	the	DET	_	Definite=Def|PronType=Art	4	det	_	endali=12892|startali=12634
+4	one	one	NOUN	_	_	2	comp:pred	_	endali=13149|startali=12892
+5	wey	when	SCONJ	_	_	4	dep	_	endali=13406|startali=13149
+6	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	subj	_	endali=13663|startali=13406
+7	go	go	AUX	_	Aspect=Prosp	5	comp	_	endali=13921|startali=13663
+8	{	{	PUNCT	_	_	9	punct	_	endali=13921|startali=13921
+9	use	use	VERB	_	_	7	comp:aux	_	endali=14178|startali=13921
+10	ehn	ehn	INTJ	_	_	11	discourse	_	endali=14435|startali=14178
+11	bath	bath	NOUN	_	_	9	comp:obj	_	endali=14692|startali=14435
+12	take	take	VERB	_	_	9	compound:svc	_	endali=14949|startali=14692
+13	enter	enter	VERB	_	_	12	compound:svc	_	endali=15207|startali=14949
+14	inside	inside	ADP	_	_	13	comp:obl	_	endali=15464|startali=15207
+15	||	||	PUNCT	_	_	17	punct	_	endali=15464|startali=15464
+16	ehn	ehn	INTJ	_	_	17	discourse	_	endali=15721|startali=15464
+17	put	put	VERB	_	_	9	conj:dicto	_	endali=15978|startali=15721
+18	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	19	dep	_	endali=16236|startali=15978
+19	face	face	NOUN	_	_	17	comp:obj	_	endali=16493|startali=16236
+20	inside	inside	ADP	_	_	17	comp:obl	_	endali=16750|startali=16493
+21	}	}	PUNCT	_	_	9	punct	_	endali=16750|startali=16750
+22	//	//	PUNCT	_	_	2	punct	_	endali=16750|startali=16750
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_6
+# sent_translation = It is a pity for that woman?
+# speaker = D_KAD_22@Sp2_001:Godwin Joy Elego (Sp205)
+# text = na wa for dat woman o !//
+# timestamp = 1581882668.326693
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=15382|startali=15240
+2	wa	X	INTJ	_	_	1	comp:pred	_	endali=15523|startali=15382
+3	for	for	ADP	_	_	2	comp:obl	_	endali=15665|startali=15523
+4	dat	dat	DET	_	Number=Sing|PronType=Dem	5	det	_	endali=15807|startali=15665
+5	woman	woman	NOUN	_	_	3	comp	_	endali=15948|startali=15807
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=16090|startali=15948
+7	!//	!//	PUNCT	_	_	1	punct	_	endali=16090|startali=16090
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_7
+# sent_translation = Where is she from?
+# speaker = D_KAD_22@Sp2_002:Godwin Joy Elego (Sp205)
+# text = where she comot from ?//
+# timestamp = 1581882668.326699
+1	where	where	ADV	_	PronType=Int	0	root	_	endali=16288|startali=16090
+2	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=16485|startali=16288
+3	comot	comot	VERB	_	_	1	comp:cleft	_	endali=16682|startali=16485
+4	from	from	ADP	_	_	3	comp:obl	_	endali=16880|startali=16682
+5	?//	?//	PUNCT	_	_	1	punct	_	endali=16880|startali=16880
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_8
+# sent_translation = I dont , I do not know.
+# speaker = D_KAD_22@Sp1_06:Sophia Mamadu (Sp204)
+# text = { I no || I no } know //
+# timestamp = 1581882668.326704
+1	{	{	PUNCT	_	_	2	punct	_	endali=16750|startali=16750
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	subj	_	endali=17066|startali=16750
+3	no	no	PART	_	Polarity=Neg	2	orphan	_	endali=17382|startali=17066
+4	||	||	PUNCT	_	_	6	punct	_	endali=17382|startali=17382
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	subj	_	endali=17698|startali=17382
+6	no	no	PART	_	Polarity=Neg	2	conj:dicto	_	endali=18014|startali=17698
+7	}	}	PUNCT	_	_	2	punct	_	endali=18014|startali=18014
+8	know	know	VERB	_	_	0	root	_	endali=18330|startali=18014
+9	//	//	PUNCT	_	_	8	punct	_	endali=18330|startali=18330
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_9
+# sent_translation = Which village is she from please?
+# speaker = D_KAD_22@Sp2_003:Godwin Joy Elego (Sp205)
+# text = na which village she comot from abeg ?//
+# timestamp = 1581882668.32671
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=17246|startali=16880
+2	which	which	DET	_	PronType=Int	3	dep	_	endali=17611|startali=17246
+3	village	village	NOUN	_	_	1	comp:pred	_	endali=17977|startali=17611
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=18343|startali=17977
+5	comot	comot	VERB	_	_	1	comp:cleft	_	endali=18709|startali=18343
+6	from	from	ADP	_	_	5	comp:obl	_	endali=19074|startali=18709
+7	abeg	abeg	INTJ	_	_	6	comp	_	endali=19440|startali=19074
+8	?//	?//	PUNCT	_	_	1	punct	_	endali=19440|startali=19440
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_10
+# sent_translation = I do not know where she came from.
+# speaker = D_KAD_22@Sp1_07:Sophia Mamadu (Sp204)
+# text = I no know where she comot from o !//
+# timestamp = 1581882668.326716
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=18529|startali=18330
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=18728|startali=18529
+3	know	know	VERB	_	_	0	root	_	endali=18926|startali=18728
+4	where	where	ADV	_	PronType=Int	3	comp:obj	_	endali=19125|startali=18926
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=19324|startali=19125
+6	comot	comot	VERB	_	_	4	dep	_	endali=19522|startali=19324
+7	from	from	ADP	_	_	6	comp:obl	_	endali=19721|startali=19522
+8	o	o	PART	_	PartType=Disc	7	mod:emph	_	endali=19920|startali=19721
+9	!//	!//	PUNCT	_	_	3	punct	_	endali=19920|startali=19920
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_11
+# sent_translation = Mstchew!
+# speaker = D_KAD_22@Sp2_004:Godwin Joy Elego (Sp205)
+# text = mstchew !//
+# timestamp = 1581882668.326722
+1	mstchew	mstchew	INTJ	_	_	0	root	_	endali=19960|startali=19440
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=19960|startali=19960
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_12
+# sent_translation = Then I took her to the spare room.
+# speaker = D_KAD_22@Sp1_08:Sophia Mamadu (Sp204)
+# text = I con gast carry her go di spare room //
+# timestamp = 1581882668.326727
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=20102|startali=19920
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=20284|startali=20102
+3	gast	gast	VERB	_	_	2	comp:aux	_	endali=20467|startali=20284
+4	carry	carry	VERB	_	_	3	compound:svc	_	endali=20649|startali=20467
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	comp:obj	_	endali=20831|startali=20649
+6	go	go	VERB	_	_	4	compound:svc	_	endali=21013|startali=20831
+7	di	the	DET	_	Definite=Def|PronType=Art	9	det	_	endali=21196|startali=21013
+8	spare	spare	ADJ	_	_	9	dep	_	endali=21378|startali=21196
+9	room	room	NOUN	_	_	6	comp:obj	_	endali=21560|startali=21378
+10	//	//	PUNCT	_	_	2	punct	_	endali=21560|startali=21560
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_13
+# sent_translation = "Then , I explain to her ""See how the machine is , it will steam your face."""
+# speaker = D_KAD_22@Sp1_09:Sophia Mamadu (Sp204)
+# text = com explain to her sey [ see how di machine be //= you go steam your face //] //
+# timestamp = 1581882668.326733
+1	com	com	NOUN	_	_	2	dep	_	endali=21824|startali=21560
+2	explain	explain	NOUN	_	_	0	root	_	endali=22088|startali=21824
+3	to	to	ADP	_	_	2	comp:obl	_	endali=22352|startali=22088
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp	_	endali=22616|startali=22352
+5	sey	sey	SCONJ	_	_	2	comp:obj	_	endali=22880|startali=22616
+6	[	[	PUNCT	_	_	7	punct	_	endali=22880|startali=22880
+7	see	see	VERB	_	_	5	comp	_	endali=23144|startali=22880
+8	how	how	ADV	_	PronType=Int	7	comp:obj	_	endali=23408|startali=23144
+9	di	the	DET	_	Definite=Def|PronType=Art	10	det	_	endali=23672|startali=23408
+10	machine	machine	NOUN	_	_	11	subj	_	endali=23936|startali=23672
+11	be	be	VERB	_	PartType=Cop	8	dep	_	endali=24200|startali=23936
+12	//=	//=	PUNCT	_	_	14	punct	_	endali=24200|startali=24200
+13	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	14	subj	_	endali=24464|startali=24200
+14	go	go	AUX	_	Aspect=Prosp	7	parataxis:conj	_	endali=24728|startali=24464
+15	steam	steam	VERB	_	_	14	comp:aux	_	endali=24992|startali=24728
+16	your	your	ADJ	_	Person=2|Poss=Yes	17	dep	_	endali=25256|startali=24992
+17	face	face	NOUN	_	_	15	comp:obj	_	endali=25520|startali=25256
+18	//]	//]	PUNCT	_	_	7	punct	_	endali=25520|startali=25520
+19	//	//	PUNCT	_	_	2	punct	_	endali=25520|startali=25520
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_14
+# sent_translation = "She said ""Ah! why... ?"""
+# speaker = D_KAD_22@Sp1_10:Sophia Mamadu (Sp204)
+# text = she say [ ah !// why ?//] //
+# timestamp = 1581882668.326739
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=25908|startali=25520
+2	say	say	VERB	_	_	0	root	_	endali=26295|startali=25908
+3	[	[	PUNCT	_	_	4	punct	_	endali=26295|startali=26295
+4	ah	ah	INTJ	_	_	2	parataxis:obj	_	endali=26682|startali=26295
+5	!//	!//	PUNCT	_	_	2	punct	_	endali=26682|startali=26682
+6	why	why	ADV	_	PronType=Int	2	parataxis:obj	_	endali=27070|startali=26682
+7	?//]	?//]	PUNCT	_	_	6	punct	_	endali=27070|startali=27070
+8	//	//	PUNCT	_	_	2	punct	_	endali=27070|startali=27070
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_15
+# sent_translation = She doesn't watch steaming , ehn the way they do facials on television?
+# speaker = D_KAD_22@Sp2_005:Godwin Joy Elego (Sp205)
+# text = she no dey watch { steaming ehn || di way dem dey facial for inside television } ?//
+# timestamp = 1581882668.326745
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=26654|startali=26430
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=26877|startali=26654
+3	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=27101|startali=26877
+4	watch	watch	VERB	_	_	3	comp:aux	_	endali=27324|startali=27101
+5	{	{	PUNCT	_	_	6	punct	_	endali=27324|startali=27324
+6	steaming	stea	NOUN	_	_	4	comp:obj	_	endali=27548|startali=27324
+7	ehn	ehn	INTJ	_	_	6	discourse	_	endali=27771|startali=27548
+8	||	||	PUNCT	_	_	10	punct	_	endali=27771|startali=27771
+9	di	the	DET	_	Definite=Def|PronType=Art	10	det	_	endali=27995|startali=27771
+10	way	way	NOUN	_	_	6	conj:dicto	_	endali=28219|startali=27995
+11	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	subj	_	endali=28442|startali=28219
+12	dey	dey	AUX	_	Aspect=Imp	10	dep	_	endali=28666|startali=28442
+13	facial	facial	VERB	_	_	12	comp:aux	_	endali=28889|startali=28666
+14	for	for	ADP	_	_	13	comp:obl	_	endali=29113|startali=28889
+15	inside	inside	ADP	_	_	14	fixed	_	endali=29336|startali=29113
+16	television	television	NOUN	_	_	14	comp	_	endali=29560|startali=29336
+17	}	}	PUNCT	_	_	6	punct	_	endali=29560|startali=29560
+18	?//	?//	PUNCT	_	_	3	punct	_	endali=29560|startali=29560
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_16
+# sent_translation = She does not watch it.
+# speaker = D_KAD_22@Sp1_11:Sophia Mamadu (Sp204)
+# text = she no dey watch am o //
+# timestamp = 1581882668.326751
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=29653|startali=29465
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=29842|startali=29653
+3	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=30030|startali=29842
+4	watch	watch	VERB	_	_	3	comp:aux	_	endali=30218|startali=30030
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	endali=30407|startali=30218
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=30595|startali=30407
+7	//	//	PUNCT	_	_	3	punct	_	endali=30595|startali=30595
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_17
+# sent_translation = It is a pity.
+# speaker = D_KAD_22@Sp2_006:Godwin Joy Elego (Sp205)
+# text = na wa for her o //
+# timestamp = 1581882668.326756
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=30850|startali=30595
+2	wa	X	INTJ	_	_	1	comp:pred	_	endali=31105|startali=30850
+3	for	for	ADP	_	_	2	comp:obl	_	endali=31360|startali=31105
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp	_	endali=31615|startali=31360
+5	o	o	PART	_	PartType=Disc	4	mod:emph	_	endali=31870|startali=31615
+6	//	//	PUNCT	_	_	1	punct	_	endali=31870|startali=31870
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_18
+# sent_translation = That was how I now showed her that this is how smoke will be coming out...
+# speaker = D_KAD_22@Sp1_12:Sophia Mamadu (Sp204)
+# text = naim I con show her sey [ okay see smoke go dey ] //
+# timestamp = 1581882668.326761
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=31142|startali=30950
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=31334|startali=31142
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=31525|startali=31334
+4	show	show	VERB	_	_	3	comp:aux	_	endali=31717|startali=31525
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	comp:obj	_	endali=31909|startali=31717
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=32101|startali=31909
+7	[	[	PUNCT	_	_	9	punct	_	endali=32101|startali=32101
+8	okay	OK	INTJ	_	_	9	discourse	_	endali=32293|startali=32101
+9	see	see	VERB	_	_	6	comp	_	endali=32485|startali=32293
+10	smoke	smoke	PART	_	_	9	comp:obj	_	endali=32676|startali=32485
+11	go	go	AUX	_	Aspect=Prosp	10	dep	_	endali=32868|startali=32676
+12	dey	dey	VERB	_	VerbType=Cop	11	comp:aux	_	endali=33060|startali=32868
+13	]	]	PUNCT	_	_	9	punct	_	endali=33060|startali=33060
+14	//	//	PUNCT	_	_	3	punct	_	endali=33060|startali=33060
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_19
+# sent_translation = "She said ""Ah you! do you want to burn my face?"""
+# speaker = D_KAD_22@Sp1_13:Sophia Mamadu (Sp204)
+# text = she say [ ah dis one < you wan burn my face ?// ] //
+# timestamp = 1581882668.326767
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=33249|startali=33060
+2	say	say	VERB	_	_	0	root	_	endali=33438|startali=33249
+3	[	[	PUNCT	_	_	9	punct	_	endali=33438|startali=33438
+4	ah	ah	INTJ	_	_	9	discourse	_	endali=33627|startali=33438
+5	dis	dis	DET	_	Number=Sing|PronType=Dem	6	det	_	endali=33816|startali=33627
+6	one	one	NOUN	_	_	9	dislocated	_	endali=34005|startali=33816
+7	<	<	PUNCT	_	_	6	punct	_	endali=34005|startali=34005
+8	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	9	subj	_	endali=34194|startali=34005
+9	wan	want	VERB	_	_	2	parataxis:obj	_	endali=34383|startali=34194
+10	burn	burn	VERB	_	_	9	comp:pred	_	endali=34572|startali=34383
+11	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	12	dep	_	endali=34761|startali=34572
+12	face	face	NOUN	_	_	10	comp:obj	_	endali=34950|startali=34761
+13	?//	?//	PUNCT	_	_	9	punct	_	endali=34950|startali=34950
+14	]	]	PUNCT	_	_	9	punct	_	endali=34950|startali=34950
+15	//	//	PUNCT	_	_	2	punct	_	endali=34950|startali=34950
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_20
+# sent_translation = "I said ""Madam , it is not so. It is just..."""
+# speaker = D_KAD_22@Sp1_14:Sophia Mamadu (Sp204)
+# text = I say [ madam < no be so // na just & //] //
+# timestamp = 1581882668.326773
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=35195|startali=34950
+2	say	say	VERB	_	_	0	root	_	endali=35440|startali=35195
+3	[	[	PUNCT	_	_	7	punct	_	endali=35440|startali=35440
+4	madam	Madam	NOUN	_	_	7	vocative	_	endali=35685|startali=35440
+5	<	<	PUNCT	_	_	4	punct	_	endali=35685|startali=35685
+6	no	no	PART	_	Polarity=Neg	7	mod	_	endali=35930|startali=35685
+7	be	be	VERB	_	PartType=Cop	2	parataxis:obj	_	endali=36175|startali=35930
+8	so	so	ADV	_	_	7	comp:pred	_	endali=36420|startali=36175
+9	//	//	PUNCT	_	_	7	punct	_	endali=36420|startali=36420
+10	na	na	PART	_	PartType=Cop	2	parataxis:obj	_	endali=36665|startali=36420
+11	just	just	ADV	_	_	12	mod	_	endali=36910|startali=36665
+12	&	&	X	_	_	10	comp:pred	_	endali=36910|startali=36910
+13	//]	//]	PUNCT	_	_	10	punct	_	endali=36910|startali=36910
+14	//	//	PUNCT	_	_	2	punct	_	endali=36910|startali=36910
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_21
+# sent_translation = It is an extractor.
+# speaker = D_KAD_22@Sp2_007:Godwin Joy Elego (Sp205)
+# text = na extractor //
+# timestamp = 1581882668.326778
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=36661|startali=36340
+2	extractor	extractor	NOUN	_	_	1	comp:pred	_	endali=36982|startali=36661
+3	//	//	PUNCT	_	_	1	punct	_	endali=36982|startali=36982
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_22
+# sent_translation = You didn't tell her that it is an extractor.
+# speaker = D_KAD_22@Sp2_008:Godwin Joy Elego (Sp205)
+# text = you no tell her sey [ na extractor >+ dat ting be //] ?//
+# timestamp = 1581882668.326783
+1	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	endali=37153|startali=36982
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=37324|startali=37153
+3	tell	tell	VERB	_	_	0	root	_	endali=37494|startali=37324
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=37665|startali=37494
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=37836|startali=37665
+6	[	[	PUNCT	_	_	7	punct	_	endali=37836|startali=37836
+7	na	na	PART	_	PartType=Cop	5	comp	_	endali=38007|startali=37836
+8	extractor	extractor	NOUN	_	_	7	comp:pred	_	endali=38178|startali=38007
+9	>+	>+	PUNCT	_	_	12	punct	_	endali=38178|startali=38178
+10	dat	dat	DET	_	Number=Sing|PronType=Dem	11	det	_	endali=38348|startali=38178
+11	ting	ting	NOUN	_	_	12	subj	_	endali=38519|startali=38348
+12	be	be	VERB	_	PartType=Cop	7	comp:cleft	_	endali=38690|startali=38519
+13	//]	//]	PUNCT	_	_	7	punct	_	endali=38690|startali=38690
+14	?//	?//	PUNCT	_	_	3	punct	_	endali=38690|startali=38690
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_23
+# sent_translation = Haha. I told her , I told her that the thing is an extractor.
+# speaker = D_KAD_22@Sp1_15:Sophia Mamadu (Sp204)
+# text = haha { I tell || I tell her } sey [ na extractor >+ di ting be o //] //
+# timestamp = 1581882668.326789
+1	haha	haha	INTJ	_	_	4	discourse	_	endali=37598|startali=37365
+2	{	{	PUNCT	_	_	4	punct	_	endali=37598|startali=37598
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=37832|startali=37598
+4	tell	tell	VERB	_	_	0	root	_	endali=38065|startali=37832
+5	||	||	PUNCT	_	_	7	punct	_	endali=38065|startali=38065
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	subj	_	endali=38299|startali=38065
+7	tell	tell	VERB	_	_	4	conj:dicto	_	endali=38532|startali=38299
+8	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	comp:obj	_	endali=38766|startali=38532
+9	}	}	PUNCT	_	_	4	punct	_	endali=38766|startali=38766
+10	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=38999|startali=38766
+11	[	[	PUNCT	_	_	12	punct	_	endali=38999|startali=38999
+12	na	na	PART	_	PartType=Cop	10	comp	_	endali=39233|startali=38999
+13	extractor	extractor	NOUN	_	_	12	comp:pred	_	endali=39466|startali=39233
+14	>+	>+	PUNCT	_	_	17	punct	_	endali=39466|startali=39466
+15	di	the	DET	_	Definite=Def|PronType=Art	16	det	_	endali=39700|startali=39466
+16	ting	ting	NOUN	_	_	17	subj	_	endali=39933|startali=39700
+17	be	be	VERB	_	PartType=Cop	12	comp:cleft	_	endali=40167|startali=39933
+18	o	o	PART	_	PartType=Disc	17	mod:emph	_	endali=40400|startali=40167
+19	//]	//]	PUNCT	_	_	12	punct	_	endali=40400|startali=40400
+20	//	//	PUNCT	_	_	4	punct	_	endali=40400|startali=40400
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_24
+# sent_translation = It is a pity.
+# speaker = D_KAD_22@Sp2_009:Godwin Joy Elego (Sp205)
+# text = na wa for her o //
+# timestamp = 1581882668.326795
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=40138|startali=39992
+2	wa	X	INTJ	_	_	1	comp:pred	_	endali=40283|startali=40138
+3	for	for	ADP	_	_	2	comp:obl	_	endali=40429|startali=40283
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp	_	endali=40574|startali=40429
+5	o	o	PART	_	PartType=Disc	4	mod:emph	_	endali=40720|startali=40574
+6	//	//	PUNCT	_	_	1	punct	_	endali=40720|startali=40720
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_25
+# sent_translation = Which level is she now ?
+# speaker = D_KAD_22@Sp2_010:Godwin Joy Elego (Sp205)
+# text = which level she dey now ?//
+# timestamp = 1581882668.3268
+1	which	which	DET	_	PronType=Int	2	dep	_	endali=40980|startali=40720
+2	level	level	NOUN	_	_	0	root	_	endali=41240|startali=40980
+3	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=41500|startali=41240
+4	dey	dey	VERB	_	VerbType=Cop	2	comp:cleft	_	endali=41760|startali=41500
+5	now	now	ADV	_	_	4	mod	_	endali=42020|startali=41760
+6	?//	?//	PUNCT	_	_	2	punct	_	endali=42020|startali=42020
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_26
+# sent_translation = I now explained to her.
+# speaker = D_KAD_22@Sp1_16:Sophia Mamadu (Sp204)
+# text = I con explain to her //
+# timestamp = 1581882668.326806
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=41052|startali=40872
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=41231|startali=41052
+3	explain	explain	VERB	_	_	2	comp:aux	_	endali=41411|startali=41231
+4	to	to	ADP	_	_	3	comp:obl	_	endali=41590|startali=41411
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	comp	_	endali=41770|startali=41590
+6	//	//	PUNCT	_	_	2	punct	_	endali=41770|startali=41770
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_27
+# sent_translation = She now said let...
+# speaker = D_KAD_22@Sp1_17:Sophia Mamadu (Sp204)
+# text = naim she con say [ make & //] //
+# timestamp = 1581882668.326811
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=41946|startali=41770
+2	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=42122|startali=41946
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=42297|startali=42122
+4	say	say	VERB	_	_	3	comp:aux	_	endali=42473|startali=42297
+5	[	[	PUNCT	_	_	6	punct	_	endali=42473|startali=42473
+6	make	make	AUX	_	Mood=Sub	4	parataxis:obj	_	endali=42649|startali=42473
+7	&	&	X	_	_	6	comp:aux	_	endali=42649|startali=42649
+8	//]	//]	PUNCT	_	_	6	punct	_	endali=42649|startali=42649
+9	//	//	PUNCT	_	_	3	punct	_	endali=42649|startali=42649
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_28
+# sent_translation = I now told her to calm down that the smoke is just steaming , the thing will just steam her face.
+# speaker = D_KAD_22@Sp1_18:Sophia Mamadu (Sp204)
+# text = I con tell her sey [ make she calm down |c sey di smoke na just steaming |c di ting go just steam her face ] //
+# timestamp = 1581882668.326816
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=42834|startali=42649
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=43020|startali=42834
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=43206|startali=43020
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=43391|startali=43206
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=43576|startali=43391
+6	[	[	PUNCT	_	_	7	punct	_	endali=43576|startali=43576
+7	make	make	AUX	_	Mood=Sub	5	comp	_	endali=43762|startali=43576
+8	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	subj	_	endali=43948|startali=43762
+9	calm	calm	VERB	_	_	7	comp:aux	_	endali=44133|startali=43948
+10	down	down	ADP	_	_	9	compound:prt	_	endali=44318|startali=44133
+11	|c	|c	PUNCT	_	_	15	punct	_	endali=44318|startali=44318
+12	sey	sey	SCONJ	_	_	15	cc	_	endali=44504|startali=44318
+13	di	the	DET	_	Definite=Def|PronType=Art	14	det	_	endali=44690|startali=44504
+14	smoke	smoke	NOUN	_	_	15	subj	_	endali=44875|startali=44690
+15	na	na	PART	_	PartType=Cop	7	conj:coord	_	endali=45060|startali=44875
+16	just	just	ADV	_	_	17	mod	_	endali=45246|startali=45060
+17	steaming	steame	VERB	_	Tense=Pres|VerbForm=Part	15	comp:pred	_	endali=45432|startali=45246
+18	|c	|c	PUNCT	_	_	21	punct	_	endali=45432|startali=45432
+19	di	the	DET	_	Definite=Def|PronType=Art	20	det	_	endali=45617|startali=45432
+20	ting	ting	NOUN	_	_	21	subj	_	endali=45802|startali=45617
+21	go	go	AUX	_	Aspect=Prosp	15	conj:coord	_	endali=45988|startali=45802
+22	just	just	ADV	_	_	23	mod	_	endali=46174|startali=45988
+23	steam	steam	VERB	_	_	21	comp:aux	_	endali=46359|startali=46174
+24	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	25	dep	_	endali=46544|startali=46359
+25	face	face	NOUN	_	_	23	comp:obj	_	endali=46730|startali=46544
+26	]	]	PUNCT	_	_	7	punct	_	endali=46730|startali=46730
+27	//	//	PUNCT	_	_	2	punct	_	endali=46730|startali=46730
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_29
+# sent_translation = It is to remove all that dirt that is on her face now.
+# speaker = D_KAD_22@Sp2_011:Godwin Joy Elego (Sp205)
+# text = na to comot dose { yama |r yama } wey dey her face now //
+# timestamp = 1581882668.326822
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=46301|startali=46100
+2	to	to	ADP	_	_	1	comp:pred	_	endali=46502|startali=46301
+3	comot	comot	VERB	_	_	2	comp	_	endali=46703|startali=46502
+4	dose	dose	DET	_	Number=Plur|PronType=Dem	6	det	_	endali=46904|startali=46703
+5	{	{	PUNCT	_	_	6	punct	_	endali=46904|startali=46904
+6	yama	yama	NOUN	_	_	3	comp:obj	_	endali=47105|startali=46904
+7	|r	|r	PUNCT	_	_	8	punct	_	endali=47105|startali=47105
+8	yama	yama	NOUN	_	_	6	compound:redup	_	endali=47305|startali=47105
+9	}	}	PUNCT	_	_	6	punct	_	endali=47305|startali=47305
+10	wey	when	SCONJ	_	_	1	dep	_	endali=47506|startali=47305
+11	dey	dey	VERB	_	VerbType=Cop	10	comp	_	endali=47707|startali=47506
+12	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	dep	_	endali=47908|startali=47707
+13	face	face	NOUN	_	_	11	comp:pred	_	endali=48109|startali=47908
+14	now	now	ADV	_	_	11	mod	_	endali=48310|startali=48109
+15	//	//	PUNCT	_	_	1	punct	_	endali=48310|startali=48310
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_30
+# sent_translation = Yes now , it...
+# speaker = D_KAD_22@Sp1_19:Sophia Mamadu (Sp204)
+# text = ehen now < { na || na } & //
+# timestamp = 1581882668.326828
+1	ehen	ehen	INTJ	_	_	5	discourse	_	endali=48249|startali=48005
+2	now	now	ADV	_	_	1	mod:emph	_	endali=48492|startali=48249
+3	<	<	PUNCT	_	_	1	punct	_	endali=48492|startali=48492
+4	{	{	PUNCT	_	_	5	punct	_	endali=48492|startali=48492
+5	na	na	PART	_	PartType=Cop	0	root	_	endali=48736|startali=48492
+6	||	||	PUNCT	_	_	7	punct	_	endali=48736|startali=48736
+7	na	na	PART	_	PartType=Cop	5	conj:dicto	_	endali=48980|startali=48736
+8	}	}	PUNCT	_	_	5	punct	_	endali=48980|startali=48980
+9	&	&	X	_	_	5	comp:pred	_	endali=48980|startali=48980
+10	//	//	PUNCT	_	_	5	punct	_	endali=48980|startali=48980
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_31
+# sent_translation = It is a pity.
+# speaker = D_KAD_22@Sp2_012:Godwin Joy Elego (Sp205)
+# text = na wa for her o //
+# timestamp = 1581882668.326833
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=48672|startali=48310
+2	wa	X	INTJ	_	_	1	comp:pred	_	endali=49034|startali=48672
+3	for	for	ADP	_	_	2	comp:obl	_	endali=49396|startali=49034
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp	_	endali=49758|startali=49396
+5	o	o	PART	_	PartType=Disc	4	mod:emph	_	endali=50120|startali=49758
+6	//	//	PUNCT	_	_	1	punct	_	endali=50120|startali=50120
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_32
+# sent_translation = Mstchew!
+# speaker = D_KAD_22@Sp1_20:Sophia Mamadu (Sp204)
+# text = mstchew //
+# timestamp = 1581882668.326842
+1	mstchew	mstchew	INTJ	_	_	0	root	_	endali=49199|startali=48980
+2	//	//	PUNCT	_	_	1	punct	_	endali=49199|startali=49199
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_33
+# sent_translation = I then explained.
+# speaker = D_KAD_22@Sp1_21:Sophia Mamadu (Sp204)
+# text = so naim I con { explain |r explain |r explain } //
+# timestamp = 1581882668.326847
+1	so	so	ADV	_	_	4	discourse	_	endali=49525|startali=49199
+2	naim	naim	ADV	_	_	4	mod:periph	_	endali=49851|startali=49525
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=50177|startali=49851
+4	con	con	AUX	_	Aspect=Cons	0	root	_	endali=50504|startali=50177
+5	{	{	PUNCT	_	_	6	punct	_	endali=50504|startali=50504
+6	explain	explain	ADV	_	_	4	mod	_	endali=50830|startali=50504
+7	|r	|r	PUNCT	_	_	8	punct	_	endali=50830|startali=50830
+8	explain	explain	ADV	_	_	6	compound:redup	_	endali=51156|startali=50830
+9	|r	|r	PUNCT	_	_	10	punct	_	endali=51156|startali=51156
+10	explain	explain	ADV	_	_	8	compound:redup	_	endali=51482|startali=51156
+11	}	}	PUNCT	_	_	6	punct	_	endali=51482|startali=51482
+12	//	//	PUNCT	_	_	4	punct	_	endali=51482|startali=51482
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_34
+# sent_translation = I used the whole grammar which exists in this life.
+# speaker = D_KAD_22@Sp1_22:Sophia Mamadu (Sp204)
+# text = I use all di whole grammar wey dey dis life o //
+# timestamp = 1581882668.326852
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=51698|startali=51482
+2	use	use	VERB	_	_	0	root	_	endali=51914|startali=51698
+3	all	all	ADV	_	_	6	det	_	endali=52131|startali=51914
+4	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=52347|startali=52131
+5	whole	whole	ADJ	_	_	6	dep	_	endali=52563|startali=52347
+6	grammar	grammar	NOUN	_	_	2	comp:obj	_	endali=52779|startali=52563
+7	wey	when	SCONJ	_	_	6	dep	_	endali=52995|startali=52779
+8	dey	dey	VERB	_	VerbType=Cop	7	comp	_	endali=53211|startali=52995
+9	dis	dis	DET	_	Number=Sing|PronType=Dem	10	det	_	endali=53428|startali=53211
+10	life	life	NOUN	_	_	8	comp:obj	_	endali=53644|startali=53428
+11	o	o	PART	_	PartType=Disc	10	mod:emph	_	endali=53860|startali=53644
+12	//	//	PUNCT	_	_	2	punct	_	endali=53860|startali=53860
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_35
+# sent_translation = Must she even do the facial now.
+# speaker = D_KAD_22@Sp2_013:Godwin Joy Elego (Sp205)
+# text = must she even do di facial now ?//
+# timestamp = 1581882668.326858
+1	must	must	AUX	_	VerbForm=Fin	0	root	_	endali=53873|startali=53685
+2	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=54062|startali=53873
+3	even	even	ADV	_	_	4	mod	_	endali=54250|startali=54062
+4	do	do	VERB	_	_	1	comp:aux	_	endali=54439|startali=54250
+5	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=54627|startali=54439
+6	facial	facial	ADJ	_	_	4	comp:obj	_	endali=54816|startali=54627
+7	now	now	ADV	_	_	4	mod	_	endali=55004|startali=54816
+8	?//	?//	PUNCT	_	_	1	punct	_	endali=55004|startali=55004
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_36
+# sent_translation = Is it not pride she wants to do?
+# speaker = D_KAD_22@Sp2_014:Godwin Joy Elego (Sp205)
+# text = no be yanga >+ she wan do ?//
+# timestamp = 1581882668.326865
+1	no	no	PART	_	Polarity=Neg	2	mod	_	endali=55210|startali=55004
+2	be	be	VERB	_	PartType=Cop	0	root	_	endali=55416|startali=55210
+3	yanga	yanga	NOUN	_	_	2	comp:pred	_	endali=55622|startali=55416
+4	>+	>+	PUNCT	_	_	6	punct	_	endali=55622|startali=55622
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=55828|startali=55622
+6	wan	want	VERB	_	_	2	comp:cleft	_	endali=56034|startali=55828
+7	do	do	VERB	_	_	6	comp:pred	_	endali=56240|startali=56034
+8	?//	?//	PUNCT	_	_	2	punct	_	endali=56240|startali=56240
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_37
+# sent_translation = It is pride o for her husband now.
+# speaker = D_KAD_22@Sp1_23:Sophia Mamadu (Sp204)
+# text = na yanga o for her oga now //
+# timestamp = 1581882668.326871
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=56326|startali=56040
+2	yanga	yanga	NOUN	_	_	1	comp:pred	_	endali=56612|startali=56326
+3	o	o	PART	_	PartType=Disc	2	mod:emph	_	endali=56898|startali=56612
+4	for	for	ADP	_	_	1	comp:pred	_	endali=57185|startali=56898
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	6	dep	_	endali=57471|startali=57185
+6	oga	oga	NOUN	_	_	4	comp	_	endali=57757|startali=57471
+7	now	now	ADV	_	_	6	mod:emph	_	endali=58043|startali=57757
+8	//	//	PUNCT	_	_	1	punct	_	endali=58043|startali=58043
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_38
+# sent_translation = It is a pity.
+# speaker = D_KAD_22@Sp2_015:Godwin Joy Elego (Sp205)
+# text = na for her o //
+# timestamp = 1581882668.326876
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=57524|startali=57235
+2	for	for	ADP	_	_	1	comp:pred	_	endali=57812|startali=57524
+3	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	2	comp	_	endali=58101|startali=57812
+4	o	o	PART	_	PartType=Disc	3	mod:emph	_	endali=58390|startali=58101
+5	//	//	PUNCT	_	_	1	punct	_	endali=58390|startali=58390
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_39
+# sent_translation = So that her husband will see that her face is bright that kind of thing.
+# speaker = D_KAD_22@Sp1_24:Sophia Mamadu (Sp204)
+# text = so dat her oga go just see her sey [ her face dey bright dat kind ting ] //
+# timestamp = 1581882668.326882
+1	so	so	SCONJ	_	_	0	mod	_	endali=58296|startali=58043
+2	dat	dat	DET	_	Number=Sing|PronType=Dem	1	fixed	_	endali=58549|startali=58296
+3	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	dep	_	endali=58802|startali=58549
+4	oga	oga	NOUN	_	_	5	subj	_	endali=59055|startali=58802
+5	go	go	AUX	_	Aspect=Prosp	1	comp	_	endali=59308|startali=59055
+6	just	just	ADV	_	_	7	mod	_	endali=59561|startali=59308
+7	see	see	VERB	_	_	5	comp:aux	_	endali=59814|startali=59561
+8	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	comp:obj	_	endali=60066|startali=59814
+9	sey	sey	SCONJ	_	_	7	comp:obj	_	endali=60319|startali=60066
+10	[	[	PUNCT	_	_	13	punct	_	endali=60319|startali=60319
+11	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	12	dep	_	endali=60572|startali=60319
+12	face	face	NOUN	_	_	13	subj	_	endali=60825|startali=60572
+13	dey	dey	AUX	_	Aspect=Imp	9	comp	_	endali=61078|startali=60825
+14	bright	bright	VERB	_	_	13	comp:aux	_	endali=61331|startali=61078
+15	dat	dat	DET	_	Number=Sing|PronType=Dem	17	det	_	endali=61584|startali=61331
+16	kind	kind	ADJ	_	_	17	dep	_	endali=61837|startali=61584
+17	ting	ting	NOUN	_	_	14	comp:obj	_	endali=62090|startali=61837
+18	]	]	PUNCT	_	_	13	punct	_	endali=62090|startali=62090
+19	//	//	PUNCT	_	_	0	punct	_	endali=62090|startali=62090
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_40
+# sent_translation = Her husband will leave all those small small girls he follows right?
+# speaker = D_KAD_22@Sp2_016:Godwin Joy Elego (Sp205)
+# text = her oga go leave all dose { small |r small } girl wey e dey follow abi ?//
+# timestamp = 1581882668.326887
+1	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	2	dep	_	endali=59794|startali=59615
+2	oga	oga	NOUN	_	_	3	subj	_	endali=59974|startali=59794
+3	go	go	AUX	_	Aspect=Prosp	0	root	_	endali=60153|startali=59974
+4	leave	leave	VERB	_	_	3	comp:aux	_	endali=60332|startali=60153
+5	all	all	ADV	_	_	12	det	_	endali=60511|startali=60332
+6	dose	dose	DET	_	Number=Plur|PronType=Dem	12	det	_	endali=60691|startali=60511
+7	{	{	PUNCT	_	_	8	punct	_	endali=60691|startali=60691
+8	small	small	ADJ	_	_	12	dep	_	endali=60870|startali=60691
+9	|r	|r	PUNCT	_	_	10	punct	_	endali=60870|startali=60870
+10	small	small	ADJ	_	_	8	compound:redup	_	endali=61049|startali=60870
+11	}	}	PUNCT	_	_	8	punct	_	endali=61049|startali=61049
+12	girl	girl	NOUN	_	_	4	comp:obj	_	endali=61229|startali=61049
+13	wey	when	SCONJ	_	_	12	dep	_	endali=61408|startali=61229
+14	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	subj	_	endali=61587|startali=61408
+15	dey	dey	AUX	_	Aspect=Imp	13	comp	_	endali=61766|startali=61587
+16	follow	follow	VERB	_	_	15	comp:aux	_	endali=61946|startali=61766
+17	abi	abi	CCONJ	_	_	3	discourse	_	endali=62125|startali=61946
+18	?//	?//	PUNCT	_	_	3	punct	_	endali=62125|startali=62125
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_41
+# sent_translation = That is what we do and do it.
+# speaker = D_KAD_22@Sp1_25:Sophia Mamadu (Sp204)
+# text = naim we sha { do |r do |r do } am //
+# timestamp = 1581882668.326891
+1	naim	naim	ADV	_	_	5	mod:periph	_	endali=62296|startali=62090
+2	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=62502|startali=62296
+3	sha	sha	PART	_	PartType=Disc	2	mod:emph	_	endali=62708|startali=62502
+4	{	{	PUNCT	_	_	5	punct	_	endali=62708|startali=62708
+5	do	do	VERB	_	_	0	root	_	endali=62915|startali=62708
+6	|r	|r	PUNCT	_	_	7	punct	_	endali=62915|startali=62915
+7	do	do	VERB	_	_	5	compound:redup	_	endali=63121|startali=62915
+8	|r	|r	PUNCT	_	_	9	punct	_	endali=63121|startali=63121
+9	do	do	VERB	_	_	7	compound:redup	_	endali=63327|startali=63121
+10	}	}	PUNCT	_	_	5	punct	_	endali=63327|startali=63327
+11	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	endali=63533|startali=63327
+12	//	//	PUNCT	_	_	5	punct	_	endali=63533|startali=63533
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_42
+# sent_translation = I now spoke the whole grammar , speak all the English upside down.
+# speaker = D_KAD_22@Sp1_26:Sophia Mamadu (Sp204)
+# text = I con speak all di whole { grammar |r grammar } |c speak all di English upside down //
+# timestamp = 1581882668.326896
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=63745|startali=63533
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=63957|startali=63745
+3	speak	speak	VERB	_	_	2	comp:aux	_	endali=64169|startali=63957
+4	all	all	ADV	_	_	8	det	_	endali=64381|startali=64169
+5	di	the	DET	_	Definite=Def|PronType=Art	8	det	_	endali=64593|startali=64381
+6	whole	whole	ADJ	_	_	8	dep	_	endali=64805|startali=64593
+7	{	{	PUNCT	_	_	8	punct	_	endali=64805|startali=64805
+8	grammar	grammar	NOUN	_	_	3	comp:obj	_	endali=65016|startali=64805
+9	|r	|r	PUNCT	_	_	10	punct	_	endali=65016|startali=65016
+10	grammar	grammar	NOUN	_	_	8	compound:redup	_	endali=65228|startali=65016
+11	}	}	PUNCT	_	_	8	punct	_	endali=65228|startali=65228
+12	|c	|c	PUNCT	_	_	13	punct	_	endali=65228|startali=65228
+13	speak	speak	VERB	_	_	2	conj:coord	_	endali=65440|startali=65228
+14	all	all	ADV	_	_	17	det	_	endali=65652|startali=65440
+15	di	the	DET	_	Definite=Def|PronType=Art	17	det	_	endali=65864|startali=65652
+16	English	English	ADJ	_	_	17	dep	_	endali=66076|startali=65864
+17	upside	upside	NOUN	_	_	13	comp:obj	_	endali=66288|startali=66076
+18	down	down	ADP	_	_	13	mod	_	endali=66500|startali=66288
+19	//	//	PUNCT	_	_	2	punct	_	endali=66500|startali=66500
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_43
+# sent_translation = Turn it repeatedly.
+# speaker = D_KAD_22@Sp1_27:Sophia Mamadu (Sp204)
+# text = { turn am |r turn am |r turn am } //
+# timestamp = 1581882668.326901
+1	{	{	PUNCT	_	_	2	punct	_	endali=66500|startali=66500
+2	turn	turn	VERB	_	_	0	root	_	endali=66693|startali=66500
+3	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	endali=66887|startali=66693
+4	|r	|r	PUNCT	_	_	5	punct	_	endali=66887|startali=66887
+5	turn	turn	VERB	_	_	2	compound:redup	_	endali=67080|startali=66887
+6	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	endali=67273|startali=67080
+7	|r	|r	PUNCT	_	_	8	punct	_	endali=67273|startali=67273
+8	turn	turn	VERB	_	_	5	compound:redup	_	endali=67467|startali=67273
+9	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	endali=67660|startali=67467
+10	}	}	PUNCT	_	_	2	punct	_	endali=67660|startali=67660
+11	//	//	PUNCT	_	_	2	punct	_	endali=67660|startali=67660
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_44
+# sent_translation = Hey!
+# speaker = D_KAD_22@Sp2_017:Godwin Joy Elego (Sp205)
+# text = hey !//
+# timestamp = 1581882668.326906
+1	hey	hey	INTJ	_	_	0	root	_	endali=67930|startali=67060
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=67930|startali=67930
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_45
+# sent_translation = At last , she now agreed.
+# speaker = D_KAD_22@Sp1_28:Sophia Mamadu (Sp204)
+# text = at last < she con gree //
+# timestamp = 1581882668.326911
+1	at	at	ADP	_	_	5	mod:periph	_	endali=68172|startali=67900
+2	last	last	ADJ	_	_	1	comp	_	endali=68444|startali=68172
+3	<	<	PUNCT	_	_	1	punct	_	endali=68444|startali=68444
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=68716|startali=68444
+5	con	con	AUX	_	Aspect=Cons	0	root	_	endali=68988|startali=68716
+6	gree	gree	VERB	_	_	5	comp:aux	_	endali=69260|startali=68988
+7	//	//	PUNCT	_	_	5	punct	_	endali=69260|startali=69260
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_46
+# sent_translation = Let me gist you about what happened in my own side today now.
+# speaker = D_KAD_22@Sp2_018:Godwin Joy Elego (Sp205)
+# text = make me con gist you wetin happen for my own side today now //
+# timestamp = 1581882668.326916
+1	make	make	AUX	_	Mood=Sub	0	root	_	endali=70231|startali=70040
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	subj	_	endali=70422|startali=70231
+3	con	con	AUX	_	Aspect=Cons	1	comp:aux	_	endali=70612|startali=70422
+4	gist	gist	VERB	_	_	3	comp:aux	_	endali=70803|startali=70612
+5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	comp:obj	_	endali=70994|startali=70803
+6	wetin	wetin	PRON	_	PronType=Int	4	comp:obj	_	endali=71185|startali=70994
+7	happen	happen	VERB	_	_	6	dep	_	endali=71375|startali=71185
+8	for	for	ADP	_	_	7	comp:obl	_	endali=71566|startali=71375
+9	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	11	dep	_	endali=71757|startali=71566
+10	own	own	ADJ	_	_	11	dep	_	endali=71948|startali=71757
+11	side	side	NOUN	_	_	8	comp	_	endali=72138|startali=71948
+12	today	today	NOUN	_	_	7	mod	_	endali=72329|startali=72138
+13	now	now	ADV	_	_	7	mod	_	endali=72520|startali=72329
+14	//	//	PUNCT	_	_	1	punct	_	endali=72520|startali=72520
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_47
+# sent_translation = What now happened?
+# speaker = D_KAD_22@Sp1_29:Sophia Mamadu (Sp204)
+# text = wetin con happen ?//
+# timestamp = 1581882668.326921
+1	wetin	wetin	PRON	_	PronType=Int	0	root	_	endali=72127|startali=71880
+2	con	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=72373|startali=72127
+3	happen	happen	VERB	_	_	2	comp:aux	_	endali=72620|startali=72373
+4	?//	?//	PUNCT	_	_	1	punct	_	endali=72620|startali=72620
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_48
+# sent_translation = The day I was doing nails , one girl came from the village.
+# speaker = D_KAD_22@Sp2_019:Godwin Joy Elego (Sp205)
+# text = di day wey I dey do nails < one girl con from one village //
+# timestamp = 1581882668.326926
+1	di	the	DET	_	Definite=Def|PronType=Art	2	det	_	endali=72823|startali=72600
+2	day	day	NOUN	_	_	11	mod:periph	_	endali=73046|startali=72823
+3	wey	when	SCONJ	_	_	2	dep	_	endali=73269|startali=73046
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	endali=73492|startali=73269
+5	dey	dey	AUX	_	Aspect=Imp	3	comp	_	endali=73715|startali=73492
+6	do	do	VERB	_	_	5	comp:aux	_	endali=73938|startali=73715
+7	nails	nail	NOUN	_	Number=Plur	6	comp:obj	_	endali=74162|startali=73938
+8	<	<	PUNCT	_	_	2	punct	_	endali=74162|startali=74162
+9	one	one	DET	_	Definite=Spec|PronType=Art	10	det	_	endali=74385|startali=74162
+10	girl	girl	NOUN	_	_	11	subj	_	endali=74608|startali=74385
+11	con	con	AUX	_	Aspect=Cons	0	root	_	endali=74831|startali=74608
+12	from	from	ADP	_	_	11	comp:obl	_	endali=75054|startali=74831
+13	one	one	DET	_	Definite=Spec|PronType=Art	14	det	_	endali=75277|startali=75054
+14	village	village	NOUN	_	_	12	comp	_	endali=75500|startali=75277
+15	//	//	PUNCT	_	_	11	punct	_	endali=75500|startali=75500
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_49
+# sent_translation = She was now pretending that she is a city girl.
+# speaker = D_KAD_22@Sp2_020:Godwin Joy Elego (Sp205)
+# text = she con dey form sey [ she be city girl o ] //
+# timestamp = 1581882668.326931
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=75698|startali=75500
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=75896|startali=75698
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=76094|startali=75896
+4	form	form	VERB	_	_	3	comp:aux	_	endali=76292|startali=76094
+5	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=76490|startali=76292
+6	[	[	PUNCT	_	_	8	punct	_	endali=76490|startali=76490
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	subj	_	endali=76688|startali=76490
+8	be	be	VERB	_	PartType=Cop	5	comp	_	endali=76886|startali=76688
+9	city	city	NOUN	_	_	10	dep	_	endali=77084|startali=76886
+10	girl	girl	NOUN	_	_	8	comp:pred	_	endali=77282|startali=77084
+11	o	o	PART	_	PartType=Disc	10	mod:emph	_	endali=77480|startali=77282
+12	]	]	PUNCT	_	_	8	punct	_	endali=77480|startali=77480
+13	//	//	PUNCT	_	_	2	punct	_	endali=77480|startali=77480
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_50
+# sent_translation = Sit down let me do your nails for you!
+# speaker = D_KAD_22@Sp2_021:Godwin Joy Elego (Sp205)
+# text = sit down make I do your nails for you !//
+# timestamp = 1581882668.326936
+1	sit	sit	VERB	_	_	0	root	_	endali=77634|startali=77480
+2	down	down	ADP	_	_	1	compound:prt	_	endali=77788|startali=77634
+3	make	make	AUX	_	Mood=Sub	1	mod	_	endali=77942|startali=77788
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=78096|startali=77942
+5	do	do	VERB	_	_	3	comp:aux	_	endali=78250|startali=78096
+6	your	your	ADJ	_	Person=2|Poss=Yes	7	dep	_	endali=78404|startali=78250
+7	nails	nail	NOUN	_	Number=Plur	5	comp:obj	_	endali=78558|startali=78404
+8	for	for	ADP	_	_	5	comp:obl	_	endali=78712|startali=78558
+9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	8	comp	_	endali=78866|startali=78712
+10	!//	!//	PUNCT	_	_	1	punct	_	endali=78866|startali=78866
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_51
+# sent_translation = These girl was now snubbing me.
+# speaker = D_KAD_22@Sp2_022:Godwin Joy Elego (Sp205)
+# text = dis girl con dey form level for me o //
+# timestamp = 1581882668.326942
+1	dis	dis	DET	_	Number=Sing|PronType=Dem	2	det	_	endali=79034|startali=78866
+2	girl	girl	NOUN	_	_	3	subj	_	endali=79202|startali=79034
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=79371|startali=79202
+4	dey	dey	AUX	_	Aspect=Imp	3	comp:aux	_	endali=79539|startali=79371
+5	form	form	VERB	_	_	4	comp:aux	_	endali=79707|startali=79539
+6	level	level	NOUN	_	_	5	comp:obj	_	endali=79875|startali=79707
+7	for	for	ADP	_	_	5	comp:obl	_	endali=80044|startali=79875
+8	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	comp	_	endali=80212|startali=80044
+9	o	o	PART	_	PartType=Disc	8	mod:emph	_	endali=80380|startali=80212
+10	//	//	PUNCT	_	_	3	punct	_	endali=80380|startali=80380
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_52
+# sent_translation = Aha!
+# speaker = D_KAD_22@Sp1_30:Sophia Mamadu (Sp204)
+# text = aha !//
+# timestamp = 1581882668.326947
+1	aha	aha	INTJ	_	_	0	root	_	endali=80830|startali=80280
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=80830|startali=80830
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_53
+# sent_translation = I now told her that lady , which style do you want to do now?
+# speaker = D_KAD_22@Sp2_023:Godwin Joy Elego (Sp205)
+# text = naim me con tell her sey [ babe < which level you dey now ?// ] //
+# timestamp = 1581882668.326953
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=80686|startali=80520
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=80851|startali=80686
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=81017|startali=80851
+4	tell	tell	VERB	_	_	3	comp:aux	_	endali=81182|startali=81017
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	comp:obj	_	endali=81348|startali=81182
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=81514|startali=81348
+7	[	[	PUNCT	_	_	11	punct	_	endali=81514|startali=81514
+8	babe	babe	NOUN	_	_	11	vocative	_	endali=81679|startali=81514
+9	<	<	PUNCT	_	_	8	punct	_	endali=81679|startali=81679
+10	which	which	DET	_	PronType=Int	11	dep	_	endali=81845|startali=81679
+11	level	level	NOUN	_	_	6	comp	_	endali=82010|startali=81845
+12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	13	subj	_	endali=82176|startali=82010
+13	dey	dey	VERB	_	VerbType=Cop	11	comp:cleft	_	endali=82341|startali=82176
+14	now	now	ADV	_	_	13	mod	_	endali=82507|startali=82341
+15	?//	?//	PUNCT	_	_	11	punct	_	endali=82507|startali=82507
+16	]	]	PUNCT	_	_	11	punct	_	endali=82507|startali=82507
+17	//	//	PUNCT	_	_	3	punct	_	endali=82507|startali=82507
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_54
+# sent_translation = She now showed me one type of manicure on Instagram which she wanted to do.
+# speaker = D_KAD_22@Sp2_024:Godwin Joy Elego (Sp205)
+# text = she con show me one nail for Instagram sey [ na dat nail >+ she wan do ] //
+# timestamp = 1581882668.326958
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=82685|startali=82507
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=82863|startali=82685
+3	show	show	VERB	_	_	2	comp:aux	_	endali=83041|startali=82863
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	endali=83218|startali=83041
+5	one	one	DET	_	Definite=Spec|PronType=Art	6	det	_	endali=83396|startali=83218
+6	nail	nail	NOUN	_	_	3	comp:obj	_	endali=83574|startali=83396
+7	for	for	ADP	_	_	3	comp:obl	_	endali=83752|startali=83574
+8	Instagram	Instagram	PROPN	_	_	7	comp	_	endali=83930|startali=83752
+9	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=84108|startali=83930
+10	[	[	PUNCT	_	_	11	punct	_	endali=84108|startali=84108
+11	na	na	PART	_	PartType=Cop	9	comp	_	endali=84286|startali=84108
+12	dat	dat	DET	_	Number=Sing|PronType=Dem	13	det	_	endali=84464|startali=84286
+13	nail	nail	NOUN	_	_	11	comp:pred	_	endali=84641|startali=84464
+14	>+	>+	PUNCT	_	_	16	punct	_	endali=84641|startali=84641
+15	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	subj	_	endali=84819|startali=84641
+16	wan	want	VERB	_	_	11	comp:cleft	_	endali=84997|startali=84819
+17	do	do	VERB	_	_	16	comp:pred	_	endali=85175|startali=84997
+18	]	]	PUNCT	_	_	11	punct	_	endali=85175|startali=85175
+19	//	//	PUNCT	_	_	2	punct	_	endali=85175|startali=85175
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_55
+# sent_translation = Do you know who did the nail?
+# speaker = D_KAD_22@Sp2_025:Godwin Joy Elego (Sp205)
+# text = you know who do di nail ?//
+# timestamp = 1581882668.326963
+1	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	2	subj	_	endali=85678|startali=85515
+2	know	know	VERB	_	_	0	root	_	endali=85840|startali=85678
+3	who	who	PRON	_	PronType=Int	2	comp:obj	_	endali=86002|startali=85840
+4	do	do	VERB	_	_	3	dep	_	endali=86165|startali=86002
+5	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=86328|startali=86165
+6	nail	nail	NOUN	_	_	4	comp:obj	_	endali=86490|startali=86328
+7	?//	?//	PUNCT	_	_	2	punct	_	endali=86490|startali=86490
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_56
+# sent_translation = Who did it?
+# speaker = D_KAD_22@Sp1_31:Sophia Mamadu (Sp204)
+# text = who do am ?//
+# timestamp = 1581882668.326968
+1	who	who	PRON	_	PronType=Int	0	root	_	endali=86732|startali=86500
+2	do	do	VERB	_	_	1	comp:cleft	_	endali=86963|startali=86732
+3	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	endali=87195|startali=86963
+4	?//	?//	PUNCT	_	_	1	punct	_	endali=87195|startali=87195
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_57
+# sent_translation = Tonto Dike.
+# speaker = D_KAD_22@Sp2_026:Godwin Joy Elego (Sp205)
+# text = Tonto Dike //
+# timestamp = 1581882668.326973
+1	Tonto	Tonto	PROPN	_	_	0	root	_	endali=87592|startali=87165
+2	Dike	Dike	PROPN	_	_	1	flat	_	endali=88020|startali=87592
+3	//	//	PUNCT	_	_	1	punct	_	endali=88020|startali=88020
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_58
+# sent_translation = Hee!
+# speaker = D_KAD_22@Sp1_32:Sophia Mamadu (Sp204)
+# text = hi !//
+# timestamp = 1581882668.326978
+1	hi	hi	INTJ	_	_	0	root	_	endali=88610|startali=87985
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=88610|startali=88610
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_59
+# sent_translation = She said she liked the nails , she has a crush for that long one.
+# speaker = D_KAD_22@Sp2_027:Godwin Joy Elego (Sp205)
+# text = she say [ { she no || she } like di nail //= na friendship >+ for dat long one ] //
+# timestamp = 1581882668.326983
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=88771|startali=88570
+2	say	say	VERB	_	_	0	root	_	endali=88971|startali=88771
+3	[	[	PUNCT	_	_	10	punct	_	endali=88971|startali=88971
+4	{	{	PUNCT	_	_	5	punct	_	endali=88971|startali=88971
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=89172|startali=88971
+6	no	no	PART	_	Polarity=Neg	5	orphan	_	endali=89373|startali=89172
+7	||	||	PUNCT	_	_	8	punct	_	endali=89373|startali=89373
+8	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	conj:dicto	_	endali=89574|startali=89373
+9	}	}	PUNCT	_	_	5	punct	_	endali=89574|startali=89574
+10	like	like	ADP	_	_	2	parataxis:obj	_	endali=89774|startali=89574
+11	di	the	DET	_	Definite=Def|PronType=Art	12	det	_	endali=89975|startali=89774
+12	nail	nail	NOUN	_	_	10	comp	_	endali=90176|startali=89975
+13	//=	//=	PUNCT	_	_	14	punct	_	endali=90176|startali=90176
+14	na	na	PART	_	PartType=Cop	10	parataxis:conj	_	endali=90376|startali=90176
+15	friendship	friendship	NOUN	_	_	14	comp:pred	_	endali=90577|startali=90376
+16	>+	>+	PUNCT	_	_	17	punct	_	endali=90577|startali=90577
+17	for	for	ADP	_	_	14	comp:cleft	_	endali=90778|startali=90577
+18	dat	dat	DET	_	Number=Sing|PronType=Dem	20	det	_	endali=90979|startali=90778
+19	long	long	ADJ	_	_	20	dep	_	endali=91179|startali=90979
+20	one	one	NOUN	_	_	17	comp	_	endali=91380|startali=91179
+21	]	]	PUNCT	_	_	10	punct	_	endali=91380|startali=91380
+22	//	//	PUNCT	_	_	2	punct	_	endali=91380|startali=91380
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_60
+# sent_translation = "I now told her ""Lady..."""
+# speaker = D_KAD_22@Sp2_028:Godwin Joy Elego (Sp205)
+# text = I con tell her sey [ Babe < & //] //
+# timestamp = 1581882668.326989
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=91633|startali=91380
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=91886|startali=91633
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=92138|startali=91886
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=92391|startali=92138
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=92644|startali=92391
+6	[	[	PUNCT	_	_	9	punct	_	endali=92644|startali=92644
+7	Babe	babe	PROPN	_	_	9	dislocated	_	endali=92897|startali=92644
+8	<	<	PUNCT	_	_	7	punct	_	endali=92897|startali=92897
+9	&	&	X	_	_	5	comp	_	endali=92897|startali=92897
+10	//]	//]	PUNCT	_	_	9	punct	_	endali=92897|startali=92897
+11	//	//	PUNCT	_	_	2	punct	_	endali=92897|startali=92897
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_61
+# sent_translation = A very long one!
+# speaker = D_KAD_22@Sp1_33:Sophia Mamadu (Sp204)
+# text = a very long one !//
+# timestamp = 1581882668.326994
+1	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	endali=91998|startali=91750
+2	very	very	ADV	_	_	3	mod	_	endali=92245|startali=91998
+3	long	long	ADJ	_	_	4	dep	_	endali=92492|startali=92245
+4	one	one	NOUN	_	_	0	root	_	endali=92740|startali=92492
+5	!//	!//	PUNCT	_	_	4	punct	_	endali=92740|startali=92740
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_62
+# sent_translation = She was now looking at me as if I do not know manicure.
+# speaker = D_KAD_22@Sp2_029:Godwin Joy Elego (Sp205)
+# text = she con dey look me like sey [ eh me < no sabi di nails ] //
+# timestamp = 1581882668.326999
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=93100|startali=92897
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=93302|startali=93100
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=93505|startali=93302
+4	look	look	VERB	_	_	3	comp:aux	_	endali=93707|startali=93505
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	endali=93910|startali=93707
+6	like	like	ADP	_	_	4	mod	_	endali=94112|startali=93910
+7	sey	sey	SCONJ	_	_	6	comp	_	endali=94315|startali=94112
+8	[	[	PUNCT	_	_	13	punct	_	endali=94315|startali=94315
+9	eh	eh	INTJ	_	_	13	discourse	_	endali=94517|startali=94315
+10	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	dislocated	_	endali=94720|startali=94517
+11	<	<	PUNCT	_	_	10	punct	_	endali=94720|startali=94720
+12	no	no	PART	_	Polarity=Neg	13	mod	_	endali=94922|startali=94720
+13	sabi	sabi	VERB	_	_	7	comp	_	endali=95125|startali=94922
+14	di	the	DET	_	Definite=Def|PronType=Art	15	det	_	endali=95327|startali=95125
+15	nails	nail	NOUN	_	Number=Plur	13	comp:obj	_	endali=95530|startali=95327
+16	]	]	PUNCT	_	_	13	punct	_	endali=95530|startali=95530
+17	//	//	PUNCT	_	_	2	punct	_	endali=95530|startali=95530
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_63
+# sent_translation = "I now told her ""Lady , I know hairdressing , I know this work. It is not today that they have recruited me for this work."""
+# speaker = D_KAD_22@Sp2_030:Godwin Joy Elego (Sp205)
+# text = I con tell am sey [ babe < I sabi dis hair //= I sabi dis work o //= no be today >+ dem don employ me for dis work //] //
+# timestamp = 1581882668.327005
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=95728|startali=95530
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=95927|startali=95728
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=96125|startali=95927
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	endali=96323|startali=96125
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=96522|startali=96323
+6	[	[	PUNCT	_	_	10	punct	_	endali=96522|startali=96522
+7	babe	babe	NOUN	_	_	10	dislocated	_	endali=96720|startali=96522
+8	<	<	PUNCT	_	_	7	punct	_	endali=96720|startali=96720
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	subj	_	endali=96919|startali=96720
+10	sabi	sabi	VERB	_	_	5	comp	_	endali=97117|startali=96919
+11	dis	dis	DET	_	Number=Sing|PronType=Dem	12	det	_	endali=97315|startali=97117
+12	hair	hair	NOUN	_	_	10	comp:obj	_	endali=97514|startali=97315
+13	//=	//=	PUNCT	_	_	15	punct	_	endali=97514|startali=97514
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	subj	_	endali=97712|startali=97514
+15	sabi	sabi	VERB	_	_	10	parataxis:conj	_	endali=97910|startali=97712
+16	dis	dis	DET	_	Number=Sing|PronType=Dem	17	det	_	endali=98109|startali=97910
+17	work	work	NOUN	_	_	15	comp:obj	_	endali=98307|startali=98109
+18	o	o	PART	_	PartType=Disc	17	mod:emph	_	endali=98505|startali=98307
+19	//=	//=	PUNCT	_	_	21	punct	_	endali=98505|startali=98505
+20	no	no	PART	_	Polarity=Neg	21	mod	_	endali=98704|startali=98505
+21	be	be	VERB	_	PartType=Cop	15	parataxis:conj	_	endali=98902|startali=98704
+22	today	today	NOUN	_	_	21	comp:pred	_	endali=99100|startali=98902
+23	>+	>+	PUNCT	_	_	25	punct	_	endali=99100|startali=99100
+24	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	subj	_	endali=99299|startali=99100
+25	don	don	AUX	_	Aspect=Perf	21	comp:cleft	_	endali=99497|startali=99299
+26	employ	employ	VERB	_	_	25	comp:aux	_	endali=99696|startali=99497
+27	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	26	comp:obj	_	endali=99894|startali=99696
+28	for	for	ADP	_	_	26	comp:obl	_	endali=100092|startali=99894
+29	dis	dis	DET	_	Number=Sing|PronType=Dem	30	det	_	endali=100291|startali=100092
+30	work	work	NOUN	_	_	28	comp	_	endali=100489|startali=100291
+31	//]	//]	PUNCT	_	_	10	punct	_	endali=100489|startali=100489
+32	//	//	PUNCT	_	_	2	punct	_	endali=100489|startali=100489
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_64
+# sent_translation = So , as I now told her that one she now said okay , I should do the manicure for her.
+# speaker = D_KAD_22@Sp2_031:Godwin Joy Elego (Sp205)
+# text = so as I con tell her dat talk < she con tell me sey [ okay < make I do di nails for her ] //
+# timestamp = 1581882668.32701
+1	so	so	ADV	_	_	11	discourse	_	endali=100708|startali=100489
+2	as	as	ADP	_	_	11	mod:periph	_	endali=100926|startali=100708
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=101145|startali=100926
+4	con	con	AUX	_	Aspect=Cons	2	comp	_	endali=101364|startali=101145
+5	tell	tell	VERB	_	_	4	comp:aux	_	endali=101582|startali=101364
+6	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	comp:obj	_	endali=101801|startali=101582
+7	dat	dat	DET	_	Number=Sing|PronType=Dem	8	det	_	endali=102020|startali=101801
+8	talk	talk	VERB	_	_	5	comp:obj	_	endali=102238|startali=102020
+9	<	<	PUNCT	_	_	2	punct	_	endali=102238|startali=102238
+10	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	subj	_	endali=102457|startali=102238
+11	con	con	AUX	_	Aspect=Cons	0	root	_	endali=102676|startali=102457
+12	tell	tell	VERB	_	_	11	comp:aux	_	endali=102894|startali=102676
+13	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	comp:obl	_	endali=103113|startali=102894
+14	sey	sey	SCONJ	_	_	12	comp:obj	_	endali=103332|startali=103113
+15	[	[	PUNCT	_	_	18	punct	_	endali=103332|startali=103332
+16	okay	OK	INTJ	_	_	18	discourse	_	endali=103550|startali=103332
+17	<	<	PUNCT	_	_	16	punct	_	endali=103550|startali=103550
+18	make	make	AUX	_	Mood=Sub	14	comp	_	endali=103769|startali=103550
+19	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	subj	_	endali=103988|startali=103769
+20	do	do	VERB	_	_	18	comp:aux	_	endali=104206|startali=103988
+21	di	the	DET	_	Definite=Def|PronType=Art	22	det	_	endali=104425|startali=104206
+22	nails	nail	NOUN	_	Number=Plur	20	comp:obj	_	endali=104644|startali=104425
+23	for	for	ADP	_	_	20	comp:obl	_	endali=104862|startali=104644
+24	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	23	comp	_	endali=105081|startali=104862
+25	]	]	PUNCT	_	_	18	punct	_	endali=105081|startali=105081
+26	//	//	PUNCT	_	_	11	punct	_	endali=105081|startali=105081
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_65
+# sent_translation = She was now bargaining.
+# speaker = D_KAD_22@Sp2_032:Godwin Joy Elego (Sp205)
+# text = she con dey price o //
+# timestamp = 1581882668.327015
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=105273|startali=105081
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=105465|startali=105273
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=105656|startali=105465
+4	price	price	NOUN	_	_	3	comp:aux	_	endali=105848|startali=105656
+5	o	o	PART	_	PartType=Disc	4	mod:emph	_	endali=106040|startali=105848
+6	//	//	PUNCT	_	_	2	punct	_	endali=106040|startali=106040
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_66
+# sent_translation = A manicure that we do for two thousand , she now said she was going to pay eight hundred.
+# speaker = D_KAD_22@Sp2_033:Godwin Joy Elego (Sp205)
+# text = nails wey we dey do two thousand < she con tell me sey [ na eight hundred she go pay ] //
+# timestamp = 1581882668.327021
+1	nails	nail	NOUN	_	Number=Plur	10	dislocated	_	endali=106497|startali=106360
+2	wey	when	SCONJ	_	_	1	dep	_	endali=106634|startali=106497
+3	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=106771|startali=106634
+4	dey	dey	AUX	_	Aspect=Imp	2	comp	_	endali=106908|startali=106771
+5	do	do	VERB	_	_	4	comp:aux	_	endali=107045|startali=106908
+6	two	two	NUM	_	NumType=Card	7	compound	_	endali=107182|startali=107045
+7	thousand	thousand	NUM	_	NumType=Card	5	comp:obj	_	endali=107319|startali=107182
+8	<	<	PUNCT	_	_	1	punct	_	endali=107319|startali=107319
+9	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=107456|startali=107319
+10	con	con	AUX	_	Aspect=Cons	0	root	_	endali=107593|startali=107456
+11	tell	tell	VERB	_	_	10	comp:aux	_	endali=107730|startali=107593
+12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	comp:obl	_	endali=107867|startali=107730
+13	sey	sey	SCONJ	_	_	11	comp:obj	_	endali=108004|startali=107867
+14	[	[	PUNCT	_	_	15	punct	_	endali=108004|startali=108004
+15	na	na	PART	_	PartType=Cop	13	comp	_	endali=108141|startali=108004
+16	eight	eight	NUM	_	NumType=Card	17	compound	_	endali=108278|startali=108141
+17	hundred	hundred	NUM	_	NumType=Card	18	dep	_	endali=108415|startali=108278
+18	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	subj	_	endali=108552|startali=108415
+19	go	go	AUX	_	Aspect=Prosp	15	comp:pred	_	endali=108689|startali=108552
+20	pay	pay	VERB	_	_	19	comp:aux	_	endali=108826|startali=108689
+21	]	]	PUNCT	_	_	15	punct	_	endali=108826|startali=108826
+22	//	//	PUNCT	_	_	10	punct	_	endali=108826|startali=108826
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_67
+# sent_translation = "I said ""Is that so?"""
+# speaker = D_KAD_22@Sp2_034:Godwin Joy Elego (Sp205)
+# text = I now say [ shu !// ] //
+# timestamp = 1581882668.327026
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=109062|startali=108826
+2	now	now	ADV	_	_	3	mod	_	endali=109298|startali=109062
+3	say	say	VERB	_	_	0	root	_	endali=109534|startali=109298
+4	[	[	PUNCT	_	_	5	punct	_	endali=109534|startali=109534
+5	shu	shu	NOUN	_	_	3	parataxis:obj	_	endali=109770|startali=109534
+6	!//	!//	PUNCT	_	_	5	punct	_	endali=109770|startali=109770
+7	]	]	PUNCT	_	_	5	punct	_	endali=109770|startali=109770
+8	//	//	PUNCT	_	_	3	punct	_	endali=109770|startali=109770
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_68
+# sent_translation = Is that so?
+# speaker = D_KAD_22@Sp1_34:Sophia Mamadu (Sp204)
+# text = shu !//
+# timestamp = 1581882668.327031
+1	shu	shu	INTJ	_	_	0	root	_	endali=109560|startali=109180
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=109560|startali=109560
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_69
+# sent_translation = Where are you from now ?
+# speaker = D_KAD_22@Sp2_035:Godwin Joy Elego (Sp205)
+# text = wey you comot from now ?//
+# timestamp = 1581882668.327036
+1	wey	when	SCONJ	_	_	0	root	_	endali=110032|startali=109770
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	endali=110294|startali=110032
+3	comot	comot	VERB	_	_	1	comp	_	endali=110557|startali=110294
+4	from	from	ADP	_	_	3	comp:obl	_	endali=110819|startali=110557
+5	now	now	ADV	_	_	4	comp	_	endali=111081|startali=110819
+6	?//	?//	PUNCT	_	_	1	punct	_	endali=111081|startali=111081
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_70
+# sent_translation = Lady , we don't do that kind of manicure in this shop.
+# speaker = D_KAD_22@Sp2_036:Godwin Joy Elego (Sp205)
+# text = babe < we no dey do dat kain nail for dis shop o //
+# timestamp = 1581882668.327042
+1	babe	babe	NOUN	_	_	5	dislocated	_	endali=111201|startali=111081
+2	<	<	PUNCT	_	_	1	punct	_	endali=111201|startali=111201
+3	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=111321|startali=111201
+4	no	no	PART	_	Polarity=Neg	5	mod	_	endali=111441|startali=111321
+5	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=111561|startali=111441
+6	do	do	VERB	_	_	5	comp:aux	_	endali=111681|startali=111561
+7	dat	dat	DET	_	Number=Sing|PronType=Dem	9	det	_	endali=111800|startali=111681
+8	kain	kind	NOUN	_	_	9	dep	_	endali=111920|startali=111800
+9	nail	nail	NOUN	_	_	6	comp:obj	_	endali=112040|startali=111920
+10	for	for	ADP	_	_	6	comp:obl	_	endali=112160|startali=112040
+11	dis	dis	DET	_	Number=Sing|PronType=Dem	12	det	_	endali=112280|startali=112160
+12	shop	shop	NOUN	_	_	10	comp	_	endali=112400|startali=112280
+13	o	o	PART	_	PartType=Disc	12	mod:emph	_	endali=112520|startali=112400
+14	//	//	PUNCT	_	_	5	punct	_	endali=112520|startali=112520
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_71
+# sent_translation = Don't you know that our shop is a standard one?
+# speaker = D_KAD_22@Sp2_037:Godwin Joy Elego (Sp205)
+# text = you know sey [ our shop standard ] //
+# timestamp = 1581882668.327047
+1	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	2	subj	_	endali=112735|startali=112520
+2	know	know	VERB	_	_	0	root	_	endali=112950|startali=112735
+3	sey	sey	SCONJ	_	_	2	comp:obj	_	endali=113165|startali=112950
+4	[	[	PUNCT	_	_	7	punct	_	endali=113165|startali=113165
+5	our	our	ADJ	_	Number=Plur|Person=1|Poss=Yes	6	dep	_	endali=113380|startali=113165
+6	shop	shop	NOUN	_	_	7	compound	_	endali=113595|startali=113380
+7	standard	standard	NOUN	_	_	3	comp	_	endali=113810|startali=113595
+8	]	]	PUNCT	_	_	7	punct	_	endali=113810|startali=113810
+9	//	//	PUNCT	_	_	2	punct	_	endali=113810|startali=113810
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_72
+# sent_translation = Ehn!
+# speaker = D_KAD_22@Sp1_35:Sophia Mamadu (Sp204)
+# text = ehn !//
+# timestamp = 1581882668.327052
+1	ehn	ehn	INTJ	_	_	0	root	_	endali=113875|startali=112655
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=113875|startali=113875
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_73
+# sent_translation = She now said that she doesn't have enough money , that is what she has.
+# speaker = D_KAD_22@Sp2_038:Godwin Joy Elego (Sp205)
+# text = she con talk sey [ toh she < she no get money o //= na wetin she get >+ be dat ] //
+# timestamp = 1581882668.327057
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=114003|startali=113810
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=114196|startali=114003
+3	talk	talk	VERB	_	_	2	comp:aux	_	endali=114389|startali=114196
+4	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=114582|startali=114389
+5	[	[	PUNCT	_	_	11	punct	_	endali=114582|startali=114582
+6	toh	toh	INTJ	_	_	11	discourse	_	endali=114775|startali=114582
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	dislocated	_	endali=114968|startali=114775
+8	<	<	PUNCT	_	_	7	punct	_	endali=114968|startali=114968
+9	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	subj	_	endali=115161|startali=114968
+10	no	no	PART	_	Polarity=Neg	11	mod	_	endali=115354|startali=115161
+11	get	get	VERB	_	_	4	comp	_	endali=115548|startali=115354
+12	money	money	NOUN	_	_	11	comp:obj	_	endali=115741|startali=115548
+13	o	o	PART	_	PartType=Disc	12	mod:emph	_	endali=115934|startali=115741
+14	//=	//=	PUNCT	_	_	15	punct	_	endali=115934|startali=115934
+15	na	na	PART	_	PartType=Cop	11	parataxis:conj	_	endali=116127|startali=115934
+16	wetin	wetin	PRON	_	PronType=Int	15	comp:pred	_	endali=116320|startali=116127
+17	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	subj	_	endali=116513|startali=116320
+18	get	get	VERB	_	_	16	dep	_	endali=116706|startali=116513
+19	>+	>+	PUNCT	_	_	20	punct	_	endali=116706|startali=116706
+20	be	be	VERB	_	PartType=Cop	15	comp:cleft	_	endali=116899|startali=116706
+21	dat	dat	PRON	_	Number=Sing|PronType=Dem	20	subj	_	endali=117092|startali=116899
+22	]	]	PUNCT	_	_	11	punct	_	endali=117092|startali=117092
+23	//	//	PUNCT	_	_	2	punct	_	endali=117092|startali=117092
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_74
+# sent_translation = "I now said ""Okay , since you do not have money , go and meet my management , because I do not have the right to reduce the price for you."""
+# speaker = D_KAD_22@Sp2_039:Godwin Joy Elego (Sp205)
+# text = naim I con tell am sey [ toh unto sey you no get money o < go meet my management because me < no get right to reduce price for you //] //
+# timestamp = 1581882668.327062
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=117275|startali=117092
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=117457|startali=117275
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=117640|startali=117457
+4	tell	tell	VERB	_	_	3	comp:aux	_	endali=117822|startali=117640
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	endali=118005|startali=117822
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=118187|startali=118005
+7	[	[	PUNCT	_	_	17	punct	_	endali=118187|startali=118187
+8	toh	toh	INTJ	_	_	17	discourse	_	endali=118370|startali=118187
+9	unto	unto	ADP	_	_	17	mod:periph	_	endali=118553|startali=118370
+10	sey	sey	SCONJ	_	_	9	fixed	_	endali=118735|startali=118553
+11	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	13	subj	_	endali=118918|startali=118735
+12	no	no	PART	_	Polarity=Neg	13	mod	_	endali=119100|startali=118918
+13	get	get	VERB	_	_	9	comp	_	endali=119283|startali=119100
+14	money	money	NOUN	_	_	13	comp:obj	_	endali=119465|startali=119283
+15	o	o	PART	_	PartType=Disc	14	mod:emph	_	endali=119648|startali=119465
+16	<	<	PUNCT	_	_	9	punct	_	endali=119648|startali=119648
+17	go	go	VERB	_	_	6	comp	_	endali=119831|startali=119648
+18	meet	meet	VERB	_	_	17	comp:pred	_	endali=120013|startali=119831
+19	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	20	dep	_	endali=120196|startali=120013
+20	management	management	NOUN	_	_	18	comp:obj	_	endali=120378|startali=120196
+21	because	because	SCONJ	_	_	18	mod	_	endali=120561|startali=120378
+22	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	dislocated	_	endali=120743|startali=120561
+23	<	<	PUNCT	_	_	22	punct	_	endali=120743|startali=120743
+24	no	no	PART	_	Polarity=Neg	25	mod	_	endali=120926|startali=120743
+25	get	get	VERB	_	_	21	comp	_	endali=121109|startali=120926
+26	right	right	NOUN	_	_	25	comp:obj	_	endali=121291|startali=121109
+27	to	to	ADP	_	_	25	comp:pred	_	endali=121474|startali=121291
+28	reduce	reduce	VERB	_	_	27	comp	_	endali=121656|startali=121474
+29	price	price	NOUN	_	_	28	comp:obj	_	endali=121839|startali=121656
+30	for	for	ADP	_	_	28	comp:obl	_	endali=122021|startali=121839
+31	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	30	comp	_	endali=122204|startali=122021
+32	//]	//]	PUNCT	_	_	17	punct	_	endali=122204|startali=122204
+33	//	//	PUNCT	_	_	3	punct	_	endali=122204|startali=122204
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_75
+# sent_translation = Aha!
+# speaker = D_KAD_22@Sp1_36:Sophia Mamadu (Sp204)
+# text = aha !//
+# timestamp = 1581882668.327067
+1	aha	aha	INTJ	_	_	0	root	_	endali=121095|startali=120505
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=121095|startali=121095
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_76
+# sent_translation = That was how we discussed.
+# speaker = D_KAD_22@Sp2_040:Godwin Joy Elego (Sp205)
+# text = na so >+ we be yarn //
+# timestamp = 1581882668.327072
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=122367|startali=122204
+2	so	so	ADV	_	_	1	comp:pred	_	endali=122530|startali=122367
+3	>+	>+	PUNCT	_	_	5	punct	_	endali=122530|startali=122530
+4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=122693|startali=122530
+5	be	be	VERB	_	PartType=Cop	1	comp:cleft	_	endali=122856|startali=122693
+6	yarn	yarn	NOUN	_	_	5	comp:pred	_	endali=123019|startali=122856
+7	//	//	PUNCT	_	_	1	punct	_	endali=123019|startali=123019
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_77
+# sent_translation = We went on and on discussing.
+# speaker = D_KAD_22@Sp2_041:Godwin Joy Elego (Sp205)
+# text = we be { yarn |r yarn |r yarn |r yarn }
+# timestamp = 1581882668.327078
+1	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	subj	_	endali=123209|startali=123019
+2	be	be	VERB	_	PartType=Cop	0	root	_	endali=123398|startali=123209
+3	{	{	PUNCT	_	_	4	punct	_	endali=123398|startali=123398
+4	yarn	yarn	VERB	_	_	2	comp:pred	_	endali=123588|startali=123398
+5	|r	|r	PUNCT	_	_	6	punct	_	endali=123588|startali=123588
+6	yarn	yarn	VERB	_	_	4	compound:redup	_	endali=123778|startali=123588
+7	|r	|r	PUNCT	_	_	8	punct	_	endali=123778|startali=123778
+8	yarn	yarn	VERB	_	_	6	compound:redup	_	endali=123967|startali=123778
+9	|r	|r	PUNCT	_	_	10	punct	_	endali=123967|startali=123967
+10	yarn	yarn	VERB	_	_	8	compound:redup	_	endali=124157|startali=123967
+11	}	}	PUNCT	_	_	4	punct	_	endali=124157|startali=124157
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_78
+# sent_translation = Such that the lady went to meet the management.
+# speaker = D_KAD_22@Sp2_042:Godwin Joy Elego (Sp205)
+# text = sotay di girl con go meet management //
+# timestamp = 1581882668.327083
+1	sotay	sotay	SCONJ	_	_	4	cc	_	endali=124297|startali=124157
+2	di	the	DET	_	Definite=Def|PronType=Art	3	det	_	endali=124437|startali=124297
+3	girl	girl	NOUN	_	_	4	subj	_	endali=124577|startali=124437
+4	con	con	AUX	_	Aspect=Cons	0	root	_	endali=124718|startali=124577
+5	go	go	VERB	_	_	4	comp:aux	_	endali=124858|startali=124718
+6	meet	meet	VERB	_	_	5	comp:pred	_	endali=124998|startali=124858
+7	management	management	NOUN	_	_	6	comp:obj	_	endali=125138|startali=124998
+8	//	//	PUNCT	_	_	4	punct	_	endali=125138|startali=125138
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_79
+# sent_translation = They now reduced the price for her.
+# speaker = D_KAD_22@Sp2_043:Godwin Joy Elego (Sp205)
+# text = dem con reduce money for her o //
+# timestamp = 1581882668.327088
+1	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	subj	_	endali=125342|startali=125138
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=125546|startali=125342
+3	reduce	reduce	VERB	_	_	2	comp:aux	_	endali=125750|startali=125546
+4	money	money	NOUN	_	_	3	comp:obj	_	endali=125953|startali=125750
+5	for	for	ADP	_	_	3	comp:obl	_	endali=126157|startali=125953
+6	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	comp	_	endali=126361|startali=126157
+7	o	o	PART	_	PartType=Disc	6	mod:emph	_	endali=126565|startali=126361
+8	//	//	PUNCT	_	_	2	punct	_	endali=126565|startali=126565
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_80
+# sent_translation = She tried.
+# speaker = D_KAD_22@Sp1_37:Sophia Mamadu (Sp204)
+# text = she try o //
+# timestamp = 1581882668.327093
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=127047|startali=126700
+2	try	try	VERB	_	_	0	root	_	endali=127393|startali=127047
+3	o	o	PART	_	PartType=Disc	2	mod:emph	_	endali=127740|startali=127393
+4	//	//	PUNCT	_	_	2	punct	_	endali=127740|startali=127740
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_81
+# sent_translation = When they now finished the hair , she now liked it.
+# speaker = D_KAD_22@Sp2_044:Godwin Joy Elego (Sp205)
+# text = when dem con finish di hair < na so >+ she con like am //
+# timestamp = 1581882668.327098
+1	when	when	ADV	_	PronType=Int	8	mod:periph	_	endali=128066|startali=127935
+2	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	subj	_	endali=128198|startali=128066
+3	con	con	AUX	_	Aspect=Cons	1	comp	_	endali=128329|startali=128198
+4	finish	finish	VERB	_	_	3	comp:aux	_	endali=128460|startali=128329
+5	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=128591|startali=128460
+6	hair	hair	NOUN	_	_	4	comp:obj	_	endali=128722|startali=128591
+7	<	<	PUNCT	_	_	1	punct	_	endali=128722|startali=128722
+8	na	na	PART	_	PartType=Cop	0	root	_	endali=128854|startali=128722
+9	so	so	ADV	_	_	8	comp:pred	_	endali=128985|startali=128854
+10	>+	>+	PUNCT	_	_	12	punct	_	endali=128985|startali=128985
+11	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	subj	_	endali=129116|startali=128985
+12	con	con	AUX	_	Aspect=Cons	8	comp:cleft	_	endali=129248|startali=129116
+13	like	like	VERB	_	_	12	comp:aux	_	endali=129379|startali=129248
+14	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	comp:obj	_	endali=129510|startali=129379
+15	//	//	PUNCT	_	_	8	punct	_	endali=129510|startali=129510
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_82
+# sent_translation = Is that so?
+# speaker = D_KAD_22@Sp1_38:Sophia Mamadu (Sp204)
+# text = shu !//
+# timestamp = 1581882668.327104
+1	shu	shu	INTJ	_	_	0	root	_	endali=128860|startali=128170
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=128860|startali=128860
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_83
+# sent_translation = She was now doing as if she was a celebrity.
+# speaker = D_KAD_22@Sp2_045:Godwin Joy Elego (Sp205)
+# text = she con dey do { li- || feel } herself like sey [ she be celebrity too much ] //
+# timestamp = 1581882668.32711
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=129685|startali=129510
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=129861|startali=129685
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=130036|startali=129861
+4	do	do	VERB	_	_	3	comp:aux	_	endali=130211|startali=130036
+5	{	{	PUNCT	_	_	6	punct	_	endali=130211|startali=130211
+6	li-	X	X	_	_	4	comp:obj	_	endali=130386|startali=130211
+7	||	||	PUNCT	_	_	8	punct	_	endali=130386|startali=130386
+8	feel	feel	VERB	_	_	6	conj:dicto	_	endali=130562|startali=130386
+9	}	}	PUNCT	_	_	8	punct	_	endali=130562|startali=130562
+10	herself	herrsef	PRON	_	Case=Acc|Person=2|PronType=Prs|Reflex=Yes	8	comp:obj	_	endali=130737|startali=130562
+11	like	like	ADP	_	_	8	mod	_	endali=130912|startali=130737
+12	sey	sey	SCONJ	_	_	11	comp	_	endali=131088|startali=130912
+13	[	[	PUNCT	_	_	15	punct	_	endali=131088|startali=131088
+14	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	subj	_	endali=131263|startali=131088
+15	be	be	VERB	_	PartType=Cop	12	comp	_	endali=131438|startali=131263
+16	celebrity	celebrity	NOUN	_	_	15	comp:pred	_	endali=131613|startali=131438
+17	too	too	ADV	_	_	18	mod	_	endali=131789|startali=131613
+18	much	much	ADJ	_	_	16	mod	_	endali=131964|startali=131789
+19	]	]	PUNCT	_	_	15	punct	_	endali=131964|startali=131964
+20	//	//	PUNCT	_	_	2	punct	_	endali=131964|startali=131964
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_84
+# sent_translation = she was now carrying her nails here , I see her now shouting hallelluyah.
+# speaker = D_KAD_22@Sp1_39:Sophia Mamadu (Sp204)
+# text = she con dey carry her nails for here //= I dey see her now dey shout hallelluyah //
+# timestamp = 1581882668.327115
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=130791|startali=130570
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=131011|startali=130791
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=131232|startali=131011
+4	carry	carry	VERB	_	_	3	comp:aux	_	endali=131452|startali=131232
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	6	dep	_	endali=131673|startali=131452
+6	nails	nail	NOUN	_	Number=Plur	4	comp:obj	_	endali=131894|startali=131673
+7	for	for	ADP	_	_	4	mod	_	endali=132114|startali=131894
+8	here	here	ADV	_	_	7	comp	_	endali=132335|startali=132114
+9	//=	//=	PUNCT	_	_	11	punct	_	endali=132335|startali=132335
+10	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	endali=132556|startali=132335
+11	dey	dey	AUX	_	Aspect=Imp	2	parataxis:conj	_	endali=132776|startali=132556
+12	see	see	VERB	_	_	11	comp:aux	_	endali=132997|startali=132776
+13	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	12	comp:obj	_	endali=133218|startali=132997
+14	now	now	ADV	_	_	12	mod	_	endali=133438|startali=133218
+15	dey	dey	AUX	_	Aspect=Imp	12	mod	_	endali=133659|startali=133438
+16	shout	shout	VERB	_	_	15	comp:aux	_	endali=133879|startali=133659
+17	hallelluyah	hallelluyah	INTJ	_	_	16	discourse	_	endali=134100|startali=133879
+18	//	//	PUNCT	_	_	2	punct	_	endali=134100|startali=134100
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_85
+# sent_translation = She was now doing selfies , was doing Skype , everything everything.
+# speaker = D_KAD_22@Sp2_046:Godwin Joy Elego (Sp205)
+# text = { con dey || she con dey } do selfie |c { dey do || dey do } { all dese Skype |c everything [yor gbogbo ti gbo gbo yor] } //
+# timestamp = 1581882668.327121
+1	{	{	PUNCT	_	_	2	punct	_	endali=131964|startali=131964
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=132246|startali=131964
+3	dey	dey	AUX	_	Aspect=Imp	2	comp:aux	_	endali=132529|startali=132246
+4	||	||	PUNCT	_	_	6	punct	_	endali=132529|startali=132529
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=132811|startali=132529
+6	con	con	AUX	_	Aspect=Cons	2	conj:dicto	_	endali=133094|startali=132811
+7	dey	dey	AUX	_	Aspect=Imp	6	comp:aux	_	endali=133376|startali=133094
+8	}	}	PUNCT	_	_	7	punct	_	endali=133376|startali=133376
+9	do	do	VERB	_	_	7	comp:aux	_	endali=133659|startali=133376
+10	selfie	selfie	NOUN	_	_	9	comp:obj	_	endali=133941|startali=133659
+11	|c	|c	PUNCT	_	_	13	punct	_	endali=133941|startali=133941
+12	{	{	PUNCT	_	_	13	punct	_	endali=133941|startali=133941
+13	dey	dey	AUX	_	Aspect=Imp	6	conj:coord	_	endali=134223|startali=133941
+14	do	do	VERB	_	_	13	comp:aux	_	endali=134506|startali=134223
+15	||	||	PUNCT	_	_	16	punct	_	endali=134506|startali=134506
+16	dey	dey	AUX	_	Aspect=Imp	13	conj:dicto	_	endali=134788|startali=134506
+17	do	do	VERB	_	_	16	comp:aux	_	endali=135071|startali=134788
+18	}	}	PUNCT	_	_	13	punct	_	endali=135071|startali=135071
+19	{	{	PUNCT	_	_	22	punct	_	endali=135071|startali=135071
+20	all	all	ADV	_	_	22	det	_	endali=135353|startali=135071
+21	dese	dese	DET	_	Number=Plur|PronType=Dem	22	det	_	endali=135635|startali=135353
+22	Skype	Skype	NOUN	_	_	2	comp:obj	_	endali=135918|startali=135635
+23	|c	|c	PUNCT	_	_	24	punct	_	endali=135918|startali=135918
+24	everything	everything	PRON	_	_	22	conj:coord	_	endali=136200|startali=135918
+25	[yor	[yor	PUNCT	_	_	22	punct	_	endali=136200|startali=136200
+26	gbogbo	gbogbo	X	_	_	22	flat:foreign	_	endali=136483|startali=136200
+27	ti	ti	X	_	_	26	flat:foreign	_	endali=136765|startali=136483
+28	gbo	gbo	X	_	_	27	flat:foreign	_	endali=137048|startali=136765
+29	gbo	gbo	X	_	_	28	flat:foreign	_	endali=137330|startali=137048
+30	yor]	yor]	PUNCT	_	_	22	punct	_	endali=137330|startali=137330
+31	}	}	PUNCT	_	_	22	punct	_	endali=137330|startali=137330
+32	//	//	PUNCT	_	_	2	punct	_	endali=137330|startali=137330
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_86
+# sent_translation = That girl , that lady was no good at all.
+# speaker = D_KAD_22@Sp2_047:Godwin Joy Elego (Sp205)
+# text = { dat girl || dat babe } < no try at all //
+# timestamp = 1581882668.327127
+1	{	{	PUNCT	_	_	3	punct	_	endali=137570|startali=137570
+2	dat	dat	DET	_	Number=Sing|PronType=Dem	3	det	_	endali=137855|startali=137570
+3	girl	girl	NOUN	_	_	10	subj	_	endali=138140|startali=137855
+4	||	||	PUNCT	_	_	6	punct	_	endali=138140|startali=138140
+5	dat	dat	DET	_	Number=Sing|PronType=Dem	6	det	_	endali=138425|startali=138140
+6	babe	babe	NOUN	_	_	3	conj:dicto	_	endali=138710|startali=138425
+7	}	}	PUNCT	_	_	3	punct	_	endali=138710|startali=138710
+8	<	<	PUNCT	_	_	3	punct	_	endali=138710|startali=138710
+9	no	no	PART	_	Polarity=Neg	10	mod	_	endali=138995|startali=138710
+10	try	try	VERB	_	_	0	root	_	endali=139280|startali=138995
+11	at	at	ADP	_	_	10	mod	_	endali=139565|startali=139280
+12	all	all	ADV	_	_	11	fixed	_	endali=139850|startali=139565
+13	//	//	PUNCT	_	_	10	punct	_	endali=139850|startali=139850
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_87
+# sent_translation = That was how the matter ended.
+# speaker = D_KAD_22@Sp2_048:Godwin Joy Elego (Sp205)
+# text = na so di matter take end //
+# timestamp = 1581882668.327132
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=140453|startali=140280
+2	so	so	ADV	_	_	5	discourse	_	endali=140627|startali=140453
+3	di	the	DET	_	Definite=Def|PronType=Art	4	det	_	endali=140800|startali=140627
+4	matter	matter	NOUN	_	_	5	subj	_	endali=140973|startali=140800
+5	take	take	VERB	_	_	1	comp:pred	_	endali=141147|startali=140973
+6	end	end	VERB	_	_	5	compound:svc	_	endali=141320|startali=141147
+7	//	//	PUNCT	_	_	1	punct	_	endali=141320|startali=141320
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_88
+# sent_translation = Hm!
+# speaker = D_KAD_22@Sp1_40:Sophia Mamadu (Sp204)
+# text = hm //
+# timestamp = 1581882668.327138
+1	hm	hm	INTJ	_	_	0	root	_	endali=143675|startali=141955
+2	//	//	PUNCT	_	_	1	punct	_	endali=143675|startali=143675
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_89
+# sent_translation = So as it is now , the manager now knew.
+# speaker = D_KAD_22@Sp2_049:Godwin Joy Elego (Sp205)
+# text = so as e be now < manager con know //
+# timestamp = 1581882668.327143
+1	so	so	ADV	_	_	8	discourse	_	endali=143896|startali=143635
+2	as	as	ADP	_	_	8	mod:periph	_	endali=144156|startali=143896
+3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=144416|startali=144156
+4	be	be	VERB	_	PartType=Cop	2	comp	_	endali=144677|startali=144416
+5	now	now	ADV	_	_	4	mod:emph	_	endali=144938|startali=144677
+6	<	<	PUNCT	_	_	2	punct	_	endali=144938|startali=144938
+7	manager	manager	NOUN	_	_	8	subj	_	endali=145198|startali=144938
+8	con	con	AUX	_	Aspect=Cons	0	root	_	endali=145458|startali=145198
+9	know	know	VERB	_	_	8	comp:aux	_	endali=145719|startali=145458
+10	//	//	PUNCT	_	_	8	punct	_	endali=145719|startali=145719
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_90
+# sent_translation = "I also told her ""Okay , you dont have enought money , do the one you can affor , do the one that you can afford."""
+# speaker = D_KAD_22@Sp2_050:Godwin Joy Elego (Sp205)
+# text = me too I con tell her sey [ okay o < you no get money < do di one wey your money reach //= do the one wey your money reach o // ] //
+# timestamp = 1581882668.327149
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	endali=145939|startali=145719
+2	too	too	ADV	_	_	4	mod	_	endali=146159|startali=145939
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=146380|startali=146159
+4	con	con	AUX	_	Aspect=Cons	0	root	_	endali=146600|startali=146380
+5	tell	tell	VERB	_	_	4	comp:aux	_	endali=146820|startali=146600
+6	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	comp:obj	_	endali=147040|startali=146820
+7	sey	sey	SCONJ	_	_	5	comp:obj	_	endali=147260|startali=147040
+8	[	[	PUNCT	_	_	17	punct	_	endali=147260|startali=147260
+9	okay	OK	INTJ	_	_	17	discourse	_	endali=147481|startali=147260
+10	o	o	PART	_	PartType=Disc	9	mod:emph	_	endali=147701|startali=147481
+11	<	<	PUNCT	_	_	9	punct	_	endali=147701|startali=147701
+12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	14	subj	_	endali=147921|startali=147701
+13	no	no	PART	_	Polarity=Neg	14	mod	_	endali=148141|startali=147921
+14	get	get	VERB	_	_	17	parataxis:dislocated	_	endali=148362|startali=148141
+15	money	money	NOUN	_	_	14	comp:obj	_	endali=148582|startali=148362
+16	<	<	PUNCT	_	_	14	punct	_	endali=148582|startali=148582
+17	do	do	VERB	_	_	7	comp	_	endali=148802|startali=148582
+18	di	the	DET	_	Definite=Def|PronType=Art	19	det	_	endali=149022|startali=148802
+19	one	one	NOUN	_	_	17	comp:obj	_	endali=149242|startali=149022
+20	wey	when	SCONJ	_	_	19	dep	_	endali=149463|startali=149242
+21	your	your	ADJ	_	Person=2|Poss=Yes	22	dep	_	endali=149683|startali=149463
+22	money	money	NOUN	_	_	23	subj	_	endali=149903|startali=149683
+23	reach	reach	VERB	_	_	20	comp	_	endali=150123|startali=149903
+24	//=	//=	PUNCT	_	_	25	punct	_	endali=150123|startali=150123
+25	do	do	VERB	_	_	17	parataxis:conj	_	endali=150344|startali=150123
+26	the	the	DET	_	Definite=Def|PronType=Art	27	det	_	endali=150564|startali=150344
+27	one	one	NOUN	_	_	25	comp:obj	_	endali=150784|startali=150564
+28	wey	when	SCONJ	_	_	27	dep	_	endali=151004|startali=150784
+29	your	your	ADJ	_	Person=2|Poss=Yes	30	dep	_	endali=151224|startali=151004
+30	money	money	NOUN	_	_	31	subj	_	endali=151445|startali=151224
+31	reach	reach	VERB	_	_	28	comp	_	endali=151665|startali=151445
+32	o	o	PART	_	PartType=Disc	31	mod:emph	_	endali=151885|startali=151665
+33	//	//	PUNCT	_	_	17	punct	_	endali=151885|startali=151885
+34	]	]	PUNCT	_	_	17	punct	_	endali=151885|startali=151885
+35	//	//	PUNCT	_	_	4	punct	_	endali=151885|startali=151885
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_91
+# sent_translation = "She now said no , she is not doing that one; it is that one she wants; that's the one she must do."
+# speaker = D_KAD_22@Sp2_051:Godwin Joy Elego (Sp205)
+# text = she con say [ so she < she no go do dat one o //= na dat one >+ wey [ she < she want ] //= na im >+ [ she < she must do ] ] //
+# timestamp = 1581882668.327154
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=152090|startali=151885
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=152295|startali=152090
+3	say	say	VERB	_	_	2	comp:aux	_	endali=152500|startali=152295
+4	[	[	PUNCT	_	_	10	punct	_	endali=152500|startali=152500
+5	so	so	ADV	_	_	10	discourse	_	endali=152705|startali=152500
+6	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	dislocated	_	endali=152910|startali=152705
+7	<	<	PUNCT	_	_	6	punct	_	endali=152910|startali=152910
+8	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=153115|startali=152910
+9	no	no	PART	_	Polarity=Neg	10	mod	_	endali=153320|startali=153115
+10	go	go	AUX	_	Aspect=Prosp	3	parataxis:obj	_	endali=153525|startali=153320
+11	do	do	VERB	_	_	10	comp:aux	_	endali=153730|startali=153525
+12	dat	dat	DET	_	Number=Sing|PronType=Dem	13	det	_	endali=153935|startali=153730
+13	one	one	NOUN	_	_	11	comp:obj	_	endali=154140|startali=153935
+14	o	o	PART	_	PartType=Disc	13	mod:emph	_	endali=154345|startali=154140
+15	//=	//=	PUNCT	_	_	16	punct	_	endali=154345|startali=154345
+16	na	na	PART	_	PartType=Cop	10	parataxis:conj	_	endali=154550|startali=154345
+17	dat	dat	DET	_	Number=Sing|PronType=Dem	18	det	_	endali=154755|startali=154550
+18	one	one	NOUN	_	_	16	comp:pred	_	endali=154960|startali=154755
+19	>+	>+	PUNCT	_	_	20	punct	_	endali=154960|startali=154960
+20	wey	when	SCONJ	_	_	16	comp:cleft	_	endali=155165|startali=154960
+21	[	[	PUNCT	_	_	25	punct	_	endali=155165|startali=155165
+22	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	dislocated	_	endali=155370|startali=155165
+23	<	<	PUNCT	_	_	22	punct	_	endali=155370|startali=155370
+24	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	subj	_	endali=155575|startali=155370
+25	want	want	VERB	_	_	20	comp	_	endali=155780|startali=155575
+26	]	]	PUNCT	_	_	25	punct	_	endali=155780|startali=155780
+27	//=	//=	PUNCT	_	_	28	punct	_	endali=155780|startali=155780
+28	na	na	PART	_	PartType=Cop	16	parataxis:conj	_	endali=155985|startali=155780
+29	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	28	comp:pred	_	endali=156190|startali=155985
+30	>+	>+	PUNCT	_	_	35	punct	_	endali=156190|startali=156190
+31	[	[	PUNCT	_	_	35	punct	_	endali=156190|startali=156190
+32	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	dislocated	_	endali=156395|startali=156190
+33	<	<	PUNCT	_	_	32	punct	_	endali=156395|startali=156395
+34	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	subj	_	endali=156600|startali=156395
+35	must	must	AUX	_	VerbForm=Fin	28	comp:cleft	_	endali=156805|startali=156600
+36	do	do	VERB	_	_	35	comp:aux	_	endali=157010|startali=156805
+37	]	]	PUNCT	_	_	35	punct	_	endali=157010|startali=157010
+38	]	]	PUNCT	_	_	10	punct	_	endali=157010|startali=157010
+39	//	//	PUNCT	_	_	2	punct	_	endali=157010|startali=157010
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_92
+# sent_translation = Management now told her that we do not do manicures for eight hundred in this shop.
+# speaker = D_KAD_22@Sp2_052:Godwin Joy Elego (Sp205)
+# text = management con tell her sey [ we no dey do nails of eight hundred for dis shop o // ] //
+# timestamp = 1581882668.32716
+1	management	management	NOUN	_	_	2	subj	_	endali=157206|startali=157010
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=157403|startali=157206
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=157599|startali=157403
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=157796|startali=157599
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=157992|startali=157796
+6	[	[	PUNCT	_	_	9	punct	_	endali=157992|startali=157992
+7	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	subj	_	endali=158189|startali=157992
+8	no	no	PART	_	Polarity=Neg	9	mod	_	endali=158385|startali=158189
+9	dey	dey	AUX	_	Aspect=Imp	5	comp	_	endali=158582|startali=158385
+10	do	do	VERB	_	_	9	comp:aux	_	endali=158778|startali=158582
+11	nails	nail	NOUN	_	Number=Plur	10	comp:obj	_	endali=158975|startali=158778
+12	of	of	ADP	_	_	11	dep	_	endali=159171|startali=158975
+13	eight	eight	NUM	_	NumType=Card	14	compound	_	endali=159368|startali=159171
+14	hundred	hundred	NUM	_	NumType=Card	12	comp	_	endali=159564|startali=159368
+15	for	for	ADP	_	_	10	comp:obl	_	endali=159761|startali=159564
+16	dis	dis	DET	_	Number=Sing|PronType=Dem	17	det	_	endali=159957|startali=159761
+17	shop	shop	NOUN	_	_	15	comp	_	endali=160154|startali=159957
+18	o	o	PART	_	PartType=Disc	17	mod:emph	_	endali=160350|startali=160154
+19	//	//	PUNCT	_	_	9	punct	_	endali=160350|startali=160350
+20	]	]	PUNCT	_	_	9	punct	_	endali=160350|startali=160350
+21	//	//	PUNCT	_	_	2	punct	_	endali=160350|startali=160350
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_93
+# sent_translation = That was how she agreed that she will pay two thousand naira.
+# speaker = D_KAD_22@Sp2_053:Godwin Joy Elego (Sp205)
+# text = na so she con gree //= she con tell me say [ okay she < she go pay two thousand ] //
+# timestamp = 1581882668.327165
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=161229|startali=161075
+2	so	so	ADV	_	_	4	discourse	_	endali=161383|startali=161229
+3	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=161536|startali=161383
+4	con	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=161690|startali=161536
+5	gree	gree	VERB	_	_	4	comp:aux	_	endali=161844|startali=161690
+6	//=	//=	PUNCT	_	_	8	punct	_	endali=161844|startali=161844
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	subj	_	endali=161998|startali=161844
+8	con	con	AUX	_	Aspect=Cons	4	parataxis:conj	_	endali=162152|startali=161998
+9	tell	tell	VERB	_	_	8	comp:aux	_	endali=162306|startali=162152
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	comp:obj	_	endali=162459|startali=162306
+11	say	say	VERB	_	_	9	compound:svc	_	endali=162613|startali=162459
+12	[	[	PUNCT	_	_	17	punct	_	endali=162613|startali=162613
+13	okay	OK	INTJ	_	_	17	discourse	_	endali=162767|startali=162613
+14	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	dislocated	_	endali=162921|startali=162767
+15	<	<	PUNCT	_	_	14	punct	_	endali=162921|startali=162921
+16	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	subj	_	endali=163075|startali=162921
+17	go	go	AUX	_	Aspect=Prosp	11	parataxis:obj	_	endali=163229|startali=163075
+18	pay	pay	VERB	_	_	17	comp:aux	_	endali=163382|startali=163229
+19	two	two	NUM	_	NumType=Card	20	compound	_	endali=163536|startali=163382
+20	thousand	thousand	NUM	_	NumType=Card	18	comp:obj	_	endali=163690|startali=163536
+21	]	]	PUNCT	_	_	17	punct	_	endali=163690|startali=163690
+22	//	//	PUNCT	_	_	1	punct	_	endali=163690|startali=163690
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_94
+# sent_translation = Hm !
+# speaker = D_KAD_22@Sp1_41:Sophia Mamadu (Sp204)
+# text = hm !//
+# timestamp = 1581882668.32717
+1	hm	hm	INTJ	_	_	0	root	_	endali=165720|startali=164630
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=165720|startali=165720
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_95
+# sent_translation = Even the two thousand as well , she said she has no enough money to balance that she will come and pay the balance.
+# speaker = D_KAD_22@Sp2_054:Godwin Joy Elego (Sp205)
+# text = even di two thousand sef < she con say [ she never even get money to con balance |c sey she go come balance us be dat o ] //
+# timestamp = 1581882668.327176
+1	even	even	ADV	_	_	4	mod	_	endali=164849|startali=164665
+2	di	the	DET	_	Definite=Def|PronType=Art	4	det	_	endali=165032|startali=164849
+3	two	two	NUM	_	NumType=Card	4	compound	_	endali=165216|startali=165032
+4	thousand	thousand	NUM	_	NumType=Card	8	dislocated	_	endali=165399|startali=165216
+5	sef	sef	PART	_	PartType=Disc	4	mod:emph	_	endali=165583|startali=165399
+6	<	<	PUNCT	_	_	4	punct	_	endali=165583|startali=165583
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	subj	_	endali=165767|startali=165583
+8	con	con	AUX	_	Aspect=Cons	0	root	_	endali=165950|startali=165767
+9	say	say	VERB	_	_	8	comp:aux	_	endali=166134|startali=165950
+10	[	[	PUNCT	_	_	12	punct	_	endali=166134|startali=166134
+11	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	subj	_	endali=166317|startali=166134
+12	never	never	AUX	_	Aspect=Perf|Polarity=Neg	9	parataxis:obj	_	endali=166501|startali=166317
+13	even	even	ADV	_	_	14	mod	_	endali=166685|startali=166501
+14	get	get	VERB	_	_	12	comp:aux	_	endali=166868|startali=166685
+15	money	money	NOUN	_	_	14	comp:obj	_	endali=167052|startali=166868
+16	to	to	ADP	_	_	14	mod	_	endali=167235|startali=167052
+17	con	con	AUX	_	Aspect=Cons	16	comp	_	endali=167419|startali=167235
+18	balance	balance	VERB	_	_	17	comp:aux	_	endali=167603|startali=167419
+19	|c	|c	PUNCT	_	_	22	punct	_	endali=167603|startali=167603
+20	sey	sey	SCONJ	_	_	22	cc	_	endali=167786|startali=167603
+21	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	subj	_	endali=167970|startali=167786
+22	go	go	AUX	_	Aspect=Prosp	12	conj:coord	_	endali=168153|startali=167970
+23	come	con	AUX	_	Aspect=Cons	22	comp:aux	_	endali=168337|startali=168153
+24	balance	balance	VERB	_	_	23	comp:aux	_	endali=168521|startali=168337
+25	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	comp:obj	_	endali=168704|startali=168521
+26	be	be	VERB	_	PartType=Cop	24	compound:svc	_	endali=168888|startali=168704
+27	dat	dat	PRON	_	Number=Sing|PronType=Dem	26	subj	_	endali=169071|startali=168888
+28	o	o	PART	_	PartType=Disc	27	mod:emph	_	endali=169255|startali=169071
+29	]	]	PUNCT	_	_	12	punct	_	endali=169255|startali=169255
+30	//	//	PUNCT	_	_	8	punct	_	endali=169255|startali=169255
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_96
+# sent_translation = You can imagine.
+# speaker = D_KAD_22@Sp1_42:Sophia Mamadu (Sp204)
+# text = [eng you can imagine eng] //
+# timestamp = 1581882668.327181
+1	[eng	[eng	PUNCT	_	_	3	punct	_	endali=169350|startali=169350
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	endali=169773|startali=169350
+3	can	can	AUX	_	_	0	root	_	endali=170197|startali=169773
+4	imagine	imagine	VERB	_	_	3	comp:aux	_	endali=170620|startali=170197
+5	eng]	eng]	PUNCT	_	_	3	punct	_	endali=170620|startali=170620
+6	//	//	PUNCT	_	_	3	punct	_	endali=170620|startali=170620
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_97
+# sent_translation = That was how she sat to finish the nails.
+# speaker = D_KAD_22@Sp2_055:Godwin Joy Elego (Sp205)
+# text = na so >+ she con { sit down |c sit down |c do de nails finish } //
+# timestamp = 1581882668.327186
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=169995|startali=169680
+2	so	so	ADV	_	_	1	comp:pred	_	endali=170310|startali=169995
+3	>+	>+	PUNCT	_	_	5	punct	_	endali=170310|startali=170310
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=170625|startali=170310
+5	con	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=170940|startali=170625
+6	{	{	PUNCT	_	_	7	punct	_	endali=170940|startali=170940
+7	sit	sit	VERB	_	_	5	comp:aux	_	endali=171255|startali=170940
+8	down	down	ADP	_	_	7	compound:prt	_	endali=171570|startali=171255
+9	|c	|c	PUNCT	_	_	10	punct	_	endali=171570|startali=171570
+10	sit	sit	VERB	_	_	7	conj:coord	_	endali=171885|startali=171570
+11	down	down	ADP	_	_	10	compound:prt	_	endali=172200|startali=171885
+12	|c	|c	PUNCT	_	_	13	punct	_	endali=172200|startali=172200
+13	do	do	VERB	_	_	10	conj:coord	_	endali=172515|startali=172200
+14	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	dep	_	endali=172830|startali=172515
+15	nails	nail	NOUN	_	Number=Plur	13	comp:obj	_	endali=173145|startali=172830
+16	finish	finish	VERB	_	_	13	compound:svc	_	endali=173460|startali=173145
+17	}	}	PUNCT	_	_	7	punct	_	endali=173460|startali=173460
+18	//	//	PUNCT	_	_	1	punct	_	endali=173460|startali=173460
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_98
+# sent_translation = Aha!
+# speaker = D_KAD_22@Sp1_43:Sophia Mamadu (Sp204)
+# text = aha !//
+# timestamp = 1581882668.327191
+1	aha	aha	INTJ	_	_	0	root	_	endali=171280|startali=170620
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=171280|startali=171280
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_99
+# sent_translation = As I now finished the nails , I was now wondering that where did the girl come from?
+# speaker = D_KAD_22@Sp2_056:Godwin Joy Elego (Sp205)
+# text = as I con finish di nails < I con dey wonder sey [ where dis girls comot from ] ?//
+# timestamp = 1581882668.327196
+1	as	as	ADP	_	_	9	mod:periph	_	endali=173957|startali=173810
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=174104|startali=173957
+3	con	con	AUX	_	Aspect=Cons	1	comp	_	endali=174251|startali=174104
+4	finish	finish	VERB	_	_	3	comp:aux	_	endali=174398|startali=174251
+5	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=174545|startali=174398
+6	nails	nail	NOUN	_	Number=Plur	4	comp:obj	_	endali=174692|startali=174545
+7	<	<	PUNCT	_	_	1	punct	_	endali=174692|startali=174692
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	endali=174839|startali=174692
+9	con	con	AUX	_	Aspect=Cons	0	root	_	endali=174986|startali=174839
+10	dey	dey	AUX	_	Aspect=Imp	9	comp:aux	_	endali=175133|startali=174986
+11	wonder	wonder	VERB	_	_	10	comp:aux	_	endali=175280|startali=175133
+12	sey	sey	SCONJ	_	_	11	comp:obj	_	endali=175427|startali=175280
+13	[	[	PUNCT	_	_	14	punct	_	endali=175427|startali=175427
+14	where	where	ADV	_	PronType=Int	12	comp	_	endali=175574|startali=175427
+15	dis	dis	DET	_	Number=Sing|PronType=Dem	16	det	_	endali=175721|startali=175574
+16	girls	girl	NOUN	_	Number=Plur	17	subj	_	endali=175868|startali=175721
+17	comot	comot	VERB	_	_	14	comp:cleft	_	endali=176015|startali=175868
+18	from	from	ADP	_	_	17	comp:obl	_	endali=176162|startali=176015
+19	]	]	PUNCT	_	_	14	punct	_	endali=176162|startali=176162
+20	?//	?//	PUNCT	_	_	9	punct	_	endali=176162|startali=176162
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_100
+# sent_translation = I now asked her that sister , sorry. Where are you from?
+# speaker = D_KAD_22@Sp2_057:Godwin Joy Elego (Sp205)
+# text = I con ask her sey [ sister < abeg no vex o // where you comot from ?// ] //
+# timestamp = 1581882668.327201
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=176315|startali=176162
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=176467|startali=176315
+3	ask	ask	VERB	_	_	2	comp:aux	_	endali=176620|startali=176467
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=176773|startali=176620
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=176926|startali=176773
+6	[	[	PUNCT	_	_	11	punct	_	endali=176926|startali=176926
+7	sister	sister	NOUN	_	_	11	vocative	_	endali=177078|startali=176926
+8	<	<	PUNCT	_	_	7	punct	_	endali=177078|startali=177078
+9	abeg	abeg	INTJ	_	_	11	discourse	_	endali=177231|startali=177078
+10	no	no	PART	_	Polarity=Neg	11	mod	_	endali=177384|startali=177231
+11	vex	vex	VERB	_	_	5	comp	_	endali=177536|startali=177384
+12	o	o	PART	_	PartType=Disc	11	mod:emph	_	endali=177689|startali=177536
+13	//	//	PUNCT	_	_	11	punct	_	endali=177689|startali=177689
+14	where	where	ADV	_	PronType=Int	11	comp:obj	_	endali=177842|startali=177689
+15	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	16	subj	_	endali=177995|startali=177842
+16	comot	comot	VERB	_	_	14	dep	_	endali=178147|startali=177995
+17	from	from	ADP	_	_	16	comp:obl	_	endali=178300|startali=178147
+18	?//	?//	PUNCT	_	_	11	punct	_	endali=178300|startali=178300
+19	]	]	PUNCT	_	_	11	punct	_	endali=178300|startali=178300
+20	//	//	PUNCT	_	_	2	punct	_	endali=178300|startali=178300
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_101
+# sent_translation = She said she is from Ibadan.
+# speaker = D_KAD_22@Sp2_058:Godwin Joy Elego (Sp205)
+# text = she say [ na Ibadan >+ she from ] //
+# timestamp = 1581882668.327207
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=178954|startali=178775
+2	say	say	VERB	_	_	0	root	_	endali=179133|startali=178954
+3	[	[	PUNCT	_	_	4	punct	_	endali=179133|startali=179133
+4	na	na	PART	_	PartType=Cop	2	parataxis:obj	_	endali=179312|startali=179133
+5	Ibadan	Ibadan	PROPN	_	_	4	comp:pred	_	endali=179492|startali=179312
+6	>+	>+	PUNCT	_	_	8	punct	_	endali=179492|startali=179492
+7	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	subj	_	endali=179671|startali=179492
+8	from	from	ADP	_	_	4	comp:cleft	_	endali=179850|startali=179671
+9	]	]	PUNCT	_	_	4	punct	_	endali=179850|startali=179850
+10	//	//	PUNCT	_	_	2	punct	_	endali=179850|startali=179850
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_102
+# sent_translation = I said aha! it is a pity! it is a pity o!
+# speaker = D_KAD_22@Sp2_059:Godwin Joy Elego (Sp205)
+# text = I say [ aha oga o !// oga o !// ] //
+# timestamp = 1581882668.327212
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=180244|startali=179850
+2	say	say	VERB	_	_	0	root	_	endali=180639|startali=180244
+3	[	[	PUNCT	_	_	5	punct	_	endali=180639|startali=180639
+4	aha	aha	INTJ	_	_	5	discourse	_	endali=181033|startali=180639
+5	oga	oga	NOUN	_	_	8	dep	_	endali=181427|startali=181033
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=181821|startali=181427
+7	!//	!//	PUNCT	_	_	5	punct	_	endali=181821|startali=181821
+8	oga	oga	NOUN	_	_	2	comp:obj	_	endali=182216|startali=181821
+9	o	o	PART	_	PartType=Disc	8	mod:emph	_	endali=182610|startali=182216
+10	!//	!//	PUNCT	_	_	2	punct	_	endali=182610|startali=182610
+11	]	]	PUNCT	_	_	2	punct	_	endali=182610|startali=182610
+12	//	//	PUNCT	_	_	2	punct	_	endali=182610|startali=182610
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_103
+# sent_translation = Haha.
+# speaker = D_KAD_22@Sp1_44:Sophia Mamadu (Sp204)
+# text = haha //
+# timestamp = 1581882668.327217
+1	haha	haha	INTJ	_	_	0	root	_	endali=181417|startali=179987
+2	//	//	PUNCT	_	_	1	punct	_	endali=181417|startali=181417
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_104
+# sent_translation = She said...
+# speaker = D_KAD_22@Sp2_060:Godwin Joy Elego (Sp205)
+# text = she say & //
+# timestamp = 1581882668.327223
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=183029|startali=182870
+2	say	say	VERB	_	_	0	root	_	endali=183188|startali=183029
+3	&	&	X	_	_	2	parataxis:obj	_	endali=183188|startali=183188
+4	//	//	PUNCT	_	_	2	punct	_	endali=183188|startali=183188
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_105
+# sent_translation = I said which part of Ibadan?
+# speaker = D_KAD_22@Sp2_061:Godwin Joy Elego (Sp205)
+# text = I say [ which part of Ibadan ?// ] //
+# timestamp = 1581882668.327228
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=183394|startali=183188
+2	say	say	VERB	_	_	0	root	_	endali=183600|startali=183394
+3	[	[	PUNCT	_	_	4	punct	_	endali=183600|startali=183600
+4	which	which	DET	_	PronType=Int	2	parataxis:obj	_	endali=183806|startali=183600
+5	part	part	NOUN	_	_	4	comp	_	endali=184013|startali=183806
+6	of	of	ADP	_	_	5	dep	_	endali=184219|startali=184013
+7	Ibadan	Ibadan	PROPN	_	_	6	comp	_	endali=184425|startali=184219
+8	?//	?//	PUNCT	_	_	4	punct	_	endali=184425|startali=184425
+9	]	]	PUNCT	_	_	4	punct	_	endali=184425|startali=184425
+10	//	//	PUNCT	_	_	2	punct	_	endali=184425|startali=184425
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_106
+# sent_translation = Ibadan!
+# speaker = D_KAD_22@Sp1_45:Sophia Mamadu (Sp204)
+# text = Ibadan !//
+# timestamp = 1581882668.327233
+1	Ibadan	Ibadan	PROPN	_	_	0	root	_	endali=185825|startali=184915
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=185825|startali=185825
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_107
+# sent_translation = She said ahah!
+# speaker = D_KAD_22@Sp2_062:Godwin Joy Elego (Sp205)
+# text = she said [ ah ] //
+# timestamp = 1581882668.327238
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=185218|startali=184915
+2	said	say	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	endali=185522|startali=185218
+3	[	[	PUNCT	_	_	4	punct	_	endali=185522|startali=185522
+4	ah	ah	INTJ	_	_	2	parataxis:obj	_	endali=185825|startali=185522
+5	]	]	PUNCT	_	_	4	punct	_	endali=185825|startali=185825
+6	//	//	PUNCT	_	_	2	punct	_	endali=185825|startali=185825
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_108
+# sent_translation = Challenge , all dose eh Molete people.
+# speaker = D_KAD_22@Sp1_46:Sophia Mamadu (Sp204)
+# text = Challenge //= all dose eh Molete people //
+# timestamp = 1581882668.327243
+1	Challenge	challenge	PROPN	_	_	0	root	_	endali=186856|startali=186475
+2	//=	//=	PUNCT	_	_	7	punct	_	endali=186856|startali=186856
+3	all	all	ADV	_	_	7	det	_	endali=187237|startali=186856
+4	dose	dose	DET	_	Number=Plur|PronType=Dem	7	det	_	endali=187618|startali=187237
+5	eh	eh	INTJ	_	_	7	discourse	_	endali=187998|startali=187618
+6	Molete	Molete	PROPN	_	_	7	compound	_	endali=188379|startali=187998
+7	people	people	NOUN	_	Number=Plur	1	parataxis:conj	_	endali=188760|startali=188379
+8	//	//	PUNCT	_	_	1	punct	_	endali=188760|startali=188760
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_109
+# sent_translation = She said is one kind of...
+# speaker = D_KAD_22@Sp2_063:Godwin Joy Elego (Sp205)
+# text = she say [ na one kind & ] //
+# timestamp = 1581882668.327248
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=186707|startali=186475
+2	say	say	VERB	_	_	0	root	_	endali=186939|startali=186707
+3	[	[	PUNCT	_	_	4	punct	_	endali=186939|startali=186939
+4	na	na	PART	_	PartType=Cop	2	parataxis:obj	_	endali=187171|startali=186939
+5	one	one	DET	_	Definite=Spec|PronType=Art	7	det	_	endali=187403|startali=187171
+6	kind	kind	ADJ	_	_	7	dep	_	endali=187635|startali=187403
+7	&	&	X	_	_	4	comp:pred	_	endali=187635|startali=187635
+8	]	]	PUNCT	_	_	4	punct	_	endali=187635|startali=187635
+9	//	//	PUNCT	_	_	2	punct	_	endali=187635|startali=187635
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_110
+# sent_translation = She now called one kind of one kind of name that I just don't...
+# speaker = D_KAD_22@Sp2_064:Godwin Joy Elego (Sp205)
+# text = { she || she } con call { one kind || one kind } name like dat I no just & //
+# timestamp = 1581882668.327253
+1	{	{	PUNCT	_	_	2	punct	_	endali=187635|startali=187635
+2	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=187808|startali=187635
+3	||	||	PUNCT	_	_	4	punct	_	endali=187808|startali=187808
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	conj:dicto	_	endali=187980|startali=187808
+5	}	}	PUNCT	_	_	2	punct	_	endali=187980|startali=187980
+6	con	con	AUX	_	Aspect=Cons	0	root	_	endali=188152|startali=187980
+7	call	call	VERB	_	_	6	comp:aux	_	endali=188325|startali=188152
+8	{	{	PUNCT	_	_	10	punct	_	endali=188325|startali=188325
+9	one	one	DET	_	Definite=Spec|PronType=Art	10	det	_	endali=188498|startali=188325
+10	kind	kind	ADJ	_	_	15	dep	_	endali=188670|startali=188498
+11	||	||	PUNCT	_	_	13	punct	_	endali=188670|startali=188670
+12	one	one	DET	_	Definite=Spec|PronType=Art	13	det	_	endali=188842|startali=188670
+13	kind	kind	ADJ	_	_	10	conj:dicto	_	endali=189015|startali=188842
+14	}	}	PUNCT	_	_	10	punct	_	endali=189015|startali=189015
+15	name	name	NOUN	_	_	7	comp:obj	_	endali=189188|startali=189015
+16	like	like	ADP	_	_	7	mod	_	endali=189360|startali=189188
+17	dat	dat	PRON	_	Number=Sing|PronType=Dem	16	comp	_	endali=189532|startali=189360
+18	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	subj	_	endali=189705|startali=189532
+19	no	no	PART	_	Polarity=Neg	21	mod	_	endali=189878|startali=189705
+20	just	just	ADV	_	_	21	mod	_	endali=190050|startali=189878
+21	&	&	X	_	_	6	comp	_	endali=190050|startali=190050
+22	//	//	PUNCT	_	_	6	punct	_	endali=190050|startali=190050
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_111
+# sent_translation = I just didn't...
+# speaker = D_KAD_22@Sp2_065:Godwin Joy Elego (Sp205)
+# text = I no just & //
+# timestamp = 1581882668.327258
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=190823|startali=190050
+2	no	no	PART	_	Polarity=Neg	4	mod	_	endali=191597|startali=190823
+3	just	just	ADV	_	_	4	mod	_	endali=192370|startali=191597
+4	&	&	X	_	_	0	root	_	endali=192370|startali=192370
+5	//	//	PUNCT	_	_	4	punct	_	endali=192370|startali=192370
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_112
+# sent_translation = Or is it Iwo road?
+# speaker = D_KAD_22@Sp1_47:Sophia Mamadu (Sp204)
+# text = abi na Iwo road ?//
+# timestamp = 1581882668.327264
+1	abi	abi	CCONJ	_	_	2	cc	_	endali=190356|startali=190110
+2	na	na	PART	_	PartType=Cop	0	root	_	endali=190603|startali=190356
+3	Iwo	iwo	PROPN	_	_	4	dep	_	endali=190850|startali=190603
+4	road	road	NOUN	_	_	2	comp:pred	_	endali=191096|startali=190850
+5	?//	?//	PUNCT	_	_	2	punct	_	endali=191096|startali=191096
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_113
+# sent_translation = All those people are bush people.
+# speaker = D_KAD_22@Sp1_48:Sophia Mamadu (Sp204)
+# text = { all || all } dose people sef < dem be bush people o //
+# timestamp = 1581882668.327269
+1	{	{	PUNCT	_	_	2	punct	_	endali=191096|startali=191096
+2	all	all	ADV	_	_	7	det	_	endali=191311|startali=191096
+3	||	||	PUNCT	_	_	4	punct	_	endali=191311|startali=191311
+4	all	all	ADV	_	_	2	conj:dicto	_	endali=191527|startali=191311
+5	}	}	PUNCT	_	_	2	punct	_	endali=191527|startali=191527
+6	dose	dose	DET	_	Number=Plur|PronType=Dem	7	det	_	endali=191742|startali=191527
+7	people	people	NOUN	_	Number=Plur	11	dislocated	_	endali=191958|startali=191742
+8	sef	sef	PART	_	PartType=Disc	7	mod:emph	_	endali=192173|startali=191958
+9	<	<	PUNCT	_	_	7	punct	_	endali=192173|startali=192173
+10	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	subj	_	endali=192388|startali=192173
+11	be	be	VERB	_	PartType=Cop	0	root	_	endali=192604|startali=192388
+12	bush	bush	NOUN	_	_	13	compound	_	endali=192819|startali=192604
+13	people	people	NOUN	_	Number=Plur	11	comp:pred	_	endali=193035|startali=192819
+14	o	o	PART	_	PartType=Disc	13	mod:emph	_	endali=193250|startali=193035
+15	//	//	PUNCT	_	_	11	punct	_	endali=193250|startali=193250
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_114
+# sent_translation = You should see the kind of knuckes that filled the girls' nails!
+# speaker = D_KAD_22@Sp2_066:Godwin Joy Elego (Sp205)
+# text = as in con see di kind knuckles wey full di girl nails ba !//
+# timestamp = 1581882668.327274
+1	as	as	ADP	_	_	3	discourse	_	endali=192633|startali=192455
+2	in	in	ADP	_	_	1	fixed	_	endali=192811|startali=192633
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=192989|startali=192811
+4	see	see	VERB	_	_	3	comp:aux	_	endali=193168|startali=192989
+5	di	the	DET	_	Definite=Def|PronType=Art	7	det	_	endali=193346|startali=193168
+6	kind	kind	ADJ	_	_	7	dep	_	endali=193524|startali=193346
+7	knuckles	knuckle	NOUN	_	Number=Plur	4	comp:obj	_	endali=193702|startali=193524
+8	wey	when	SCONJ	_	_	7	dep	_	endali=193880|startali=193702
+9	full	full	VERB	_	_	8	comp	_	endali=194058|startali=193880
+10	di	the	DET	_	Definite=Def|PronType=Art	12	det	_	endali=194237|startali=194058
+11	girl	girl	NOUN	_	_	12	compound	_	endali=194415|startali=194237
+12	nails	nail	NOUN	_	Number=Plur	9	comp:obj	_	endali=194593|startali=194415
+13	ba	ba	PART	_	_	3	discourse	_	endali=194771|startali=194593
+14	!//	!//	PUNCT	_	_	3	punct	_	endali=194771|startali=194771
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_115
+# sent_translation = Haha!
+# speaker = D_KAD_22@Sp1_49:Sophia Mamadu (Sp204)
+# text = haha !//
+# timestamp = 1581882668.327279
+1	haha	haha	INTJ	_	_	0	root	_	endali=195057|startali=193447
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=195057|startali=195057
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_116
+# sent_translation = She has bleached [her skin] completely.
+# speaker = D_KAD_22@Sp2_067:Godwin Joy Elego (Sp205)
+# text = she don bleach her life finish o !//
+# timestamp = 1581882668.327285
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=194997|startali=194771
+2	don	don	AUX	_	Aspect=Perf	0	root	_	endali=195223|startali=194997
+3	bleach	bleach	VERB	_	_	2	comp:aux	_	endali=195449|startali=195223
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	dep	_	endali=195674|startali=195449
+5	life	life	NOUN	_	_	3	comp:obj	_	endali=195900|startali=195674
+6	finish	finish	VERB	_	_	3	compound:svc	_	endali=196126|startali=195900
+7	o	o	PART	_	PartType=Disc	6	mod:emph	_	endali=196352|startali=196126
+8	!//	!//	PUNCT	_	_	2	punct	_	endali=196352|startali=196352
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_117
+# sent_translation = Hey! I can imagine.
+# speaker = D_KAD_22@Sp1_50:Sophia Mamadu (Sp204)
+# text = hey < I can imagine //
+# timestamp = 1581882668.32729
+1	hey	hey	INTJ	_	_	4	discourse	_	endali=196246|startali=195707
+2	<	<	PUNCT	_	_	1	punct	_	endali=196246|startali=196246
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=196784|startali=196246
+4	can	can	AUX	_	_	0	root	_	endali=197322|startali=196784
+5	imagine	imagine	VERB	_	_	4	comp:aux	_	endali=197861|startali=197322
+6	//	//	PUNCT	_	_	4	punct	_	endali=197861|startali=197861
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_118
+# sent_translation = He hands were bony!
+# speaker = D_KAD_22@Sp2_068:Godwin Joy Elego (Sp205)
+# text = knuckles full her hand !//
+# timestamp = 1581882668.327295
+1	knuckles	knuckle	NOUN	_	Number=Plur	4	dep	_	endali=196816|startali=196352
+2	full	full	ADJ	_	_	4	dep	_	endali=197281|startali=196816
+3	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	dep	_	endali=197746|startali=197281
+4	hand	hand	NOUN	_	_	0	root	_	endali=198210|startali=197746
+5	!//	!//	PUNCT	_	_	4	punct	_	endali=198210|startali=198210
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_119
+# sent_translation = She was like ehn , coke and fanta.
+# speaker = D_KAD_22@Sp1_51:Sophia Mamadu (Sp204)
+# text = e be like ehn { coke |c and fanta } //
+# timestamp = 1581882668.327301
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	subj:expl	_	endali=198056|startali=197861
+2	be	be	VERB	_	PartType=Cop	0	root	_	endali=198252|startali=198056
+3	like	like	ADP	_	_	2	comp:pred	_	endali=198447|startali=198252
+4	ehn	ehn	INTJ	_	_	6	discourse	_	endali=198642|startali=198447
+5	{	{	PUNCT	_	_	6	punct	_	endali=198642|startali=198642
+6	coke	coke	NOUN	_	_	3	comp	_	endali=198837|startali=198642
+7	|c	|c	PUNCT	_	_	9	punct	_	endali=198837|startali=198837
+8	and	and	CCONJ	_	_	9	cc	_	endali=199033|startali=198837
+9	fanta	fanta	NOUN	_	_	6	conj:coord	_	endali=199228|startali=199033
+10	}	}	PUNCT	_	_	6	punct	_	endali=199228|startali=199228
+11	//	//	PUNCT	_	_	2	punct	_	endali=199228|startali=199228
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_120
+# sent_translation = Jesus!
+# speaker = D_KAD_22@Sp2_069:Godwin Joy Elego (Sp205)
+# text = Jesus !//
+# timestamp = 1581882668.327306
+1	Jesus	Jesus	PROPN	_	_	0	root	_	endali=200375|startali=198925
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=200375|startali=200375
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_121
+# sent_translation = No , it looks like burnt plantain.
+# speaker = D_KAD_22@Sp1_52:Sophia Mamadu (Sp204)
+# text = no e be like burn plantain //
+# timestamp = 1581882668.327311
+1	no	no	PART	_	Polarity=Neg	3	mod	_	endali=199483|startali=199228
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj:expl	_	endali=199739|startali=199483
+3	be	be	VERB	_	PartType=Cop	0	root	_	endali=199994|startali=199739
+4	like	like	ADP	_	_	3	comp:pred	_	endali=200249|startali=199994
+5	burn	burn	VERB	_	_	4	comp	_	endali=200505|startali=200249
+6	plantain	plantain	NOUN	_	_	5	comp:obj	_	endali=200760|startali=200505
+7	//	//	PUNCT	_	_	3	punct	_	endali=200760|startali=200760
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_122
+# sent_translation = You know as burnt plantain is , that is how her hand is.
+# speaker = D_KAD_22@Sp2_070:Godwin Joy Elego (Sp205)
+# text = you know as plantain wey dey burn dey < na so >+ her hand dey //
+# timestamp = 1581882668.327317
+1	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	2	subj	_	endali=200919|startali=200750
+2	know	know	VERB	_	_	10	parataxis:discourse	_	endali=201088|startali=200919
+3	as	as	ADP	_	_	10	mod:periph	_	endali=201257|startali=201088
+4	plantain	plantain	NOUN	_	_	8	subj	_	endali=201425|startali=201257
+5	wey	when	SCONJ	_	_	4	dep	_	endali=201594|startali=201425
+6	dey	dey	AUX	_	Aspect=Imp	5	comp	_	endali=201763|startali=201594
+7	burn	burn	VERB	_	_	6	comp:aux	_	endali=201932|startali=201763
+8	dey	dey	VERB	_	VerbType=Cop	3	comp	_	endali=202101|startali=201932
+9	<	<	PUNCT	_	_	3	punct	_	endali=202101|startali=202101
+10	na	na	PART	_	PartType=Cop	0	root	_	endali=202270|startali=202101
+11	so	so	ADV	_	_	10	comp:pred	_	endali=202438|startali=202270
+12	>+	>+	PUNCT	_	_	15	punct	_	endali=202438|startali=202438
+13	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	14	dep	_	endali=202607|startali=202438
+14	hand	hand	NOUN	_	_	15	subj	_	endali=202776|startali=202607
+15	dey	dey	VERB	_	VerbType=Cop	10	comp:cleft	_	endali=202945|startali=202776
+16	//	//	PUNCT	_	_	10	punct	_	endali=202945|startali=202945
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_123
+# sent_translation = Hmhm!
+# speaker = D_KAD_22@Sp1_53:Sophia Mamadu (Sp204)
+# text = hmhm !//
+# timestamp = 1581882668.327322
+1	hmhm	hmhm	INTJ	_	_	0	root	_	endali=202755|startali=201925
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=202755|startali=202755
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_124
+# sent_translation = oh babe , that was why I said look at this girl!
+# speaker = D_KAD_22@Sp2_071:Godwin Joy Elego (Sp205)
+# text = oh omo < na so >+ I say [ dis girl !//] //
+# timestamp = 1581882668.327326
+1	oh	oh	INTJ	_	_	4	discourse	_	endali=203121|startali=202945
+2	omo	omo	INTJ	_	_	4	vocative	_	endali=203298|startali=203121
+3	<	<	PUNCT	_	_	2	punct	_	endali=203298|startali=203298
+4	na	na	PART	_	PartType=Cop	0	root	_	endali=203474|startali=203298
+5	so	so	ADV	_	_	4	comp:pred	_	endali=203650|startali=203474
+6	>+	>+	PUNCT	_	_	8	punct	_	endali=203650|startali=203650
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	subj	_	endali=203826|startali=203650
+8	say	say	VERB	_	_	4	comp:cleft	_	endali=204002|startali=203826
+9	[	[	PUNCT	_	_	11	punct	_	endali=204002|startali=204002
+10	dis	dis	DET	_	Number=Sing|PronType=Dem	11	det	_	endali=204179|startali=204002
+11	girl	girl	NOUN	_	_	8	parataxis:obj	_	endali=204355|startali=204179
+12	!//]	!//]	PUNCT	_	_	11	punct	_	endali=204355|startali=204355
+13	//	//	PUNCT	_	_	4	punct	_	endali=204355|startali=204355
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_125
+# sent_translation = Haha!
+# speaker = D_KAD_22@Sp1_54:Sophia Mamadu (Sp204)
+# text = haha !//
+# timestamp = 1581882668.327331
+1	haha	haha	INTJ	_	_	0	root	_	endali=204485|startali=203455
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=204485|startali=204485
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_126
+# sent_translation = I wanted to snap her nails.
+# speaker = D_KAD_22@Sp2_072:Godwin Joy Elego (Sp205)
+# text = I wan snap her nails o //
+# timestamp = 1581882668.327338
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=204897|startali=204725
+2	wan	want	VERB	_	_	0	root	_	endali=205069|startali=204897
+3	snap	snap	VERB	_	_	2	comp:pred	_	endali=205242|startali=205069
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	dep	_	endali=205414|startali=205242
+5	nails	nail	NOUN	_	Number=Plur	3	comp:obj	_	endali=205586|startali=205414
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=205758|startali=205586
+7	//	//	PUNCT	_	_	2	punct	_	endali=205758|startali=205758
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_127
+# sent_translation = That was how she told me that ah: I should not snap her nails
+# speaker = D_KAD_22@Sp2_073:Godwin Joy Elego (Sp205)
+# text = na so >+ she con tell me sey [ ah meh I no snap her nails o ] //
+# timestamp = 1581882668.327343
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=205954|startali=205758
+2	so	so	ADV	_	_	1	comp:pred	_	endali=206150|startali=205954
+3	>+	>+	PUNCT	_	_	5	punct	_	endali=206150|startali=206150
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=206346|startali=206150
+5	con	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=206543|startali=206346
+6	tell	tell	VERB	_	_	5	comp:aux	_	endali=206739|startali=206543
+7	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	comp:obj	_	endali=206935|startali=206739
+8	sey	sey	SCONJ	_	_	6	comp:obj	_	endali=207131|startali=206935
+9	[	[	PUNCT	_	_	11	punct	_	endali=207131|startali=207131
+10	ah	ah	INTJ	_	_	11	discourse	_	endali=207327|startali=207131
+11	meh	make	AUX	_	Mood=Sub	8	comp	_	endali=207523|startali=207327
+12	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	endali=207719|startali=207523
+13	no	no	PART	_	Polarity=Neg	14	mod	_	endali=207915|startali=207719
+14	snap	snap	VERB	_	_	11	comp:aux	_	endali=208112|startali=207915
+15	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	dep	_	endali=208308|startali=208112
+16	nails	nail	NOUN	_	Number=Plur	14	comp:obj	_	endali=208504|startali=208308
+17	o	o	PART	_	PartType=Disc	16	mod:emph	_	endali=208700|startali=208504
+18	]	]	PUNCT	_	_	11	punct	_	endali=208700|startali=208700
+19	//	//	PUNCT	_	_	1	punct	_	endali=208700|startali=208700
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_128
+# sent_translation = She said if I snap her nails , her knuckles will be showing.
+# speaker = D_KAD_22@Sp2_074:Godwin Joy Elego (Sp205)
+# text = she say [ meh I no snap her nails o |c sey if I snap her nails < her knuckles go dey show ] //
+# timestamp = 1581882668.327348
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=210008|startali=209845
+2	say	say	VERB	_	_	0	root	_	endali=210170|startali=210008
+3	[	[	PUNCT	_	_	4	punct	_	endali=210170|startali=210170
+4	meh	make	AUX	_	Mood=Sub	2	parataxis:obj	_	endali=210332|startali=210170
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=210495|startali=210332
+6	no	no	PART	_	Polarity=Neg	7	mod	_	endali=210658|startali=210495
+7	snap	snap	VERB	_	_	4	comp:aux	_	endali=210820|startali=210658
+8	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	dep	_	endali=210982|startali=210820
+9	nails	nail	NOUN	_	Number=Plur	7	comp:obj	_	endali=211145|startali=210982
+10	o	o	PART	_	PartType=Disc	9	mod:emph	_	endali=211308|startali=211145
+11	|c	|c	PUNCT	_	_	12	punct	_	endali=211308|startali=211308
+12	sey	sey	SCONJ	_	_	7	conj:coord	_	endali=211470|startali=211308
+13	if	if	SCONJ	_	_	21	mod:periph	_	endali=211632|startali=211470
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	subj	_	endali=211795|startali=211632
+15	snap	snap	VERB	_	_	13	comp	_	endali=211958|startali=211795
+16	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	17	dep	_	endali=212120|startali=211958
+17	nails	nail	NOUN	_	Number=Plur	15	comp:obj	_	endali=212282|startali=212120
+18	<	<	PUNCT	_	_	13	punct	_	endali=212282|startali=212282
+19	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	dep	_	endali=212445|startali=212282
+20	knuckles	knuckle	NOUN	_	Number=Plur	21	subj	_	endali=212608|startali=212445
+21	go	go	AUX	_	Aspect=Prosp	12	comp	_	endali=212770|startali=212608
+22	dey	dey	AUX	_	Aspect=Imp	21	comp:aux	_	endali=212932|startali=212770
+23	show	show	VERB	_	_	22	comp:aux	_	endali=213095|startali=212932
+24	]	]	PUNCT	_	_	4	punct	_	endali=213095|startali=213095
+25	//	//	PUNCT	_	_	2	punct	_	endali=213095|startali=213095
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_129
+# sent_translation = "I now said ""Babe I snap the nails because if I do not snap the nails , my customers that are coming will not see my work."""
+# speaker = D_KAD_22@Sp2_075:Godwin Joy Elego (Sp205)
+# text = naim I con say [ babe < me I dey snap nails o |c but I no snap nails < my customers wey dey come < dem no go see my work o // ] //
+# timestamp = 1581882668.327354
+1	naim	naim	ADV	_	_	3	mod:periph	_	endali=213903|startali=213735
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=214070|startali=213903
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=214238|startali=214070
+4	say	say	VERB	_	_	3	comp:aux	_	endali=214406|startali=214238
+5	[	[	PUNCT	_	_	10	punct	_	endali=214406|startali=214406
+6	babe	babe	NOUN	_	_	10	dislocated	_	endali=214573|startali=214406
+7	<	<	PUNCT	_	_	6	punct	_	endali=214573|startali=214573
+8	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	dislocated	_	endali=214741|startali=214573
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	subj	_	endali=214909|startali=214741
+10	dey	dey	AUX	_	Aspect=Imp	4	parataxis:obj	_	endali=215076|startali=214909
+11	snap	snap	VERB	_	_	10	comp:aux	_	endali=215244|startali=215076
+12	nails	nail	NOUN	_	Number=Plur	11	comp:obj	_	endali=215412|startali=215244
+13	o	o	PART	_	PartType=Disc	12	mod:emph	_	endali=215579|startali=215412
+14	|c	|c	PUNCT	_	_	18	punct	_	endali=215579|startali=215579
+15	but	but	CCONJ	_	_	18	cc	_	endali=215747|startali=215579
+16	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	subj	_	endali=215915|startali=215747
+17	no	no	PART	_	Polarity=Neg	18	mod	_	endali=216082|startali=215915
+18	snap	snap	VERB	_	_	29	parataxis:dislocated	_	endali=216250|startali=216082
+19	nails	nail	NOUN	_	Number=Plur	18	comp:obj	_	endali=216418|startali=216250
+20	<	<	PUNCT	_	_	18	punct	_	endali=216418|startali=216418
+21	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	22	dep	_	endali=216586|startali=216418
+22	customers	customer	NOUN	_	Number=Plur	29	dislocated	_	endali=216753|startali=216586
+23	wey	when	SCONJ	_	_	22	dep	_	endali=216921|startali=216753
+24	dey	dey	AUX	_	Aspect=Imp	23	comp	_	endali=217089|startali=216921
+25	come	come	VERB	_	_	24	comp:aux	_	endali=217256|startali=217089
+26	<	<	PUNCT	_	_	22	punct	_	endali=217256|startali=217256
+27	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	subj	_	endali=217424|startali=217256
+28	no	no	PART	_	Polarity=Neg	29	mod	_	endali=217592|startali=217424
+29	go	go	AUX	_	Aspect=Prosp	10	parataxis:conj	_	endali=217759|startali=217592
+30	see	see	VERB	_	_	29	comp:aux	_	endali=217927|startali=217759
+31	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	32	dep	_	endali=218095|startali=217927
+32	work	work	NOUN	_	_	30	comp:obj	_	endali=218262|startali=218095
+33	o	o	PART	_	PartType=Disc	32	mod:emph	_	endali=218430|startali=218262
+34	//	//	PUNCT	_	_	10	punct	_	endali=218430|startali=218430
+35	]	]	PUNCT	_	_	10	punct	_	endali=218430|startali=218430
+36	//	//	PUNCT	_	_	3	punct	_	endali=218430|startali=218430
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_130
+# sent_translation = That was how she now...
+# speaker = D_KAD_22@Sp2_076:Godwin Joy Elego (Sp205)
+# text = na so >+ she come & //
+# timestamp = 1581882668.327359
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=219233|startali=219125
+2	so	so	ADV	_	_	1	comp:pred	_	endali=219341|startali=219233
+3	>+	>+	PUNCT	_	_	5	punct	_	endali=219341|startali=219341
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=219449|startali=219341
+5	come	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=219557|startali=219449
+6	&	&	X	_	_	5	comp:aux	_	endali=219557|startali=219557
+7	//	//	PUNCT	_	_	1	punct	_	endali=219557|startali=219557
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_131
+# sent_translation = I now told her not to worry that my phone , the kind of camera I have on my phone , the camera will clear all the knuckles , all the all the defects that she has on her hand.
+# speaker = D_KAD_22@Sp2_077:Godwin Joy Elego (Sp205)
+# text = I con tell her sey [ make she no worry // di camera wey I get for my phone < di camera go clear { all di knuckles |c all di { yama |r yama }} wey she get for her hand ] //
+# timestamp = 1581882668.327364
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=219745|startali=219557
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=219932|startali=219745
+3	tell	tell	VERB	_	_	2	comp:aux	_	endali=220120|startali=219932
+4	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	comp:obj	_	endali=220308|startali=220120
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	endali=220495|startali=220308
+6	[	[	PUNCT	_	_	7	punct	_	endali=220495|startali=220495
+7	make	make	AUX	_	Mood=Sub	5	comp	_	endali=220683|startali=220495
+8	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	subj	_	endali=220871|startali=220683
+9	no	no	PART	_	Polarity=Neg	10	mod	_	endali=221058|startali=220871
+10	worry	worry	VERB	_	_	7	comp:aux	_	endali=221246|startali=221058
+11	//	//	PUNCT	_	_	7	punct	_	endali=221246|startali=221246
+12	di	the	DET	_	Definite=Def|PronType=Art	13	det	_	endali=221434|startali=221246
+13	camera	camera	NOUN	_	_	7	comp	_	endali=221621|startali=221434
+14	wey	when	SCONJ	_	_	13	dep	_	endali=221809|startali=221621
+15	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	subj	_	endali=221997|startali=221809
+16	get	get	VERB	_	_	14	comp	_	endali=222184|startali=221997
+17	for	for	ADP	_	_	16	comp:obl	_	endali=222372|startali=222184
+18	my	my	ADJ	_	Number=Sing|Person=1|Poss=Yes	19	dep	_	endali=222560|startali=222372
+19	phone	phone	NOUN	_	_	17	comp	_	endali=222748|startali=222560
+20	<	<	PUNCT	_	_	7	punct	_	endali=222748|startali=222748
+21	di	the	DET	_	Definite=Def|PronType=Art	22	det	_	endali=222935|startali=222748
+22	camera	camera	NOUN	_	_	7	subj	_	endali=223123|startali=222935
+23	go	go	AUX	_	Aspect=Prosp	7	comp:aux	_	endali=223311|startali=223123
+24	clear	clear	VERB	_	_	23	comp:pred	_	endali=223498|startali=223311
+25	{	{	PUNCT	_	_	28	punct	_	endali=223498|startali=223498
+26	all	all	ADV	_	_	28	det	_	endali=223686|startali=223498
+27	di	the	DET	_	Definite=Def|PronType=Art	28	det	_	endali=223874|startali=223686
+28	knuckles	knuckle	NOUN	_	Number=Plur	24	comp:obj	_	endali=224061|startali=223874
+29	|c	|c	PUNCT	_	_	33	punct	_	endali=224061|startali=224061
+30	all	all	ADV	_	_	31	mod	_	endali=224249|startali=224061
+31	di	the	DET	_	Definite=Def|PronType=Art	33	det	_	endali=224437|startali=224249
+32	{	{	PUNCT	_	_	33	punct	_	endali=224437|startali=224437
+33	yama	yama	NOUN	_	_	28	conj:coord	_	endali=224624|startali=224437
+34	|r	|r	PUNCT	_	_	35	punct	_	endali=224624|startali=224624
+35	yama	yama	NOUN	_	_	33	compound:redup	_	endali=224812|startali=224624
+36	}}	}}	PUNCT	_	_	33	punct	_	endali=224812|startali=224812
+37	wey	when	SCONJ	_	_	28	dep	_	endali=225000|startali=224812
+38	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	39	subj	_	endali=225187|startali=225000
+39	get	get	VERB	_	_	37	comp	_	endali=225375|startali=225187
+40	for	for	ADP	_	_	39	comp:obl	_	endali=225563|startali=225375
+41	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	42	dep	_	endali=225750|startali=225563
+42	hand	hand	NOUN	_	_	40	comp	_	endali=225938|startali=225750
+43	]	]	PUNCT	_	_	7	punct	_	endali=225938|startali=225938
+44	//	//	PUNCT	_	_	2	punct	_	endali=225938|startali=225938
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_132
+# sent_translation = All the defects on the nails
+# speaker = D_KAD_22@Sp1_55:Sophia Mamadu (Sp204)
+# text = all di whole { yama |r yama } wey dey di nails //
+# timestamp = 1581882668.32737
+1	all	all	ADV	_	_	3	det	_	endali=224884|startali=224670
+2	di	the	DET	_	Definite=Def|PronType=Art	3	det	_	endali=225099|startali=224884
+3	whole	whole	ADJ	_	_	5	dep	_	endali=225313|startali=225099
+4	{	{	PUNCT	_	_	5	punct	_	endali=225313|startali=225313
+5	yama	yama	NOUN	_	_	0	root	_	endali=225528|startali=225313
+6	|r	|r	PUNCT	_	_	7	punct	_	endali=225528|startali=225528
+7	yama	yama	NOUN	_	_	5	compound:redup	_	endali=225742|startali=225528
+8	}	}	PUNCT	_	_	5	punct	_	endali=225742|startali=225742
+9	wey	when	SCONJ	_	_	5	dep	_	endali=225957|startali=225742
+10	dey	dey	VERB	_	VerbType=Cop	9	comp	_	endali=226171|startali=225957
+11	di	the	DET	_	Definite=Def|PronType=Art	12	det	_	endali=226386|startali=226171
+12	nails	nail	NOUN	_	Number=Plur	10	comp:pred	_	endali=226600|startali=226386
+13	//	//	PUNCT	_	_	5	punct	_	endali=226600|startali=226600
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_133
+# sent_translation = That was how she agreed.
+# speaker = D_KAD_22@Sp2_078:Godwin Joy Elego (Sp205)
+# text = na so she con gree o //
+# timestamp = 1581882668.327375
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=226078|startali=225938
+2	so	so	ADV	_	_	4	discourse	_	endali=226217|startali=226078
+3	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=226357|startali=226217
+4	con	con	AUX	_	Aspect=Cons	1	comp:cleft	_	endali=226497|startali=226357
+5	gree	gree	VERB	_	_	4	comp:aux	_	endali=226636|startali=226497
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=226776|startali=226636
+7	//	//	PUNCT	_	_	1	punct	_	endali=226776|startali=226776
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_134
+# sent_translation = I finished , she now posted it on Instagram , Facebook , Whatsap , everywhere.
+# speaker = D_KAD_22@Sp2_079:Godwin Joy Elego (Sp205)
+# text = I finish < she con post am out for { Instagram |c Facebook |c Whatsapp |c Everywhere } //
+# timestamp = 1581882668.32738
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	endali=227174|startali=226776
+2	finish	finish	VERB	_	_	5	parataxis:discourse	_	endali=227572|startali=227174
+3	<	<	PUNCT	_	_	2	punct	_	endali=227572|startali=227572
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=227970|startali=227572
+5	con	con	AUX	_	Aspect=Cons	0	root	_	endali=228368|startali=227970
+6	post	post	VERB	_	_	5	comp:aux	_	endali=228766|startali=228368
+7	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	endali=229164|startali=228766
+8	out	out	ADP	_	_	6	compound:prt	_	endali=229562|startali=229164
+9	for	for	ADP	_	_	6	comp:obl	_	endali=229960|startali=229562
+10	{	{	PUNCT	_	_	11	punct	_	endali=229960|startali=229960
+11	Instagram	Instagram	PROPN	_	_	9	comp	_	endali=230358|startali=229960
+12	|c	|c	PUNCT	_	_	13	punct	_	endali=230358|startali=230358
+13	Facebook	Facebook	PROPN	_	_	11	conj:coord	_	endali=230756|startali=230358
+14	|c	|c	PUNCT	_	_	15	punct	_	endali=230756|startali=230756
+15	Whatsapp	Whatsapp	PROPN	_	_	13	conj:coord	_	endali=231154|startali=230756
+16	|c	|c	PUNCT	_	_	17	punct	_	endali=231154|startali=231154
+17	Everywhere	everywhere	ADV	_	_	15	conj:coord	_	endali=231552|startali=231154
+18	}	}	PUNCT	_	_	11	punct	_	endali=231552|startali=231552
+19	//	//	PUNCT	_	_	5	punct	_	endali=231552|startali=231552
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_135
+# sent_translation = Just see the nails!
+# speaker = D_KAD_22@Sp2_080:Godwin Joy Elego (Sp205)
+# text = just dey see di nail !//
+# timestamp = 1581882668.327384
+1	just	just	ADV	_	_	2	mod	_	endali=231677|startali=231552
+2	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=231803|startali=231677
+3	see	see	VERB	_	_	2	comp:aux	_	endali=231928|startali=231803
+4	di	the	DET	_	Definite=Def|PronType=Art	5	det	_	endali=232054|startali=231928
+5	nail	nail	NOUN	_	_	3	comp:obj	_	endali=232179|startali=232054
+6	!//	!//	PUNCT	_	_	2	punct	_	endali=232179|startali=232179
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_136
+# sent_translation = She was just feeling proud that day.
+# speaker = D_KAD_22@Sp2_081:Godwin Joy Elego (Sp205)
+# text = she just dey feel herself dat day o //
+# timestamp = 1581882668.32739
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=232334|startali=232179
+2	just	just	ADV	_	_	3	mod	_	endali=232490|startali=232334
+3	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=232645|startali=232490
+4	feel	feel	VERB	_	_	3	comp:aux	_	endali=232800|startali=232645
+5	herself	ersef	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	comp:obj	_	endali=232955|startali=232800
+6	dat	dat	DET	_	Number=Sing|PronType=Dem	7	det	_	endali=233110|startali=232955
+7	day	day	NOUN	_	_	4	comp:obj	_	endali=233266|startali=233110
+8	o	o	PART	_	PartType=Disc	7	mod:emph	_	endali=233421|startali=233266
+9	//	//	PUNCT	_	_	3	punct	_	endali=233421|startali=233421
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_137
+# sent_translation = Babe , it is not a small thing.
+# speaker = D_KAD_22@Sp2_082:Godwin Joy Elego (Sp205)
+# text = omo < no be small thing //
+# timestamp = 1581882668.327395
+1	omo	omo	INTJ	_	_	4	discourse	_	endali=233679|startali=233421
+2	<	<	PUNCT	_	_	1	punct	_	endali=233679|startali=233679
+3	no	no	PART	_	Polarity=Neg	4	mod	_	endali=233937|startali=233679
+4	be	be	VERB	_	PartType=Cop	0	root	_	endali=234194|startali=233937
+5	small	small	ADJ	_	_	6	dep	_	endali=234452|startali=234194
+6	thing	ting	NOUN	_	_	4	comp:pred	_	endali=234710|startali=234452
+7	//	//	PUNCT	_	_	4	punct	_	endali=234710|startali=234710
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_138
+# sent_translation = That was how her friend now said that she liked the nails.
+# speaker = D_KAD_22@Sp2_083:Godwin Joy Elego (Sp205)
+# text = na so her friends ma follow talk sey [ she ma she like di nails ] //
+# timestamp = 1581882668.3274
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=234875|startali=234710
+2	so	so	ADV	_	_	6	discourse	_	endali=235041|startali=234875
+3	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	dep	_	endali=235206|startali=235041
+4	friends	friend	NOUN	_	Number=Plur	6	subj	_	endali=235371|startali=235206
+5	ma	ma	PART	_	PartType=Disc	4	mod:emph	_	endali=235537|startali=235371
+6	follow	follow	VERB	_	_	1	comp:pred	_	endali=235702|startali=235537
+7	talk	talk	VERB	_	_	6	compound:svc	_	endali=235868|startali=235702
+8	sey	sey	SCONJ	_	_	7	comp:obj	_	endali=236033|startali=235868
+9	[	[	PUNCT	_	_	12	punct	_	endali=236033|startali=236033
+10	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	dislocated	_	endali=236198|startali=236033
+11	ma	ma	PART	_	PartType=Disc	10	mod:emph	_	endali=236364|startali=236198
+12	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	comp	_	endali=236529|startali=236364
+13	like	like	ADP	_	_	12	dep	_	endali=236694|startali=236529
+14	di	the	DET	_	Definite=Def|PronType=Art	15	det	_	endali=236860|startali=236694
+15	nails	nail	NOUN	_	Number=Plur	13	comp	_	endali=237025|startali=236860
+16	]	]	PUNCT	_	_	12	punct	_	endali=237025|startali=237025
+17	//	//	PUNCT	_	_	1	punct	_	endali=237025|startali=237025
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_139
+# sent_translation = Hm!
+# speaker = D_KAD_22@Sp1_56:Sophia Mamadu (Sp204)
+# text = hm //
+# timestamp = 1581882668.327404
+1	hm	hm	INTJ	_	_	0	root	_	endali=235410|startali=234715
+2	//	//	PUNCT	_	_	1	punct	_	endali=235410|startali=235410
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_140
+# sent_translation = She now came to do it.
+# speaker = D_KAD_22@Sp2_084:Godwin Joy Elego (Sp205)
+# text = she ma con do am o //
+# timestamp = 1581882668.32741
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=237787|startali=237645
+2	ma	ma	PART	_	PartType=Disc	1	mod:emph	_	endali=237928|startali=237787
+3	con	con	AUX	_	Aspect=Cons	0	root	_	endali=238070|startali=237928
+4	do	do	VERB	_	_	3	comp:aux	_	endali=238212|startali=238070
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	endali=238353|startali=238212
+6	o	o	PART	_	PartType=Disc	5	mod:emph	_	endali=238495|startali=238353
+7	//	//	PUNCT	_	_	3	punct	_	endali=238495|startali=238495
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_141
+# sent_translation = Herself , she did not have anymoney , so I should also do the manicure for eight hundreed naira for that one , that day.
+# speaker = D_KAD_22@Sp2_085:Godwin Joy Elego (Sp205)
+# text = her own < she no get money so dat I should do eight hundred naira nails for dat one dat day //
+# timestamp = 1581882668.327415
+1	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	2	dep	_	endali=238663|startali=238495
+2	own	own	ADJ	_	_	6	dislocated	_	endali=238831|startali=238663
+3	<	<	PUNCT	_	_	2	punct	_	endali=238831|startali=238831
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=238999|startali=238831
+5	no	no	PART	_	Polarity=Neg	6	mod	_	endali=239167|startali=238999
+6	get	get	VERB	_	_	0	root	_	endali=239335|startali=239167
+7	money	money	NOUN	_	_	6	comp:obj	_	endali=239503|startali=239335
+8	so	so	SCONJ	_	_	6	mod	_	endali=239671|startali=239503
+9	dat	dat	PRON	_	Number=Sing|PronType=Dem	8	fixed	_	endali=239839|startali=239671
+10	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	endali=240007|startali=239839
+11	should	should	AUX	_	VerbForm=Fin	8	comp	_	endali=240175|startali=240007
+12	do	do	VERB	_	_	11	comp:aux	_	endali=240343|startali=240175
+13	eight	eight	NUM	_	NumType=Card	14	compound	_	endali=240511|startali=240343
+14	hundred	hundred	NUM	_	NumType=Card	15	dep	_	endali=240679|startali=240511
+15	naira	naira	NOUN	_	_	12	comp:obj	_	endali=240847|startali=240679
+16	nails	nail	NOUN	_	Number=Plur	12	comp:lvc	_	endali=241015|startali=240847
+17	for	for	ADP	_	_	12	comp:obl	_	endali=241183|startali=241015
+18	dat	dat	DET	_	Number=Sing|PronType=Dem	19	det	_	endali=241351|startali=241183
+19	one	one	NUM	_	NumType=Card	21	dep	_	endali=241519|startali=241351
+20	dat	dat	DET	_	Number=Sing|PronType=Dem	21	det	_	endali=241687|startali=241519
+21	day	day	NOUN	_	_	17	comp	_	endali=241855|startali=241687
+22	//	//	PUNCT	_	_	6	punct	_	endali=241855|startali=241855
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_142
+# sent_translation = Eight hundred?
+# speaker = D_KAD_22@Sp1_57:Sophia Mamadu (Sp204)
+# text = eight hundred ?//
+# timestamp = 1581882668.32742
+1	eight	eight	NUM	_	NumType=Card	2	compound	_	endali=242108|startali=241315
+2	hundred	hundred	NUM	_	NumType=Card	0	root	_	endali=242900|startali=242108
+3	?//	?//	PUNCT	_	_	2	punct	_	endali=242900|startali=242900
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_143
+# sent_translation = She can not agree to... mstchew!
+# speaker = D_KAD_22@Sp2_086:Godwin Joy Elego (Sp205)
+# text = she no fit & > mstchew !//
+# timestamp = 1581882668.327425
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	subj	_	endali=242120|startali=241855
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=242385|startali=242120
+3	fit	fit	AUX	_	_	0	root	_	endali=242650|startali=242385
+4	&	&	X	_	_	3	comp:aux	_	endali=242650|startali=242650
+5	>	>	PUNCT	_	_	6	punct	_	endali=242650|startali=242650
+6	mstchew	mstchew	INTJ	_	_	3	discourse	_	endali=242915|startali=242650
+7	!//	!//	PUNCT	_	_	3	punct	_	endali=242915|startali=242915
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_144
+# sent_translation = mstchew!
+# speaker = D_KAD_22@Sp1_58:Sophia Mamadu (Sp204)
+# text = mstchew !//
+# timestamp = 1581882668.32743
+1	mstchew	mstchew	INTJ	_	_	0	root	_	endali=243260|startali=242900
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=243260|startali=243260
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_145
+# sent_translation = Kai!
+# speaker = D_KAD_22@Sp1_59:Sophia Mamadu (Sp204)
+# text = kai !//
+# timestamp = 1581882668.327436
+1	kai	kai	INTJ	_	_	0	root	_	endali=244400|startali=243260
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=244400|startali=244400
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_146
+# sent_translation = A manicure that we do for one thousand five I did it for her eight hundred!
+# speaker = D_KAD_22@Sp2_087:Godwin Joy Elego (Sp205)
+# text = nails wey we dey do one five hundred < I do am for am eight hundred //
+# timestamp = 1581882668.327447
+1	nails	nail	NOUN	_	Number=Plur	11	dislocated	_	endali=243862|startali=243700
+2	wey	when	SCONJ	_	_	1	dep	_	endali=244025|startali=243862
+3	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=244187|startali=244025
+4	dey	dey	AUX	_	Aspect=Imp	2	comp	_	endali=244349|startali=244187
+5	do	do	VERB	_	_	4	comp:aux	_	endali=244512|startali=244349
+6	one	one	NUM	_	NumType=Card	7	compound	_	endali=244674|startali=244512
+7	five	five	NUM	_	NumType=Card	8	compound	_	endali=244836|startali=244674
+8	hundred	hundred	NUM	_	NumType=Card	5	comp:obj	_	endali=244999|startali=244836
+9	<	<	PUNCT	_	_	1	punct	_	endali=244999|startali=244999
+10	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	endali=245161|startali=244999
+11	do	do	VERB	_	_	0	root	_	endali=245323|startali=245161
+12	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj	_	endali=245486|startali=245323
+13	for	for	ADP	_	_	11	comp:obl	_	endali=245648|startali=245486
+14	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	comp	_	endali=245810|startali=245648
+15	eight	eight	NUM	_	NumType=Card	16	compound	_	endali=245973|startali=245810
+16	hundred	hundred	NUM	_	NumType=Card	13	comp	_	endali=246135|startali=245973
+17	//	//	PUNCT	_	_	11	punct	_	endali=246135|startali=246135
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_147
+# sent_translation = Based on the fact that we should just maintain relationship with customers , mstchew!
+# speaker = D_KAD_22@Sp2_088:Godwin Joy Elego (Sp205)
+# text = base on sey [ make we just maintain relationship for customer level o ] > mstchew //
+# timestamp = 1581882668.327452
+1	base	base	ADP	_	_	0	root	_	endali=246432|startali=246135
+2	on	on	ADP	_	_	1	fixed	_	endali=246730|startali=246432
+3	sey	sey	SCONJ	_	_	1	comp	_	endali=247027|startali=246730
+4	[	[	PUNCT	_	_	5	punct	_	endali=247027|startali=247027
+5	make	make	AUX	_	Mood=Sub	3	comp	_	endali=247324|startali=247027
+6	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=247622|startali=247324
+7	just	just	ADV	_	_	8	mod	_	endali=247919|startali=247622
+8	maintain	maintain	VERB	_	_	5	comp:aux	_	endali=248216|startali=247919
+9	relationship	relationship	NOUN	_	_	8	comp:obj	_	endali=248513|startali=248216
+10	for	for	ADP	_	_	8	comp:obl	_	endali=248811|startali=248513
+11	customer	customer	NOUN	_	_	12	compound	_	endali=249108|startali=248811
+12	level	level	NOUN	_	_	10	comp	_	endali=249405|startali=249108
+13	o	o	PART	_	PartType=Disc	12	mod:emph	_	endali=249703|startali=249405
+14	]	]	PUNCT	_	_	5	punct	_	endali=249703|startali=249703
+15	>	>	PUNCT	_	_	16	punct	_	endali=249703|startali=249703
+16	mstchew	mstchew	INTJ	_	_	1	discourse	_	endali=250000|startali=249703
+17	//	//	PUNCT	_	_	1	punct	_	endali=250000|startali=250000
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_148
+# sent_translation = Hm!
+# speaker = D_KAD_22@Sp1_60:Sophia Mamadu (Sp204)
+# text = hm !//
+# timestamp = 1581882668.327457
+1	hm	hm	INTJ	_	_	0	root	_	endali=250050|startali=249375
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=250050|startali=250050
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_149
+# sent_translation = Omo , that is how the matter is.
+# speaker = D_KAD_22@Sp2_089:Godwin Joy Elego (Sp205)
+# text = omo < na so di matter be o //
+# timestamp = 1581882668.327462
+1	omo	omo	INTJ	_	_	3	dislocated	_	endali=250218|startali=250000
+2	<	<	PUNCT	_	_	1	punct	_	endali=250218|startali=250218
+3	na	na	PART	_	PartType=Cop	0	root	_	endali=250436|startali=250218
+4	so	so	ADV	_	_	7	discourse	_	endali=250654|startali=250436
+5	di	the	DET	_	Definite=Def|PronType=Art	6	det	_	endali=250871|startali=250654
+6	matter	matter	NOUN	_	_	7	subj	_	endali=251089|startali=250871
+7	be	be	VERB	_	PartType=Cop	3	comp:cleft	_	endali=251307|startali=251089
+8	o	o	PART	_	PartType=Disc	7	mod:emph	_	endali=251525|startali=251307
+9	//	//	PUNCT	_	_	3	punct	_	endali=251525|startali=251525
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_150
+# sent_translation = It is a pity!
+# speaker = D_KAD_22@Sp1_61:Sophia Mamadu (Sp204)
+# text = na wa o !//
+# timestamp = 1581882668.327468
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=252353|startali=251990
+2	wa	X	INTJ	_	_	1	comp:pred	_	endali=252717|startali=252353
+3	o	o	PART	_	PartType=Disc	2	mod:emph	_	endali=253080|startali=252717
+4	!//	!//	PUNCT	_	_	1	punct	_	endali=253080|startali=253080
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_151
+# sent_translation = So , as it is now , the thing has...
+# speaker = D_KAD_22@Sp2_090:Godwin Joy Elego (Sp205)
+# text = so as e be now < matter don & //
+# timestamp = 1581882668.327473
+1	so	so	ADV	_	_	8	discourse	_	endali=253406|startali=253080
+2	as	as	ADP	_	_	8	mod:periph	_	endali=253731|startali=253406
+3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=254057|startali=253731
+4	be	be	VERB	_	PartType=Cop	2	comp	_	endali=254382|startali=254057
+5	now	now	ADV	_	_	4	mod	_	endali=254708|startali=254382
+6	<	<	PUNCT	_	_	2	punct	_	endali=254708|startali=254708
+7	matter	matter	NOUN	_	_	8	subj	_	endali=255033|startali=254708
+8	don	don	AUX	_	Aspect=Perf	0	root	_	endali=255359|startali=255033
+9	&	&	X	_	_	8	comp:aux	_	endali=255359|startali=255359
+10	//	//	PUNCT	_	_	8	punct	_	endali=255359|startali=255359
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_152
+# sent_translation = Management now told her , told me that she had come before!
+# speaker = D_KAD_22@Sp2_091:Godwin Joy Elego (Sp205)
+# text = management con { tell her sey || tell me sey } [ she don come before sha !//] //
+# timestamp = 1581882668.327477
+1	management	management	NOUN	_	_	2	subj	_	endali=255594|startali=255359
+2	con	con	AUX	_	Aspect=Cons	0	root	_	endali=255829|startali=255594
+3	{	{	PUNCT	_	_	4	punct	_	endali=255829|startali=255829
+4	tell	tell	VERB	_	_	2	comp:aux	_	endali=256065|startali=255829
+5	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	comp:obj	_	endali=256300|startali=256065
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=256535|startali=256300
+7	||	||	PUNCT	_	_	8	punct	_	endali=256535|startali=256535
+8	tell	tell	VERB	_	_	6	conj:dicto	_	endali=256770|startali=256535
+9	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	comp:obj	_	endali=257006|startali=256770
+10	sey	sey	SCONJ	_	_	8	comp:obj	_	endali=257241|startali=257006
+11	}	}	PUNCT	_	_	8	punct	_	endali=257241|startali=257241
+12	[	[	PUNCT	_	_	14	punct	_	endali=257241|startali=257241
+13	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	subj	_	endali=257476|startali=257241
+14	don	don	AUX	_	Aspect=Perf	8	comp	_	endali=257711|startali=257476
+15	come	come	VERB	_	_	14	comp:aux	_	endali=257947|startali=257711
+16	before	before	ADP	_	_	15	mod	_	endali=258182|startali=257947
+17	sha	sha	PART	_	PartType=Disc	16	mod:emph	_	endali=258417|startali=258182
+18	!//]	!//]	PUNCT	_	_	14	punct	_	endali=258417|startali=258417
+19	//	//	PUNCT	_	_	2	punct	_	endali=258417|startali=258417
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_153
+# sent_translation = So , that was how she kept bargaining.
+# speaker = D_KAD_22@Sp2_092:Godwin Joy Elego (Sp205)
+# text = so na so >+ she { price |r price |r price |r price } //
+# timestamp = 1581882668.327482
+1	so	so	ADV	_	_	2	discourse	_	endali=258970|startali=258775
+2	na	na	PART	_	PartType=Cop	0	root	_	endali=259164|startali=258970
+3	so	so	ADV	_	_	2	comp:pred	_	endali=259359|startali=259164
+4	>+	>+	PUNCT	_	_	7	punct	_	endali=259359|startali=259359
+5	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	subj	_	endali=259554|startali=259359
+6	{	{	PUNCT	_	_	7	punct	_	endali=259554|startali=259554
+7	price	price	NOUN	_	_	2	comp:cleft	_	endali=259749|startali=259554
+8	|r	|r	PUNCT	_	_	9	punct	_	endali=259749|startali=259749
+9	price	price	NOUN	_	_	7	compound:redup	_	endali=259944|startali=259749
+10	|r	|r	PUNCT	_	_	11	punct	_	endali=259944|startali=259944
+11	price	price	NOUN	_	_	9	compound:redup	_	endali=260138|startali=259944
+12	|r	|r	PUNCT	_	_	13	punct	_	endali=260138|startali=260138
+13	price	price	NOUN	_	_	11	compound:redup	_	endali=260333|startali=260138
+14	}	}	PUNCT	_	_	7	punct	_	endali=260333|startali=260333
+15	//	//	PUNCT	_	_	2	punct	_	endali=260333|startali=260333
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_154
+# sent_translation = In fact the day she came to fix her hair , that was how she paid.
+# speaker = D_KAD_22@Sp2_093:Godwin Joy Elego (Sp205)
+# text = infact di day she con fix her hair < na so >+ she price o //
+# timestamp = 1581882668.327488
+1	infact	infact	ADV	_	_	10	mod:periph	_	endali=260534|startali=260333
+2	di	the	DET	_	Definite=Def|PronType=Art	3	det	_	endali=260735|startali=260534
+3	day	day	NOUN	_	_	10	dislocated	_	endali=260936|startali=260735
+4	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=261137|startali=260936
+5	con	con	AUX	_	Aspect=Cons	3	dep	_	endali=261338|startali=261137
+6	fix	fix	VERB	_	_	5	comp:aux	_	endali=261539|startali=261338
+7	her	her	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	8	dep	_	endali=261739|startali=261539
+8	hair	hair	NOUN	_	_	6	comp:obj	_	endali=261940|startali=261739
+9	<	<	PUNCT	_	_	3	punct	_	endali=261940|startali=261940
+10	na	na	PART	_	PartType=Cop	0	root	_	endali=262141|startali=261940
+11	so	so	ADV	_	_	10	comp:pred	_	endali=262342|startali=262141
+12	>+	>+	PUNCT	_	_	14	punct	_	endali=262342|startali=262342
+13	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	subj	_	endali=262543|startali=262342
+14	price	price	VERB	_	_	10	comp:cleft	_	endali=262744|startali=262543
+15	o	o	PART	_	PartType=Disc	14	mod:emph	_	endali=262945|startali=262744
+16	//	//	PUNCT	_	_	10	punct	_	endali=262945|startali=262945
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_155
+# sent_translation = Hm!
+# speaker = D_KAD_22@Sp1_62:Sophia Mamadu (Sp204)
+# text = hm !//
+# timestamp = 1581882668.327492
+1	hm	hm	INTJ	_	_	0	root	_	endali=262955|startali=261835
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=262955|startali=262955
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_156
+# sent_translation = She can bargain , she is the best bargainer in Africa!
+# speaker = D_KAD_22@Sp1_63:Sophia Mamadu (Sp204)
+# text = she dey price o //= dey price for Africa //
+# timestamp = 1581882668.327497
+1	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	endali=263522|startali=263285
+2	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=263760|startali=263522
+3	price	price	VERB	_	_	2	comp:aux	_	endali=263998|startali=263760
+4	o	o	PART	_	PartType=Disc	3	mod:emph	_	endali=264235|startali=263998
+5	//=	//=	PUNCT	_	_	6	punct	_	endali=264235|startali=264235
+6	dey	dey	AUX	_	Aspect=Imp	2	parataxis:conj	_	endali=264472|startali=264235
+7	price	price	VERB	_	_	6	comp:aux	_	endali=264710|startali=264472
+8	for	for	ADP	_	_	7	comp:obl	_	endali=264948|startali=264710
+9	Africa	Africa	PROPN	_	_	8	comp	_	endali=265185|startali=264948
+10	//	//	PUNCT	_	_	2	punct	_	endali=265185|startali=265185
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_157
+# sent_translation = As if!
+# speaker = D_KAD_22@Sp2_094:Godwin Joy Elego (Sp205)
+# text = as in !//
+# timestamp = 1581882668.327501
+1	as	as	ADP	_	_	0	root	_	endali=266030|startali=265650
+2	in	in	ADP	_	_	1	fixed	_	endali=266410|startali=266030
+3	!//	!//	PUNCT	_	_	1	punct	_	endali=266410|startali=266410
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_158
+# sent_translation = Paying five hundred naira for a haircut!
+# speaker = D_KAD_22@Sp1_64:Sophia Mamadu (Sp204)
+# text = dey price hair five hundred !//
+# timestamp = 1581882668.327505
+1	dey	dey	AUX	_	Aspect=Imp	0	root	_	endali=266062|startali=265770
+2	price	price	VERB	_	_	1	comp:aux	_	endali=266355|startali=266062
+3	hair	hair	NOUN	_	_	2	comp:obj	_	endali=266647|startali=266355
+4	five	five	NUM	_	NumType=Card	5	compound	_	endali=266940|startali=266647
+5	hundred	hundred	NUM	_	NumType=Card	2	comp:pred	_	endali=267232|startali=266940
+6	!//	!//	PUNCT	_	_	1	punct	_	endali=267232|startali=267232
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_159
+# sent_translation = Can you imagine?
+# speaker = D_KAD_22@Sp1_65:Sophia Mamadu (Sp204)
+# text = can you imagine ?//
+# timestamp = 1581882668.32751
+1	can	can	AUX	_	_	0	root	_	endali=267441|startali=267232
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	endali=267650|startali=267441
+3	imagine	imagine	VERB	_	_	1	comp:aux	_	endali=267859|startali=267650
+4	?//	?//	PUNCT	_	_	1	punct	_	endali=267859|startali=267859
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_160
+# sent_translation = They say it is in Lagos , that under bridge , they do hairdressing for five hundred.
+# speaker = D_KAD_22@Sp1_66:Sophia Mamadu (Sp204)
+# text = de say [ na Lagos >+ sey [ under bridge < de dey do hair five hundred ] //
+# timestamp = 1581882668.327514
+1	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	subj	_	endali=268044|startali=267859
+2	say	say	VERB	_	_	0	root	_	endali=268229|startali=268044
+3	[	[	PUNCT	_	_	4	punct	_	endali=268229|startali=268229
+4	na	na	PART	_	PartType=Cop	2	parataxis:obj	_	endali=268414|startali=268229
+5	Lagos	Lagos	PROPN	_	_	4	comp:pred	_	endali=268599|startali=268414
+6	>+	>+	PUNCT	_	_	7	punct	_	endali=268599|startali=268599
+7	sey	sey	SCONJ	_	_	4	comp:cleft	_	endali=268784|startali=268599
+8	[	[	PUNCT	_	_	13	punct	_	endali=268784|startali=268784
+9	under	under	ADP	_	_	10	dep	_	endali=268969|startali=268784
+10	bridge	bridge	NOUN	_	_	13	dislocated	_	endali=269155|startali=268969
+11	<	<	PUNCT	_	_	10	punct	_	endali=269155|startali=269155
+12	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	subj	_	endali=269340|startali=269155
+13	dey	dey	AUX	_	Aspect=Imp	7	comp	_	endali=269525|startali=269340
+14	do	do	VERB	_	_	13	comp:aux	_	endali=269710|startali=269525
+15	hair	hair	NOUN	_	_	14	comp:obj	_	endali=269895|startali=269710
+16	five	five	NUM	_	NumType=Card	17	compound	_	endali=270080|startali=269895
+17	hundred	hundred	NUM	_	NumType=Card	14	comp:obj	_	endali=270265|startali=270080
+18	]	]	PUNCT	_	_	13	punct	_	endali=270265|startali=270265
+19	//	//	PUNCT	_	_	2	punct	_	endali=270265|startali=270265
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_161
+# sent_translation = Aha!
+# speaker = D_KAD_22@Sp2_095:Godwin Joy Elego (Sp205)
+# text = aha !//
+# timestamp = 1581882668.327519
+1	aha	aha	INTJ	_	_	0	root	_	endali=269215|startali=267875
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=269215|startali=269215
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_162
+# sent_translation = Can you imagine?
+# speaker = D_KAD_22@Sp2_096:Godwin Joy Elego (Sp205)
+# text = can you imagine ?//
+# timestamp = 1581882668.327525
+1	can	can	AUX	_	_	0	root	_	endali=271607|startali=271277
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	endali=271937|startali=271607
+3	imagine	imagine	VERB	_	_	1	comp:aux	_	endali=272267|startali=271937
+4	?//	?//	PUNCT	_	_	1	punct	_	endali=272267|startali=272267
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_163
+# sent_translation = Which kind of girls are those ones?
+# speaker = D_KAD_22@Sp1_67:Sophia Mamadu (Sp204)
+# text = which kain girls be dose ones ?//
+# timestamp = 1581882668.32753
+1	which	which	DET	_	PronType=Int	3	dep	_	endali=272433|startali=272210
+2	kain	kind	ADJ	_	_	3	dep	_	endali=272657|startali=272433
+3	girls	girls	NOUN	_	Number=Plur	0	root	_	endali=272880|startali=272657
+4	be	be	VERB	_	PartType=Cop	3	comp:cleft	_	endali=273103|startali=272880
+5	dose	dose	DET	_	Number=Plur|PronType=Dem	6	det	_	endali=273327|startali=273103
+6	ones	one	NOUN	_	Number=Plur	4	comp:pred	_	endali=273550|startali=273327
+7	?//	?//	PUNCT	_	_	3	punct	_	endali=273550|startali=273550
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_164
+# sent_translation = They are Jews.
+# speaker = D_KAD_22@Sp2_097:Godwin Joy Elego (Sp205)
+# text = na Jew girls //
+# timestamp = 1581882668.327535
+1	na	na	PART	_	PartType=Cop	0	root	_	endali=273950|startali=273565
+2	Jew	Jew	PROPN	_	_	3	dep	_	endali=274335|startali=273950
+3	girls	girl	NOUN	_	Number=Plur	1	comp:pred	_	endali=274720|startali=274335
+4	//	//	PUNCT	_	_	1	punct	_	endali=274720|startali=274720
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_165
+# sent_translation = Ah!
+# speaker = D_KAD_22@Sp1_68:Sophia Mamadu (Sp204)
+# text = ah !//
+# timestamp = 1581882668.32754
+1	ah	ah	INTJ	_	_	0	root	_	endali=275010|startali=274720
+2	!//	!//	PUNCT	_	_	1	punct	_	endali=275010|startali=275010
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_166
+# sent_translation = you know that those Jews , they are the ones who pretend they are Jews.
+# speaker = D_KAD_22@Sp2_098:Godwin Joy Elego (Sp205)
+# text = you know sey [ dose Jew girls < na im >+ de form sey dem be Jew girl ] //
+# timestamp = 1581882668.327545
+1	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	2	subj	_	endali=275355|startali=275220
+2	know	know	VERB	_	_	0	root	_	endali=275490|startali=275355
+3	sey	sey	SCONJ	_	_	2	comp:obj	_	endali=275625|startali=275490
+4	[	[	PUNCT	_	_	9	punct	_	endali=275625|startali=275625
+5	dose	dose	DET	_	Number=Plur|PronType=Dem	7	det	_	endali=275760|startali=275625
+6	Jew	Jew	PROPN	_	_	7	dep	_	endali=275895|startali=275760
+7	girls	girl	NOUN	_	Number=Plur	9	dislocated	_	endali=276030|startali=275895
+8	<	<	PUNCT	_	_	7	punct	_	endali=276030|startali=276030
+9	na	na	PART	_	PartType=Cop	3	comp	_	endali=276165|startali=276030
+10	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	comp:pred	_	endali=276300|startali=276165
+11	>+	>+	PUNCT	_	_	13	punct	_	endali=276300|startali=276300
+12	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	subj	_	endali=276435|startali=276300
+13	form	form	VERB	_	_	9	comp:cleft	_	endali=276570|startali=276435
+14	sey	sey	SCONJ	_	_	13	comp:obj	_	endali=276705|startali=276570
+15	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	subj	_	endali=276840|startali=276705
+16	be	be	VERB	_	PartType=Cop	14	comp	_	endali=276975|startali=276840
+17	Jew	Jew	PROPN	_	_	18	dep	_	endali=277110|startali=276975
+18	girl	girl	NOUN	_	_	16	comp:pred	_	endali=277245|startali=277110
+19	]	]	PUNCT	_	_	9	punct	_	endali=277245|startali=277245
+20	//	//	PUNCT	_	_	2	punct	_	endali=277245|startali=277245
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_167
+# sent_translation = Jew ?
+# speaker = D_KAD_22@Sp1_69:Sophia Mamadu (Sp204)
+# text = Jew ?//
+# timestamp = 1581882668.32755
+1	Jew	Jew	PROPN	_	_	0	root	_	endali=275910|startali=275225
+2	?//	?//	PUNCT	_	_	1	punct	_	endali=275910|startali=275910
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_168
+# sent_translation = They will pretend they are city girls so that you know , when they enter a big place like this , they will know that these are babes.
+# speaker = D_KAD_22@Sp2_099:Godwin Joy Elego (Sp205)
+# text = de go do like sey [ de be city girls ] so dat you know when dey enter big place like dis ba < dem go know sey [ ah na babe >+ be dis ] //
+# timestamp = 1581882668.327555
+1	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	subj	_	endali=277431|startali=277245
+2	go	go	AUX	_	Aspect=Prosp	0	root	_	endali=277616|startali=277431
+3	do	do	VERB	_	_	2	comp:aux	_	endali=277802|startali=277616
+4	like	like	ADP	_	_	3	comp:obl	_	endali=277987|startali=277802
+5	sey	sey	SCONJ	_	_	4	comp	_	endali=278173|startali=277987
+6	[	[	PUNCT	_	_	8	punct	_	endali=278173|startali=278173
+7	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	subj	_	endali=278358|startali=278173
+8	be	be	VERB	_	PartType=Cop	5	comp	_	endali=278544|startali=278358
+9	city	citie	NOUN	_	_	10	compound	_	endali=278729|startali=278544
+10	girls	girl	NOUN	_	Number=Plur	8	comp:pred	_	endali=278915|startali=278729
+11	]	]	PUNCT	_	_	8	punct	_	endali=278915|startali=278915
+12	so	so	SCONJ	_	_	3	mod	_	endali=279100|startali=278915
+13	dat	dat	SCONJ	_	_	12	fixed	_	endali=279286|startali=279100
+14	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	15	subj	_	endali=279471|startali=279286
+15	know	know	VERB	_	_	26	parataxis:discourse	_	endali=279657|startali=279471
+16	when	when	ADV	_	PronType=Int	26	mod:periph	_	endali=279842|startali=279657
+17	dey	dey	AUX	_	Aspect=Imp	16	comp	_	endali=280028|startali=279842
+18	enter	enter	VERB	_	_	17	comp:aux	_	endali=280214|startali=280028
+19	big	big	ADJ	_	_	20	dep	_	endali=280399|startali=280214
+20	place	place	NOUN	_	_	18	comp:obj	_	endali=280585|startali=280399
+21	like	like	ADP	_	_	18	mod	_	endali=280770|startali=280585
+22	dis	dis	DET	_	Number=Sing|PronType=Dem	23	det	_	endali=280956|startali=280770
+23	ba	ba	NOUN	_	_	21	comp	_	endali=281141|startali=280956
+24	<	<	PUNCT	_	_	16	punct	_	endali=281141|startali=281141
+25	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	subj	_	endali=281327|startali=281141
+26	go	go	AUX	_	Aspect=Prosp	12	comp	_	endali=281512|startali=281327
+27	know	know	VERB	_	_	26	comp:aux	_	endali=281698|startali=281512
+28	sey	sey	SCONJ	_	_	27	comp:obj	_	endali=281883|startali=281698
+29	[	[	PUNCT	_	_	31	punct	_	endali=281883|startali=281883
+30	ah	ah	INTJ	_	_	31	discourse	_	endali=282069|startali=281883
+31	na	na	PART	_	PartType=Cop	28	comp	_	endali=282254|startali=282069
+32	babe	babe	NOUN	_	_	31	comp:pred	_	endali=282440|startali=282254
+33	>+	>+	PUNCT	_	_	34	punct	_	endali=282440|startali=282440
+34	be	be	VERB	_	PartType=Cop	31	comp:cleft	_	endali=282625|startali=282440
+35	dis	dis	DET	_	Number=Sing|PronType=Dem	34	subj	_	endali=282811|startali=282625
+36	]	]	PUNCT	_	_	31	punct	_	endali=282811|startali=282811
+37	//	//	PUNCT	_	_	2	punct	_	endali=282811|startali=282811
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_169
+# sent_translation = They wont know that there have nothing inside.
+# speaker = D_KAD_22@Sp2_100:Godwin Joy Elego (Sp205)
+# text = dem no go know sey [ na noting >+ gum dem ] //
+# timestamp = 1581882668.32756
+1	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	subj	_	endali=282981|startali=282811
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=283151|startali=282981
+3	go	go	AUX	_	Aspect=Prosp	0	root	_	endali=283321|startali=283151
+4	know	know	VERB	_	_	3	comp:aux	_	endali=283491|startali=283321
+5	sey	sey	SCONJ	_	_	4	comp:obj	_	endali=283660|startali=283491
+6	[	[	PUNCT	_	_	7	punct	_	endali=283660|startali=283660
+7	na	na	PART	_	PartType=Cop	5	comp	_	endali=283830|startali=283660
+8	noting	noting	PRON	_	_	7	comp:pred	_	endali=284000|startali=283830
+9	>+	>+	PUNCT	_	_	10	punct	_	endali=284000|startali=284000
+10	gum	gum	VERB	_	_	7	comp:cleft	_	endali=284170|startali=284000
+11	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	comp:obj	_	endali=284340|startali=284170
+12	]	]	PUNCT	_	_	7	punct	_	endali=284340|startali=284340
+13	//	//	PUNCT	_	_	3	punct	_	endali=284340|startali=284340
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_170
+# sent_translation = Sapai does not gum them.
+# speaker = D_KAD_22@Sp2_101:Godwin Joy Elego (Sp205)
+# text = sapain no gum dem //
+# timestamp = 1581882668.327565
+1	sapain	sapain	NOUN	_	_	3	subj	_	endali=284706|startali=284340
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=285072|startali=284706
+3	gum	gum	VERB	_	_	0	root	_	endali=285439|startali=285072
+4	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	endali=285805|startali=285439
+5	//	//	PUNCT	_	_	3	punct	_	endali=285805|startali=285805
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_171
+# sent_translation = One naira does not gum deir buttocks like this!
+# speaker = D_KAD_22@Sp1_70:Sophia Mamadu (Sp204)
+# text = one naira no gum deir yansh like dis !//
+# timestamp = 1581882668.32757
+1	one	one	DET	_	Definite=Spec|PronType=Art	2	det	_	endali=286416|startali=286130
+2	naira	naira	NOUN	_	_	4	subj	_	endali=286702|startali=286416
+3	no	no	PART	_	Polarity=Neg	4	mod	_	endali=286989|startali=286702
+4	gum	gum	VERB	_	_	0	root	_	endali=287275|startali=286989
+5	deir	deir	ADJ	_	Number=Plur|Person=3|Poss=Yes	6	dep	_	endali=287561|startali=287275
+6	yansh	yansh	NOUN	_	_	4	comp:obj	_	endali=287848|startali=287561
+7	like	like	ADP	_	_	4	mod	_	endali=288134|startali=287848
+8	dis	dis	DET	_	Number=Sing|PronType=Dem	7	comp	_	endali=288420|startali=288134
+9	!//	!//	PUNCT	_	_	4	punct	_	endali=288420|startali=288420
+
+
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_172
+# sent_translation = Mstchew Hm!
+# speaker = D_KAD_22@Sp2_102:Godwin Joy Elego (Sp205)
+# text = mstchew hm !//
+# timestamp = 1581882668.327575
+1	mstchew	mstchew	INTJ	_	_	0	root	_	endali=287320|startali=286160
+2	hm	hm	INTJ	_	_	1	discourse	_	endali=288480|startali=287320
+3	!//	!//	PUNCT	_	_	1	punct	_	endali=288480|startali=288480
